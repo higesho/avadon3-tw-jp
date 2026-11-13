@@ -1,0 +1,4367 @@
+[
+{
+"en": "Avadon",
+"ja": "アヴァドン",
+"keep": true
+},
+{
+"en": "Pact",
+"ja": "盟約",
+"keep": true
+},
+{
+"en": "Redbeard",
+"ja": "赤髭",
+"keep": true
+},
+{
+"en": "Hand",
+"ja": "ハンド",
+"keep": true
+},
+{
+"en": "Hands",
+"ja": "ハンド",
+"keep": true
+},
+{
+"en": "Dheless",
+"ja": "デレス",
+"keep": true
+},
+{
+"en": "Keeper",
+"ja": "番人",
+"keep": true
+},
+{
+"en": "Wyldrylm",
+"ja": "ワイルドリルム",
+"keep": true
+},
+{
+"en": "Tawon",
+"ja": "タウォン",
+"keep": true
+},
+{
+"en": "Farlands",
+"ja": "ファーランド",
+"keep": true
+},
+{
+"en": "Corruption",
+"ja": "堕落",
+"keep": true
+},
+{
+"en": "Hand of Avadon",
+"ja": "アヴァドンのハンド",
+"keep": true
+},
+{
+"en": "Khemeria",
+"ja": "ケメリア",
+"keep": true
+},
+{
+"en": "Black Fortress",
+"ja": "黒の要塞",
+"keep": true
+},
+{
+"en": "Hanvar's Council",
+"ja": "ハンヴァーの評議会",
+"keep": true
+},
+{
+"en": "Khemerians",
+"ja": "ケメリア人",
+"keep": true
+},
+{
+"en": "Farlanders",
+"ja": "ファーランド人",
+"keep": true
+},
+{
+"en": "Kellem",
+"ja": "ケレム",
+"keep": true
+},
+{
+"en": "Lynaeus",
+"ja": "リネウス",
+"keep": true
+},
+{
+"en": "Goldcrag",
+"ja": "ゴールドクラッグ",
+"keep": true
+},
+{
+"en": "Level",
+"ja": "レベル",
+"keep": true
+},
+{
+"en": "Eyes",
+"ja": "アイ",
+"keep": true
+},
+{
+"en": "Khemerian",
+"ja": "ケメリア人",
+"keep": true
+},
+{
+"en": "Dharam",
+"ja": "ダーラム",
+"keep": true
+},
+{
+"en": "Miranda",
+"ja": "ミランダ",
+"keep": true
+},
+{
+"en": "Council",
+"ja": "評議会",
+"keep": true
+},
+{
+"en": "Eye",
+"ja": "アイ",
+"keep": true
+},
+{
+"en": "Kellemderiel",
+"ja": "ケレムデリエル",
+"keep": true
+},
+{
+"en": "Nathalie",
+"ja": "ナタリー",
+"keep": true
+},
+{
+"en": "Beraza Woods",
+"ja": "ベラザの森",
+"keep": true
+},
+{
+"en": "Stead",
+"ja": "集落",
+"keep": true
+},
+{
+"en": "Farlander",
+"ja": "ファーランド人",
+"keep": true
+},
+{
+"en": "Gryfyn",
+"ja": "グリフィン",
+"keep": true
+},
+{
+"en": "Zhethron",
+"ja": "ジェスロン",
+"keep": true
+},
+{
+"en": "Callan",
+"ja": "カラン",
+"keep": true
+},
+{
+"en": "Tawon Empire",
+"ja": "タウォン帝国",
+"keep": true
+},
+{
+"en": "Holklandans",
+"ja": "ホルクランダ人",
+"keep": true
+},
+{
+"en": "Holklanda",
+"ja": "ホルクランダ",
+"keep": true
+},
+{
+"en": "Holklandan",
+"ja": "ホルクランダ人",
+"keep": true
+},
+{
+"en": "Nicodemus",
+"ja": "ニコデムス",
+"keep": true
+},
+{
+"en": "Keeper of Avadon",
+"ja": "アヴァドンの番人",
+"keep": true
+},
+{
+"en": "Heart",
+"ja": "ハート",
+"keep": true
+},
+{
+"en": "Stone Code",
+"ja": "石の掟",
+"keep": true
+},
+{
+"en": "Svarl",
+"ja": "スヴァル",
+"keep": true
+},
+{
+"en": "Svorgald",
+"ja": "スヴォルガルド",
+"keep": true
+},
+{
+"en": "Hearts",
+"ja": "ハート",
+"keep": true
+},
+{
+"en": "Door",
+"ja": "扉",
+"keep": true
+},
+{
+"en": "Black Age",
+"ja": "黒の時代",
+"keep": true
+},
+{
+"en": "Dharamite",
+"ja": "ダーラム人",
+"keep": true
+},
+{
+"en": "Hands of Avadon",
+"ja": "アヴァドンのハンド",
+"keep": true
+},
+{
+"en": "Dharamites",
+"ja": "ダーラム人",
+"keep": true
+},
+{
+"en": "High Lord Deathskull",
+"ja": "大領主デスカル",
+"keep": true
+},
+{
+"en": "Kva",
+"ja": "クヴァ",
+"keep": true
+},
+{
+"en": "Torch",
+"ja": "松明",
+"keep": true
+},
+{
+"en": "Zaren",
+"ja": "ザレン",
+"keep": true
+},
+{
+"en": "Mamora",
+"ja": "マモラ",
+"keep": true
+},
+{
+"en": "Steads",
+"ja": "集落",
+"keep": true
+},
+{
+"en": "Arilda",
+"ja": "アリルダ",
+"keep": true
+},
+{
+"en": "Cycle",
+"ja": "周期",
+"keep": true
+},
+{
+"en": "Eye of Avadon",
+"ja": "アヴァドンのアイ",
+"keep": true
+},
+{
+"en": "Training",
+"ja": "訓練",
+"keep": true
+},
+{
+"en": "Charon",
+"ja": "カロン",
+"keep": true
+},
+{
+"en": "Control",
+"ja": "Ctrl",
+"keep": true
+},
+{
+"en": "Midlands Pact",
+"ja": "ミッドランド盟約",
+"keep": true
+},
+{
+"en": "Theresia",
+"ja": "テレシア",
+"keep": true
+},
+{
+"en": "Wretch Lands",
+"ja": "蛮人の地",
+"keep": true
+},
+{
+"en": "Hahn",
+"ja": "ハーン",
+"keep": true
+},
+{
+"en": "Hall",
+"ja": "広間",
+"keep": true
+},
+{
+"en": "Heart Miranda",
+"ja": "ハートのミランダ",
+"keep": true
+},
+{
+"en": "Quick Use",
+"ja": "クイック使用",
+"keep": true
+},
+{
+"en": "Box",
+"ja": "箱",
+"keep": true
+},
+{
+"en": "Free Road",
+"ja": "自由街道",
+"keep": true
+},
+{
+"en": "Heart of Avadon",
+"ja": "アヴァドンのハート",
+"keep": true
+},
+{
+"en": "Arms Within",
+"ja": "内なる抱擁",
+"keep": true
+},
+{
+"en": "Keepers",
+"ja": "番人",
+"keep": true
+},
+{
+"en": "Key",
+"ja": "鍵",
+"keep": true
+},
+{
+"en": "Levent",
+"ja": "レヴェント",
+"keep": true
+},
+{
+"en": "Code",
+"ja": "掟",
+"keep": true
+},
+{
+"en": "Focus",
+"ja": "集中",
+"keep": true
+},
+{
+"en": "Mastery",
+"ja": "極意",
+"keep": true
+},
+{
+"en": "Dexterity",
+"ja": "器用さ",
+"keep": true
+},
+{
+"en": "Haste",
+"ja": "加速",
+"keep": true
+},
+{
+"en": "Shield",
+"ja": "盾",
+"keep": true
+},
+{
+"en": "Speaker",
+"ja": "代表",
+"keep": true
+},
+{
+"en": "Wyldrylm Warrior",
+"ja": "ワイルドリルム戦士",
+"keep": true
+},
+{
+"en": "Blow",
+"ja": "一撃",
+"keep": true
+},
+{
+"en": "Brasula",
+"ja": "ブラスラ",
+"keep": true
+},
+{
+"en": "Discipline",
+"ja": "鍛錬",
+"keep": true
+},
+{
+"en": "Eyes of Avadon",
+"ja": "アヴァドンのアイ",
+"keep": true
+},
+{
+"en": "Folk",
+"ja": "民",
+"keep": true
+},
+{
+"en": "Overseer",
+"ja": "監督官",
+"keep": true
+},
+{
+"en": "Overseer Levent",
+"ja": "レヴェント監督官",
+"keep": true
+},
+{
+"en": "Redbeard's Tower",
+"ja": "赤髭の塔",
+"keep": true
+},
+{
+"en": "Chant",
+"ja": "詠唱",
+"keep": true
+},
+{
+"en": "Combat",
+"ja": "戦闘",
+"keep": true
+},
+{
+"en": "Curse",
+"ja": "呪い",
+"keep": true
+},
+{
+"en": "Endurance",
+"ja": "持久力",
+"keep": true
+},
+{
+"en": "Eye Mamora",
+"ja": "アイのマモラ",
+"keep": true
+},
+{
+"en": "Intelligence",
+"ja": "知力",
+"keep": true
+},
+{
+"en": "Lamp",
+"ja": "ランプ",
+"keep": true
+},
+{
+"en": "Lever",
+"ja": "レバー",
+"keep": true
+},
+{
+"en": "Liese",
+"ja": "リーゼ",
+"keep": true
+},
+{
+"en": "Shadowwalker",
+"ja": "影歩き",
+"keep": true
+},
+{
+"en": "Shaman",
+"ja": "呪術師",
+"keep": true
+},
+{
+"en": "Shift",
+"ja": "Shift",
+"keep": true
+},
+{
+"en": "Trap",
+"ja": "罠",
+"keep": true
+},
+{
+"en": "Avadon Dungeons",
+"ja": "アヴァドンの地下牢",
+"keep": true
+},
+{
+"en": "Battle Frenzy",
+"ja": "戦闘狂乱",
+"keep": true
+},
+{
+"en": "Bench",
+"ja": "ベンチ",
+"keep": true
+},
+{
+"en": "Commander",
+"ja": "司令官",
+"keep": true
+},
+{
+"en": "Escape",
+"ja": "Esc",
+"keep": true
+},
+{
+"en": "Journal",
+"ja": "日誌",
+"keep": true
+},
+{
+"en": "Load Game",
+"ja": "ゲームをロード",
+"keep": true
+},
+{
+"en": "Rance",
+"ja": "ランス",
+"keep": true
+},
+{
+"en": "Recovery",
+"ja": "回復",
+"keep": true
+},
+{
+"en": "Shade",
+"ja": "亡霊",
+"keep": true
+},
+{
+"en": "Stairs",
+"ja": "階段",
+"keep": true
+},
+{
+"en": "Tab",
+"ja": "Tab",
+"keep": true
+},
+{
+"en": "Titan Peaks",
+"ja": "タイタンの峰",
+"keep": true
+},
+{
+"en": "War Chant",
+"ja": "戦いの詠唱",
+"keep": true
+},
+{
+"en": "Wheel",
+"ja": "車輪",
+"keep": true
+},
+{
+"en": "Wind",
+"ja": "風",
+"keep": true
+},
+{
+"en": "Acid",
+"ja": "酸",
+"keep": true
+},
+{
+"en": "Blade",
+"ja": "十人隊",
+"keep": true
+},
+{
+"en": "Blademaster",
+"ja": "剣士",
+"keep": true
+},
+{
+"en": "Blessing",
+"ja": "加護",
+"keep": true
+},
+{
+"en": "Characters",
+"ja": "キャラクター",
+"keep": true
+},
+{
+"en": "Charm",
+"ja": "お守り",
+"keep": true
+},
+{
+"en": "Claw",
+"ja": "鉤爪",
+"keep": true
+},
+{
+"en": "Cloud of Confusion",
+"ja": "混乱の雲",
+"keep": true
+},
+{
+"en": "Duke Gryfyn",
+"ja": "グリフィン公",
+"keep": true
+},
+{
+"en": "Envoy Brasula",
+"ja": "使節のブラスラ",
+"keep": true
+},
+{
+"en": "Experimental Wolf",
+"ja": "実験体の狼",
+"keep": true
+},
+{
+"en": "First Age",
+"ja": "第一の時代",
+"keep": true
+},
+{
+"en": "Frenzied Rat",
+"ja": "狂乱のネズミ",
+"keep": true
+},
+{
+"en": "Game",
+"ja": "ゲーム",
+"keep": true
+},
+{
+"en": "Keeper Redbeard",
+"ja": "番人の赤髭",
+"keep": true
+},
+{
+"en": "Keepers of Avadon",
+"ja": "アヴァドンの番人",
+"keep": true
+},
+{
+"en": "Kellem Warrior",
+"ja": "ケレムの戦士",
+"keep": true
+},
+{
+"en": "Meat",
+"ja": "肉",
+"keep": true
+},
+{
+"en": "Melee Attack",
+"ja": "近接攻撃",
+"keep": true
+},
+{
+"en": "Polus",
+"ja": "ポルス",
+"keep": true
+},
+{
+"en": "Pot",
+"ja": "壺",
+"keep": true
+},
+{
+"en": "Quennel",
+"ja": "クエネル",
+"keep": true
+},
+{
+"en": "Redbeard's Guard",
+"ja": "赤髭の衛兵",
+"keep": true
+},
+{
+"en": "Reflection",
+"ja": "反射",
+"keep": true
+},
+{
+"en": "Salamander",
+"ja": "サラマンダー",
+"keep": true
+},
+{
+"en": "Save Game",
+"ja": "セーブ",
+"keep": true
+},
+{
+"en": "Settings",
+"ja": "設定",
+"keep": true
+},
+{
+"en": "Shadowwalker Novice",
+"ja": "見習い影歩き",
+"keep": true
+},
+{
+"en": "Skeletal Flinger",
+"ja": "骸骨の投擲兵",
+"keep": true
+},
+{
+"en": "Smith Duman",
+"ja": "鍛冶屋のドゥマン",
+"keep": true
+},
+{
+"en": "Stone Wall Beyond",
+"ja": "石壁の向こう",
+"keep": true
+},
+{
+"en": "Strength",
+"ja": "筋力",
+"keep": true
+},
+{
+"en": "Third Age",
+"ja": "第三の時代",
+"keep": true
+},
+{
+"en": "Torment",
+"ja": "トーメント",
+"keep": true
+},
+{
+"en": "Trash",
+"ja": "ガラクタ",
+"keep": true
+},
+{
+"en": "Vase",
+"ja": "花瓶",
+"keep": true
+},
+{
+"en": "Vitality",
+"ja": "活力",
+"keep": true
+},
+{
+"en": "War Curse",
+"ja": "戦いの呪い",
+"keep": true
+},
+{
+"en": "Watcher",
+"ja": "十人長",
+"keep": true
+},
+{
+"en": "Weakness Curse",
+"ja": "衰弱の呪い",
+"keep": true
+},
+{
+"en": "Wolf",
+"ja": "狼",
+"keep": true
+},
+{
+"en": "Woods Widow",
+"ja": "森のゴケグモ",
+"keep": true
+},
+{
+"en": "Action Buttons",
+"ja": "アクションボタン",
+"keep": true
+},
+{
+"en": "Alchemical Equipment",
+"ja": "錬金器具",
+"keep": true
+},
+{
+"en": "Amphora",
+"ja": "アンフォラ",
+"keep": true
+},
+{
+"en": "Anvil",
+"ja": "金床",
+"keep": true
+},
+{
+"en": "Arcane Blessing",
+"ja": "秘術の加護",
+"keep": true
+},
+{
+"en": "Arcane Curse",
+"ja": "秘術の呪い",
+"keep": true
+},
+{
+"en": "Armor",
+"ja": "防御力",
+"keep": true
+},
+{
+"en": "Assassin",
+"ja": "暗殺者",
+"keep": true
+},
+{
+"en": "Assault Blessing",
+"ja": "突撃の加護",
+"keep": true
+},
+{
+"en": "Avadon Symbol",
+"ja": "アヴァドンの印章",
+"keep": true
+},
+{
+"en": "Bands",
+"ja": "部族",
+"keep": true
+},
+{
+"en": "Barrel",
+"ja": "樽",
+"keep": true
+},
+{
+"en": "Beraza",
+"ja": "ベラザ",
+"keep": true
+},
+{
+"en": "Berserk Leap",
+"ja": "狂戦士の跳躍",
+"keep": true
+},
+{
+"en": "Berserker",
+"ja": "狂戦士",
+"keep": true
+},
+{
+"en": "Berserker Slash",
+"ja": "狂戦士斬り",
+"keep": true
+},
+{
+"en": "Beta Testing",
+"ja": "ベータテスト",
+"keep": true
+},
+{
+"en": "Blade Sweep",
+"ja": "刃の薙ぎ払い",
+"keep": true
+},
+{
+"en": "Blade Training",
+"ja": "刃の訓練",
+"keep": true
+},
+{
+"en": "Blade Whirlwind",
+"ja": "刃の旋風",
+"keep": true
+},
+{
+"en": "Bladeshield",
+"ja": "刃の盾",
+"keep": true
+},
+{
+"en": "Blessing of Thorns",
+"ja": "茨の加護",
+"keep": true
+},
+{
+"en": "Bow",
+"ja": "弓術",
+"keep": true
+},
+{
+"en": "Brazier",
+"ja": "火鉢",
+"keep": true
+},
+{
+"en": "Broken Clay",
+"ja": "割れた粘土",
+"keep": true
+},
+{
+"en": "Call Drake",
+"ja": "ドレイク召喚",
+"keep": true
+},
+{
+"en": "Call Hellhound",
+"ja": "地獄犬召喚",
+"keep": true
+},
+{
+"en": "Call Rat",
+"ja": "ネズミ召喚",
+"keep": true
+},
+{
+"en": "Call Salamander",
+"ja": "サラマンダー召喚",
+"keep": true
+},
+{
+"en": "Call Wolf",
+"ja": "狼召喚",
+"keep": true
+},
+{
+"en": "Call of the Frenzy",
+"ja": "狂乱の呼び声",
+"keep": true
+},
+{
+"en": "Call the Storm",
+"ja": "嵐を呼ぶ",
+"keep": true
+},
+{
+"en": "Call the Winds",
+"ja": "風を呼ぶ",
+"keep": true
+},
+{
+"en": "Cauldron",
+"ja": "大釜",
+"keep": true
+},
+{
+"en": "Challenge",
+"ja": "挑発",
+"keep": true
+},
+{
+"en": "Chambers",
+"ja": "私室",
+"keep": true
+},
+{
+"en": "Character",
+"ja": "キャラクター",
+"keep": true
+},
+{
+"en": "Character Info",
+"ja": "キャラクター情報",
+"keep": true
+},
+{
+"en": "Charm Foe",
+"ja": "敵を魅了",
+"keep": true
+},
+{
+"en": "Confusion",
+"ja": "混乱",
+"keep": true
+},
+{
+"en": "Corrupted Dead",
+"ja": "堕落した亡者",
+"keep": true
+},
+{
+"en": "Corrupting Cloud",
+"ja": "堕落の雲",
+"keep": true
+},
+{
+"en": "Crossed Axes",
+"ja": "交差した斧",
+"keep": true
+},
+{
+"en": "Crossed Swords",
+"ja": "交差した剣",
+"keep": true
+},
+{
+"en": "Crumbling Construct",
+"ja": "崩れかけのゴーレム",
+"keep": true
+},
+{
+"en": "Cry",
+"ja": "叫び",
+"keep": true
+},
+{
+"en": "Cunning Decoy",
+"ja": "狡猾な囮",
+"keep": true
+},
+{
+"en": "Dagger",
+"ja": "短剣",
+"keep": true
+},
+{
+"en": "Dark Assassin",
+"ja": "闇の暗殺者",
+"keep": true
+},
+{
+"en": "Daze",
+"ja": "朦朧",
+"keep": true
+},
+{
+"en": "Disarming Blow",
+"ja": "武装解除の一撃",
+"keep": true
+},
+{
+"en": "Dungeon Eye",
+"ja": "地下牢の目玉",
+"keep": true
+},
+{
+"en": "Dungeon Guard",
+"ja": "地下牢の衛兵",
+"keep": true
+},
+{
+"en": "Earthquake",
+"ja": "地震",
+"keep": true
+},
+{
+"en": "Earthshatter",
+"ja": "大地砕き",
+"keep": true
+},
+{
+"en": "Effects",
+"ja": "効果",
+"keep": true
+},
+{
+"en": "Empire",
+"ja": "帝国",
+"keep": true
+},
+{
+"en": "Firebolt",
+"ja": "火炎弾",
+"keep": true
+},
+{
+"en": "Firestorm",
+"ja": "火嵐",
+"keep": true
+},
+{
+"en": "Flash Powder",
+"ja": "閃光粉",
+"keep": true
+},
+{
+"en": "Gable",
+"ja": "ゲーブル",
+"keep": true
+},
+{
+"en": "Ghost",
+"ja": "ゴースト",
+"keep": true
+},
+{
+"en": "Gooey Bones",
+"ja": "ねばつく骸骨",
+"keep": true
+},
+{
+"en": "Group Heal",
+"ja": "集団治癒",
+"keep": true
+},
+{
+"en": "Hamstring",
+"ja": "腱切り",
+"keep": true
+},
+{
+"en": "Hanvar",
+"ja": "ハンヴァー",
+"keep": true
+},
+{
+"en": "Hasted",
+"ja": "加速",
+"keep": true
+},
+{
+"en": "Healing Chant",
+"ja": "癒やしの詠唱",
+"keep": true
+},
+{
+"en": "Healing Focus",
+"ja": "治癒の集中",
+"keep": true
+},
+{
+"en": "Healing Touch",
+"ja": "治癒の手",
+"keep": true
+},
+{
+"en": "Holklandan Warrior",
+"ja": "ホルクランダ戦士",
+"keep": true
+},
+{
+"en": "Ice Storm",
+"ja": "氷嵐",
+"keep": true
+},
+{
+"en": "Icy Lance",
+"ja": "氷のランス",
+"keep": true
+},
+{
+"en": "Imperator",
+"ja": "統領",
+"keep": true
+},
+{
+"en": "Info Window",
+"ja": "情報ウィンドウ",
+"keep": true
+},
+{
+"en": "Items",
+"ja": "アイテム",
+"keep": true
+},
+{
+"en": "Junk Bag",
+"ja": "雑品袋",
+"keep": true
+},
+{
+"en": "Lightning Wind",
+"ja": "雷風",
+"keep": true
+},
+{
+"en": "Locksmith",
+"ja": "解錠術",
+"keep": true
+},
+{
+"en": "Lord Svarl",
+"ja": "スヴァル卿",
+"keep": true
+},
+{
+"en": "Mallet",
+"ja": "木槌",
+"keep": true
+},
+{
+"en": "Many Guises",
+"ja": "変幻自在",
+"keep": true
+},
+{
+"en": "Master",
+"ja": "主",
+"keep": true
+},
+{
+"en": "Mist",
+"ja": "霧",
+"keep": true
+},
+{
+"en": "Nest",
+"ja": "巣",
+"keep": true
+},
+{
+"en": "Okan",
+"ja": "オーカン",
+"keep": true
+},
+{
+"en": "Outsiders",
+"ja": "余所者",
+"keep": true
+},
+{
+"en": "Plant",
+"ja": "植物",
+"keep": true
+},
+{
+"en": "Poison",
+"ja": "毒",
+"keep": true
+},
+{
+"en": "Poison Mist",
+"ja": "毒霧",
+"keep": true
+},
+{
+"en": "Potion of Health",
+"ja": "生命の薬",
+"keep": true
+},
+{
+"en": "Potted Plant",
+"ja": "鉢植え",
+"keep": true
+},
+{
+"en": "Powder",
+"ja": "粉",
+"keep": true
+},
+{
+"en": "Power Surge",
+"ja": "力の奔流",
+"keep": true
+},
+{
+"en": "Quicksave",
+"ja": "クイックセーブ",
+"keep": true
+},
+{
+"en": "Rabid Rat",
+"ja": "狂暴なネズミ",
+"keep": true
+},
+{
+"en": "Razor Spray",
+"ja": "剃刀の噴霧",
+"keep": true
+},
+{
+"en": "Razordisk",
+"ja": "円月刃",
+"keep": true
+},
+{
+"en": "Resurrection",
+"ja": "復活",
+"keep": true
+},
+{
+"en": "Roar",
+"ja": "咆哮",
+"keep": true
+},
+{
+"en": "Sarcophagus",
+"ja": "石棺",
+"keep": true
+},
+{
+"en": "Scales",
+"ja": "鱗",
+"keep": true
+},
+{
+"en": "Searing Pot",
+"ja": "灼熱の壺",
+"keep": true
+},
+{
+"en": "Searing Spray",
+"ja": "灼熱の噴霧",
+"keep": true
+},
+{
+"en": "Second Wind",
+"ja": "第二の風",
+"keep": true
+},
+{
+"en": "Secret Door",
+"ja": "隠し扉",
+"keep": true
+},
+{
+"en": "Shadowstep",
+"ja": "影歩き",
+"keep": true
+},
+{
+"en": "Shadowwalker's Focus",
+"ja": "影歩きの集中",
+"keep": true
+},
+{
+"en": "Sharpshooter Spray",
+"ja": "狙撃の噴霧",
+"keep": true
+},
+{
+"en": "Shattering Blow",
+"ja": "粉砕の一撃",
+"keep": true
+},
+{
+"en": "Shelves",
+"ja": "棚",
+"keep": true
+},
+{
+"en": "Slow",
+"ja": "鈍足",
+"keep": true
+},
+{
+"en": "Soldier",
+"ja": "兵士",
+"keep": true
+},
+{
+"en": "Sorceress",
+"ja": "妖術師",
+"keep": true
+},
+{
+"en": "Spirit Charge",
+"ja": "霊の突撃",
+"keep": true
+},
+{
+"en": "Spirit Claw",
+"ja": "霊の爪",
+"keep": true
+},
+{
+"en": "Spoon",
+"ja": "スプーン",
+"keep": true
+},
+{
+"en": "Spray",
+"ja": "噴霧",
+"keep": true
+},
+{
+"en": "Start New Game",
+"ja": "新規ゲーム開始",
+"keep": true
+},
+{
+"en": "Steel Tornado",
+"ja": "鋼の竜巻",
+"keep": true
+},
+{
+"en": "Steel Wind",
+"ja": "鋼の風",
+"keep": true
+},
+{
+"en": "Storm",
+"ja": "嵐",
+"keep": true
+},
+{
+"en": "Stunning Bash",
+"ja": "気絶の殴打",
+"keep": true
+},
+{
+"en": "Stunning Powder",
+"ja": "気絶の粉",
+"keep": true
+},
+{
+"en": "Sweep",
+"ja": "薙ぎ払い",
+"keep": true
+},
+{
+"en": "Switch",
+"ja": "スイッチ",
+"keep": true
+},
+{
+"en": "Telera",
+"ja": "テレラ",
+"keep": true
+},
+{
+"en": "Terrifying Howl",
+"ja": "恐怖の咆哮",
+"keep": true
+},
+{
+"en": "Thorns",
+"ja": "棘",
+"keep": true
+},
+{
+"en": "Thug",
+"ja": "荒くれ者",
+"keep": true
+},
+{
+"en": "Titan",
+"ja": "タイタン",
+"keep": true
+},
+{
+"en": "Touch",
+"ja": "手",
+"keep": true
+},
+{
+"en": "Tower",
+"ja": "塔",
+"keep": true
+},
+{
+"en": "Triumphant Roar",
+"ja": "勝利の咆哮",
+"keep": true
+},
+{
+"en": "Unlock Charm",
+"ja": "解錠の呪文",
+"keep": true
+},
+{
+"en": "Use Ability",
+"ja": "能力使用",
+"keep": true
+},
+{
+"en": "Vapor Rat",
+"ja": "霧ネズミ",
+"keep": true
+},
+{
+"en": "War Cry",
+"ja": "戦いの雄叫び",
+"keep": true
+},
+{
+"en": "Warrior",
+"ja": "戦士",
+"keep": true
+},
+{
+"en": "Warrior's Focus",
+"ja": "戦士の集中",
+"keep": true
+},
+{
+"en": "Watchwolf",
+"ja": "見張り狼",
+"keep": true
+},
+{
+"en": "Webs",
+"ja": "蜘蛛の巣",
+"keep": true
+},
+{
+"en": "Winds",
+"ja": "風",
+"keep": true
+},
+{
+"en": "Wretch",
+"ja": "蛮人",
+"keep": true
+},
+{
+"en": "Alchemist Basin",
+"ja": "錬金術の水盤",
+"keep": true
+},
+{
+"en": "Ale",
+"ja": "エール",
+"keep": true
+},
+{
+"en": "Altered Wolf",
+"ja": "変異した狼",
+"keep": true
+},
+{
+"en": "Amethyst Scarab",
+"ja": "紫水晶の甲虫",
+"keep": true
+},
+{
+"en": "Animal Skin",
+"ja": "獣の皮",
+"keep": true
+},
+{
+"en": "Apprentice",
+"ja": "見習い",
+"keep": true
+},
+{
+"en": "Apprentice Rod",
+"ja": "見習いのロッド",
+"keep": true
+},
+{
+"en": "Arcane Scroll",
+"ja": "秘術の巻物",
+"keep": true
+},
+{
+"en": "Archer's Gloves",
+"ja": "弓兵の手袋",
+"keep": true
+},
+{
+"en": "Archery Training",
+"ja": "弓術の訓練",
+"keep": true
+},
+{
+"en": "Armor Stand",
+"ja": "鎧掛け",
+"keep": true
+},
+{
+"en": "Assassin's Dirk",
+"ja": "暗殺者の短剣",
+"keep": true
+},
+{
+"en": "Assault Crystal",
+"ja": "突撃の水晶",
+"keep": true
+},
+{
+"en": "Augmented Rat",
+"ja": "強化ネズミ",
+"keep": true
+},
+{
+"en": "Avadon Guard",
+"ja": "アヴァドンの衛兵",
+"keep": true
+},
+{
+"en": "Avenger's Greaves",
+"ja": "復讐者のすね当て",
+"keep": true
+},
+{
+"en": "Bag of Meal",
+"ja": "食料袋",
+"keep": true
+},
+{
+"en": "Bags of Meal",
+"ja": "食料袋",
+"keep": true
+},
+{
+"en": "Bandages",
+"ja": "包帯",
+"keep": true
+},
+{
+"en": "Bar of Iron",
+"ja": "鉄の延べ棒",
+"keep": true
+},
+{
+"en": "Barbed Trident",
+"ja": "返しつきの三叉槍",
+"keep": true
+},
+{
+"en": "Basilisk",
+"ja": "バジリスク",
+"keep": true
+},
+{
+"en": "Basilisk Gaze",
+"ja": "バジリスクの視線",
+"keep": true
+},
+{
+"en": "Basin",
+"ja": "水盤",
+"keep": true
+},
+{
+"en": "Basket",
+"ja": "かご",
+"keep": true
+},
+{
+"en": "Battle Blessing",
+"ja": "戦いの加護",
+"keep": true
+},
+{
+"en": "Battle Brew",
+"ja": "戦闘薬",
+"keep": true
+},
+{
+"en": "Battle Runestone",
+"ja": "戦いのルーン石",
+"keep": true
+},
+{
+"en": "Beast Focus",
+"ja": "獣の集中",
+"keep": true
+},
+{
+"en": "Beastmaster's Jerkin",
+"ja": "獣使いの胴着",
+"keep": true
+},
+{
+"en": "Belda's Greaves",
+"ja": "ベルダのすね当て",
+"keep": true
+},
+{
+"en": "Belt of Battle",
+"ja": "戦闘のベルト",
+"keep": true
+},
+{
+"en": "Big Club",
+"ja": "大棍棒",
+"keep": true
+},
+{
+"en": "Bite",
+"ja": "噛みつき",
+"keep": true
+},
+{
+"en": "Biting Frenzy",
+"ja": "噛みつきの狂乱",
+"keep": true
+},
+{
+"en": "Black Birch Staff",
+"ja": "黒樺の杖",
+"keep": true
+},
+{
+"en": "Black Oak Bow",
+"ja": "黒オークの弓",
+"keep": true
+},
+{
+"en": "Black Pot",
+"ja": "黒の壺",
+"keep": true
+},
+{
+"en": "Blade Shield",
+"ja": "刃の盾",
+"keep": true
+},
+{
+"en": "Blademaster Novice",
+"ja": "見習い剣士",
+"keep": true
+},
+{
+"en": "Blademaster's Bulwark",
+"ja": "剣士の防壁",
+"keep": true
+},
+{
+"en": "Blademaster's Steel",
+"ja": "剣士の鋼",
+"keep": true
+},
+{
+"en": "Blanket",
+"ja": "毛布",
+"keep": true
+},
+{
+"en": "Blessed Runestone",
+"ja": "祝福のルーン石",
+"keep": true
+},
+{
+"en": "Blessed Sandals",
+"ja": "祝福のサンダル",
+"keep": true
+},
+{
+"en": "Blessing Crystal",
+"ja": "祝福の水晶",
+"keep": true
+},
+{
+"en": "Blinding Arrow",
+"ja": "目潰しの矢",
+"keep": true
+},
+{
+"en": "Board",
+"ja": "板",
+"keep": true
+},
+{
+"en": "Board Game",
+"ja": "ボードゲーム",
+"keep": true
+},
+{
+"en": "Body",
+"ja": "死体",
+"keep": true
+},
+{
+"en": "Bolt of Cloth",
+"ja": "反物",
+"keep": true
+},
+{
+"en": "Bonecleaver Shield",
+"ja": "骨砕きの盾",
+"keep": true
+},
+{
+"en": "Bones",
+"ja": "骨",
+"keep": true
+},
+{
+"en": "Book Stand",
+"ja": "書見台",
+"keep": true
+},
+{
+"en": "Bound Infernal",
+"ja": "縛られた魔性",
+"keep": true
+},
+{
+"en": "Bow of the Tower",
+"ja": "塔の弓",
+"keep": true
+},
+{
+"en": "Bowl",
+"ja": "鉢",
+"keep": true
+},
+{
+"en": "Bracelet of Opportunity",
+"ja": "好機の腕輪",
+"keep": true
+},
+{
+"en": "Bracelet of Truth",
+"ja": "真実の腕輪",
+"keep": true
+},
+{
+"en": "Bracers of the Hawk",
+"ja": "鷹の籠手",
+"keep": true
+},
+{
+"en": "Bread",
+"ja": "パン",
+"keep": true
+},
+{
+"en": "Breastplate of the Anvil",
+"ja": "鉄床の胸当て",
+"keep": true
+},
+{
+"en": "Breastplate of the Tower",
+"ja": "塔の胸当て",
+"keep": true
+},
+{
+"en": "Breath of Shadows",
+"ja": "影の吐息",
+"keep": true
+},
+{
+"en": "Brigand",
+"ja": "山賊",
+"keep": true
+},
+{
+"en": "Brigand Archer",
+"ja": "山賊の弓兵",
+"keep": true
+},
+{
+"en": "Broadsword of the Tower",
+"ja": "塔のブロードソード",
+"keep": true
+},
+{
+"en": "Broken Pot",
+"ja": "割れた壺",
+"keep": true
+},
+{
+"en": "Broken Sword",
+"ja": "折れた剣",
+"keep": true
+},
+{
+"en": "Bronze Girdle",
+"ja": "青銅の腰帯",
+"keep": true
+},
+{
+"en": "Bronze Helm",
+"ja": "青銅の兜",
+"keep": true
+},
+{
+"en": "Broom",
+"ja": "箒",
+"keep": true
+},
+{
+"en": "Brutal Blow",
+"ja": "残忍な一撃",
+"keep": true
+},
+{
+"en": "Bucket",
+"ja": "バケツ",
+"keep": true
+},
+{
+"en": "Bucket of Water",
+"ja": "水の入ったバケツ",
+"keep": true
+},
+{
+"en": "Burnout",
+"ja": "燃え尽き",
+"keep": true
+},
+{
+"en": "Cake",
+"ja": "ケーキ",
+"keep": true
+},
+{
+"en": "Call Aid",
+"ja": "援軍を呼ぶ",
+"keep": true
+},
+{
+"en": "Call Frenzied Imp",
+"ja": "狂乱の小鬼を呼ぶ",
+"keep": true
+},
+{
+"en": "Call Major Aid",
+"ja": "大援軍を呼ぶ",
+"keep": true
+},
+{
+"en": "Call Minor Aid",
+"ja": "小援軍を呼ぶ",
+"keep": true
+},
+{
+"en": "Call Warped Wolf",
+"ja": "歪んだ狼を呼ぶ",
+"keep": true
+},
+{
+"en": "Call Widow",
+"ja": "ゴケグモを呼ぶ",
+"keep": true
+},
+{
+"en": "Call the Dead",
+"ja": "死者を呼ぶ",
+"keep": true
+},
+{
+"en": "Candelabra",
+"ja": "燭台",
+"keep": true
+},
+{
+"en": "Candle",
+"ja": "蝋燭",
+"keep": true
+},
+{
+"en": "Cave Widow",
+"ja": "洞窟ゴケグモ",
+"keep": true
+},
+{
+"en": "Ceramic Pot",
+"ja": "陶器の壺",
+"keep": true
+},
+{
+"en": "Chain Greaves",
+"ja": "鎖の脛当て",
+"keep": true
+},
+{
+"en": "Chainmail",
+"ja": "鎖帷子",
+"keep": true
+},
+{
+"en": "Chainmail Boots",
+"ja": "鎖帷子のブーツ",
+"keep": true
+},
+{
+"en": "Chair",
+"ja": "椅子",
+"keep": true
+},
+{
+"en": "Charm of Endurance",
+"ja": "忍耐のお守り",
+"keep": true
+},
+{
+"en": "Charm of Insight",
+"ja": "洞察のお守り",
+"keep": true
+},
+{
+"en": "Charm of Nimbleness",
+"ja": "機敏のお守り",
+"keep": true
+},
+{
+"en": "Charm of Power",
+"ja": "力のお守り",
+"keep": true
+},
+{
+"en": "Charmed",
+"ja": "魅了された",
+"keep": true
+},
+{
+"en": "Charmed Ogre",
+"ja": "魅了されたオーガ",
+"keep": true
+},
+{
+"en": "Chirurgeon's Tunic",
+"ja": "外科医のチュニック",
+"keep": true
+},
+{
+"en": "Clay Bowl",
+"ja": "土の鉢",
+"keep": true
+},
+{
+"en": "Clay Brick",
+"ja": "粘土レンガ",
+"keep": true
+},
+{
+"en": "Clay Jug",
+"ja": "土の水差し",
+"keep": true
+},
+{
+"en": "Clay Pot",
+"ja": "土の壺",
+"keep": true
+},
+{
+"en": "Cleaving Blade",
+"ja": "両断の刃",
+"keep": true
+},
+{
+"en": "Cleaving Claw",
+"ja": "両断の爪",
+"keep": true
+},
+{
+"en": "Cloak",
+"ja": "外套",
+"keep": true
+},
+{
+"en": "Coins",
+"ja": "ゴールド",
+"keep": true
+},
+{
+"en": "Composite Bow",
+"ja": "複合弓",
+"keep": true
+},
+{
+"en": "Cone of Acid",
+"ja": "酸の円錐",
+"keep": true
+},
+{
+"en": "Cone of Fire",
+"ja": "炎の円錐",
+"keep": true
+},
+{
+"en": "Cone of Ice",
+"ja": "氷の円錐",
+"keep": true
+},
+{
+"en": "Cone of Lightning",
+"ja": "雷の円錐",
+"keep": true
+},
+{
+"en": "Cone of Webs",
+"ja": "蜘蛛糸の円錐",
+"keep": true
+},
+{
+"en": "Confused",
+"ja": "混乱",
+"keep": true
+},
+{
+"en": "Corrupted Broadsword",
+"ja": "堕落したブロードソード",
+"keep": true
+},
+{
+"en": "Corrupted Hellhound",
+"ja": "堕落した地獄犬",
+"keep": true
+},
+{
+"en": "Corrupted Scarab",
+"ja": "堕落したスカラベ",
+"keep": true
+},
+{
+"en": "Corrupting Bite",
+"ja": "堕落させる噛みつき",
+"keep": true
+},
+{
+"en": "Cow",
+"ja": "牛",
+"keep": true
+},
+{
+"en": "Crate",
+"ja": "木箱",
+"keep": true
+},
+{
+"en": "Crushing Bite",
+"ja": "粉砕の噛みつき",
+"keep": true
+},
+{
+"en": "Cultist",
+"ja": "教団員",
+"keep": true
+},
+{
+"en": "Cure",
+"ja": "治癒",
+"keep": true
+},
+{
+"en": "Curing Brew",
+"ja": "治療の薬",
+"keep": true
+},
+{
+"en": "Dark Bolt",
+"ja": "暗黒の矢",
+"keep": true
+},
+{
+"en": "Dark Cultist",
+"ja": "暗黒の教団員",
+"keep": true
+},
+{
+"en": "Dark Woods Widow",
+"ja": "暗森のゴケグモ",
+"keep": true
+},
+{
+"en": "Dazed",
+"ja": "朦朧",
+"keep": true
+},
+{
+"en": "Deadeye Belt",
+"ja": "必中のベルト",
+"keep": true
+},
+{
+"en": "Deadeye Chainmail",
+"ja": "必中の鎖帷子",
+"keep": true
+},
+{
+"en": "Death Widow",
+"ja": "死のゴケグモ",
+"keep": true
+},
+{
+"en": "Deep Cultist",
+"ja": "深部の教団員",
+"keep": true
+},
+{
+"en": "Deep Runestone",
+"ja": "深部のルーン石",
+"keep": true
+},
+{
+"en": "Demon",
+"ja": "デーモン",
+"keep": true
+},
+{
+"en": "Desk",
+"ja": "机",
+"keep": true
+},
+{
+"en": "Dice",
+"ja": "サイコロ",
+"keep": true
+},
+{
+"en": "Dire Wolf",
+"ja": "恐狼",
+"keep": true
+},
+{
+"en": "Dizzying Swoop",
+"ja": "目眩の急降下",
+"keep": true
+},
+{
+"en": "Door 1 E",
+"ja": "扉1（東）",
+"keep": true
+},
+{
+"en": "Door 1 N",
+"ja": "扉1（北）",
+"keep": true
+},
+{
+"en": "Door 1 S",
+"ja": "扉1（南）",
+"keep": true
+},
+{
+"en": "Door 1 W",
+"ja": "扉1（西）",
+"keep": true
+},
+{
+"en": "Door 2 E",
+"ja": "扉2（東）",
+"keep": true
+},
+{
+"en": "Door 2 N",
+"ja": "扉2（北）",
+"keep": true
+},
+{
+"en": "Door 2 S",
+"ja": "扉2（南）",
+"keep": true
+},
+{
+"en": "Door 2 W",
+"ja": "扉2（西）",
+"keep": true
+},
+{
+"en": "Doubleshot Bow",
+"ja": "二連射の弓",
+"keep": true
+},
+{
+"en": "Dragon",
+"ja": "ドラゴン",
+"keep": true
+},
+{
+"en": "Dragon's Fang",
+"ja": "ドラゴンの牙",
+"keep": true
+},
+{
+"en": "Draining Wave",
+"ja": "吸収の波",
+"keep": true
+},
+{
+"en": "Drake",
+"ja": "ドレイク",
+"keep": true
+},
+{
+"en": "Drake Skin",
+"ja": "ドレイクの皮",
+"keep": true
+},
+{
+"en": "Drakescale Mantle",
+"ja": "ドレイクの鱗のマント",
+"keep": true
+},
+{
+"en": "Drakeskin Leather Armor",
+"ja": "ドレイクの革鎧",
+"keep": true
+},
+{
+"en": "Dreadnought Breastplate",
+"ja": "ドレッドノートの胸当て",
+"keep": true
+},
+{
+"en": "Dreadnought Helm",
+"ja": "ドレッドノートの兜",
+"keep": true
+},
+{
+"en": "Dried Meat",
+"ja": "干し肉",
+"keep": true
+},
+{
+"en": "Dry Bone",
+"ja": "乾いた骨",
+"keep": true
+},
+{
+"en": "Earth Discipline",
+"ja": "大地の鍛錬",
+"keep": true
+},
+{
+"en": "Eat Food",
+"ja": "食事をとる",
+"keep": true
+},
+{
+"en": "Egg",
+"ja": "卵",
+"keep": true
+},
+{
+"en": "Eggshell",
+"ja": "卵の殻",
+"keep": true
+},
+{
+"en": "Elite Archer",
+"ja": "精鋭の弓兵",
+"keep": true
+},
+{
+"en": "Elite Blademaster",
+"ja": "精鋭の剣士",
+"keep": true
+},
+{
+"en": "Elite Shadowwalker",
+"ja": "精鋭の影歩き",
+"keep": true
+},
+{
+"en": "Elite Sorceress",
+"ja": "精鋭の妖術師",
+"keep": true
+},
+{
+"en": "Elite Warrior",
+"ja": "精鋭の戦士",
+"keep": true
+},
+{
+"en": "Elixir of Battle",
+"ja": "戦闘の霊薬",
+"keep": true
+},
+{
+"en": "Elixir of Health",
+"ja": "健康の霊薬",
+"keep": true
+},
+{
+"en": "Elixir of Speed",
+"ja": "俊足の霊薬",
+"keep": true
+},
+{
+"en": "Emerald",
+"ja": "エメラルド",
+"keep": true
+},
+{
+"en": "Emerald Runestone",
+"ja": "エメラルドのルーン石",
+"keep": true
+},
+{
+"en": "Enchanted Anvil",
+"ja": "魔法の鉄床",
+"keep": true
+},
+{
+"en": "Enchanted Pantaloons",
+"ja": "魔力のズボン",
+"keep": true
+},
+{
+"en": "Enchanter",
+"ja": "付与術師",
+"keep": true
+},
+{
+"en": "Enchanter's Bracelets",
+"ja": "付与術師の腕輪",
+"keep": true
+},
+{
+"en": "Enduring Breastplate",
+"ja": "耐久の胸当て",
+"keep": true
+},
+{
+"en": "Ensnared",
+"ja": "捕らわれた",
+"keep": true
+},
+{
+"en": "Enveloping Wrap",
+"ja": "包み込む布",
+"keep": true
+},
+{
+"en": "Envenomed Blade",
+"ja": "毒刃",
+"keep": true
+},
+{
+"en": "Etched Leather Cap",
+"ja": "彫り模様の革帽子",
+"keep": true
+},
+{
+"en": "Executioner",
+"ja": "処刑人",
+"keep": true
+},
+{
+"en": "Explosion of Goo",
+"ja": "粘液の爆発",
+"keep": true
+},
+{
+"en": "Farsight Band",
+"ja": "遠見の腕輪",
+"keep": true
+},
+{
+"en": "Fine Chainmail",
+"ja": "上質の鎖帷子",
+"keep": true
+},
+{
+"en": "Fine Cloak",
+"ja": "上質の外套",
+"keep": true
+},
+{
+"en": "Fine Tunic",
+"ja": "上質のチュニック",
+"keep": true
+},
+{
+"en": "Fire Breath",
+"ja": "火炎の吐息",
+"keep": true
+},
+{
+"en": "Fire Lizard",
+"ja": "火トカゲ",
+"keep": true
+},
+{
+"en": "Fire Pillar",
+"ja": "火柱",
+"keep": true
+},
+{
+"en": "Firelash",
+"ja": "火炎の鞭",
+"keep": true
+},
+{
+"en": "Fish",
+"ja": "魚",
+"keep": true
+},
+{
+"en": "Fishing Pole",
+"ja": "釣り竿",
+"keep": true
+},
+{
+"en": "Fleetfoot Boots",
+"ja": "俊足のブーツ",
+"keep": true
+},
+{
+"en": "Fleetfoot Scarab",
+"ja": "俊足のスカラベ",
+"keep": true
+},
+{
+"en": "Focus Mastery",
+"ja": "集中の極意",
+"keep": true
+},
+{
+"en": "Fork",
+"ja": "フォーク",
+"keep": true
+},
+{
+"en": "Frenzied Imp",
+"ja": "狂乱の小鬼",
+"keep": true
+},
+{
+"en": "Frost-Rimed Scarab",
+"ja": "霜の張ったスカラベ",
+"keep": true
+},
+{
+"en": "Fruit",
+"ja": "果物",
+"keep": true
+},
+{
+"en": "Fruit Crate",
+"ja": "果物箱",
+"keep": true
+},
+{
+"en": "Gaze of Terror",
+"ja": "恐怖の凝視",
+"keep": true
+},
+{
+"en": "Ghast",
+"ja": "ガスト",
+"keep": true
+},
+{
+"en": "Ghost Claws",
+"ja": "ゴーストの爪",
+"keep": true
+},
+{
+"en": "Ghoul",
+"ja": "グール",
+"keep": true
+},
+{
+"en": "Ghoul Claw",
+"ja": "グールの爪",
+"keep": true
+},
+{
+"en": "Giant Cavebat",
+"ja": "巨大洞窟コウモリ",
+"keep": true
+},
+{
+"en": "Giant Lizard",
+"ja": "巨大トカゲ",
+"keep": true
+},
+{
+"en": "Giant Rat",
+"ja": "巨大ネズミ",
+"keep": true
+},
+{
+"en": "Giant Spider",
+"ja": "巨大蜘蛛",
+"keep": true
+},
+{
+"en": "Giant Woods Bat",
+"ja": "森の巨大コウモリ",
+"keep": true
+},
+{
+"en": "Glowing Runestone",
+"ja": "輝くルーン石",
+"keep": true
+},
+{
+"en": "Goblet",
+"ja": "杯",
+"keep": true
+},
+{
+"en": "Gold Bar",
+"ja": "金塊",
+"keep": true
+},
+{
+"en": "Gold Necklace",
+"ja": "金の首飾り",
+"keep": true
+},
+{
+"en": "Gold Ring",
+"ja": "金の指輪",
+"keep": true
+},
+{
+"en": "Golden Goblet",
+"ja": "金の杯",
+"keep": true
+},
+{
+"en": "Golden Runestone",
+"ja": "金のルーン石",
+"keep": true
+},
+{
+"en": "Gong",
+"ja": "銅鑼",
+"keep": true
+},
+{
+"en": "Greaves of the Ramparts",
+"ja": "城壁の脛当て",
+"keep": true
+},
+{
+"en": "Greaves of the Vale",
+"ja": "谷の脛当て",
+"keep": true
+},
+{
+"en": "Greenspirit Band",
+"ja": "緑霊の腕輪",
+"keep": true
+},
+{
+"en": "Gremlin Wine",
+"ja": "グレムリンワイン",
+"keep": true
+},
+{
+"en": "Group Cure",
+"ja": "集団治癒",
+"keep": true
+},
+{
+"en": "Group Mental Cure",
+"ja": "集団精神治癒",
+"keep": true
+},
+{
+"en": "Halberd",
+"ja": "ハルバード",
+"keep": true
+},
+{
+"en": "Hammer",
+"ja": "ハンマー",
+"keep": true
+},
+{
+"en": "Hatchet",
+"ja": "手斧",
+"keep": true
+},
+{
+"en": "Heal Ally",
+"ja": "味方を治療",
+"keep": true
+},
+{
+"en": "Heal Self",
+"ja": "自己治療",
+"keep": true
+},
+{
+"en": "Hellhound",
+"ja": "地獄犬",
+"keep": true
+},
+{
+"en": "Horn",
+"ja": "角笛",
+"keep": true
+},
+{
+"en": "Horned Serpent",
+"ja": "角付き大蛇",
+"keep": true
+},
+{
+"en": "Horseshoe",
+"ja": "蹄鉄",
+"keep": true
+},
+{
+"en": "Huge Bat",
+"ja": "巨大コウモリ",
+"keep": true
+},
+{
+"en": "Huge Rat",
+"ja": "巨大ネズミ",
+"keep": true
+},
+{
+"en": "Huge Spider",
+"ja": "巨大蜘蛛",
+"keep": true
+},
+{
+"en": "Ice Dragon",
+"ja": "氷のドラゴン",
+"keep": true
+},
+{
+"en": "Icy Bones",
+"ja": "氷の骸骨",
+"keep": true
+},
+{
+"en": "Icy Claws",
+"ja": "氷の爪",
+"keep": true
+},
+{
+"en": "Icy Runestone",
+"ja": "氷のルーン石",
+"keep": true
+},
+{
+"en": "Immobile",
+"ja": "移動不可",
+"keep": true
+},
+{
+"en": "Imp",
+"ja": "小鬼",
+"keep": true
+},
+{
+"en": "Impskin Gloves",
+"ja": "小鬼革の手袋",
+"keep": true
+},
+{
+"en": "Incantor's Bow",
+"ja": "詠唱師の弓",
+"keep": true
+},
+{
+"en": "Incantor's Runestone",
+"ja": "詠唱師のルーン石",
+"keep": true
+},
+{
+"en": "Incense",
+"ja": "香",
+"keep": true
+},
+{
+"en": "Incubus",
+"ja": "インキュバス",
+"keep": true
+},
+{
+"en": "Infernal Bat",
+"ja": "地獄のコウモリ",
+"keep": true
+},
+{
+"en": "Infernal Fiend",
+"ja": "地獄の魔物",
+"keep": true
+},
+{
+"en": "Infernal Stone",
+"ja": "地獄の石",
+"keep": true
+},
+{
+"en": "Iron Breastplate",
+"ja": "鉄の胸当て",
+"keep": true
+},
+{
+"en": "Iron Broadsword",
+"ja": "鉄のブロードソード",
+"keep": true
+},
+{
+"en": "Iron Gauntlets",
+"ja": "鉄の籠手",
+"keep": true
+},
+{
+"en": "Iron Glaive",
+"ja": "鉄のグレイヴ",
+"keep": true
+},
+{
+"en": "Iron Greaves",
+"ja": "鉄の脛当て",
+"keep": true
+},
+{
+"en": "Iron Javelin",
+"ja": "鉄の投げ槍",
+"keep": true
+},
+{
+"en": "Iron Razordisk",
+"ja": "鉄の円月刃",
+"keep": true
+},
+{
+"en": "Iron Shield",
+"ja": "鉄の盾",
+"keep": true
+},
+{
+"en": "Iron Shortsword",
+"ja": "鉄のショートソード",
+"keep": true
+},
+{
+"en": "Iron Spear",
+"ja": "鉄の槍",
+"keep": true
+},
+{
+"en": "Ivory Skull",
+"ja": "象牙のドクロ",
+"keep": true
+},
+{
+"en": "Jade Halberd",
+"ja": "翡翠のハルバード",
+"keep": true
+},
+{
+"en": "Javelin",
+"ja": "投げ槍",
+"keep": true
+},
+{
+"en": "Jerkin of the Wilds",
+"ja": "荒野の胴衣",
+"keep": true
+},
+{
+"en": "Jug",
+"ja": "水差し",
+"keep": true
+},
+{
+"en": "Kellem Townsman",
+"ja": "ケレムの町人",
+"keep": true
+},
+{
+"en": "Kellem Townswoman",
+"ja": "ケレムの町娘",
+"keep": true
+},
+{
+"en": "Knife",
+"ja": "ナイフ",
+"keep": true
+},
+{
+"en": "Kva Townsman",
+"ja": "クヴァの町人",
+"keep": true
+},
+{
+"en": "Kva Townswoman",
+"ja": "クヴァの町娘",
+"keep": true
+},
+{
+"en": "Ladder",
+"ja": "はしご",
+"keep": true
+},
+{
+"en": "Lamppost",
+"ja": "街灯",
+"keep": true
+},
+{
+"en": "Leather Belt",
+"ja": "革のベルト",
+"keep": true
+},
+{
+"en": "Leather Boots",
+"ja": "革のブーツ",
+"keep": true
+},
+{
+"en": "Leather Cap",
+"ja": "革の帽子",
+"keep": true
+},
+{
+"en": "Leather Gloves",
+"ja": "革の手袋",
+"keep": true
+},
+{
+"en": "Leather Greaves",
+"ja": "革の脛当て",
+"keep": true
+},
+{
+"en": "Leather Jerkin",
+"ja": "革の胴衣",
+"keep": true
+},
+{
+"en": "Leather Shoes",
+"ja": "革の靴",
+"keep": true
+},
+{
+"en": "Life Symbol Scarab",
+"ja": "生命の印のスカラベ",
+"keep": true
+},
+{
+"en": "Light",
+"ja": "発光",
+"keep": true
+},
+{
+"en": "Light Source",
+"ja": "光源",
+"keep": true
+},
+{
+"en": "Lightning Discipline",
+"ja": "雷の鍛錬",
+"keep": true
+},
+{
+"en": "Lightning Javelin",
+"ja": "雷の投げ槍",
+"keep": true
+},
+{
+"en": "Lightning Shortsword",
+"ja": "雷のショートソード",
+"keep": true
+},
+{
+"en": "Limb",
+"ja": "手足",
+"keep": true
+},
+{
+"en": "Locker",
+"ja": "ロッカー",
+"keep": true
+},
+{
+"en": "Lockpick",
+"ja": "解錠具",
+"keep": true
+},
+{
+"en": "Lodestone Chain Boots",
+"ja": "磁石鎖のブーツ",
+"keep": true
+},
+{
+"en": "Longbow",
+"ja": "長弓",
+"keep": true
+},
+{
+"en": "Lord Carsta'Arl",
+"ja": "カルスタ・アール卿",
+"keep": true
+},
+{
+"en": "Lost Soul",
+"ja": "さまよう魂",
+"keep": true
+},
+{
+"en": "Lovely Crystal",
+"ja": "美しい水晶",
+"keep": true
+},
+{
+"en": "Lucky Horseshoe",
+"ja": "幸運の蹄鉄",
+"keep": true
+},
+{
+"en": "Mage",
+"ja": "魔術師",
+"keep": true
+},
+{
+"en": "Mage's Staff",
+"ja": "魔術師の杖",
+"keep": true
+},
+{
+"en": "Magical Mastery",
+"ja": "魔術の極意",
+"keep": true
+},
+{
+"en": "Malachite Scarab",
+"ja": "孔雀石のスカラベ",
+"keep": true
+},
+{
+"en": "Malignus Lord",
+"ja": "マリグナスの君主",
+"keep": true
+},
+{
+"en": "Marauder",
+"ja": "略奪者",
+"keep": true
+},
+{
+"en": "Marksman",
+"ja": "射手",
+"keep": true
+},
+{
+"en": "Mass Attraction",
+"ja": "大吸引",
+"keep": true
+},
+{
+"en": "Melee Training",
+"ja": "近接戦の訓練",
+"keep": true
+},
+{
+"en": "Merchant",
+"ja": "商人",
+"keep": true
+},
+{
+"en": "Metal Bowl",
+"ja": "金属の椀",
+"keep": true
+},
+{
+"en": "Metal Pitcher",
+"ja": "金属の水差し",
+"keep": true
+},
+{
+"en": "Mica Ring",
+"ja": "雲母の指輪",
+"keep": true
+},
+{
+"en": "Mighty Wind",
+"ja": "猛烈な風",
+"keep": true
+},
+{
+"en": "Mind Shield",
+"ja": "精神防護",
+"keep": true
+},
+{
+"en": "Mop",
+"ja": "モップ",
+"keep": true
+},
+{
+"en": "Mortar and Pestle",
+"ja": "乳鉢と乳棒",
+"keep": true
+},
+{
+"en": "Mug",
+"ja": "マグ",
+"keep": true
+},
+{
+"en": "Mushroom",
+"ja": "キノコ",
+"keep": true
+},
+{
+"en": "Mushrooms",
+"ja": "キノコ",
+"keep": true
+},
+{
+"en": "Nature Mastery",
+"ja": "自然の極意",
+"keep": true
+},
+{
+"en": "Necklace of Vitality",
+"ja": "活力の首飾り",
+"keep": true
+},
+{
+"en": "Netted Javelin",
+"ja": "網付き投げ槍",
+"keep": true
+},
+{
+"en": "Nightblade Helm",
+"ja": "夜刃の兜",
+"keep": true
+},
+{
+"en": "Nullity Field",
+"ja": "無効化の領域",
+"keep": true
+},
+{
+"en": "Obelisk",
+"ja": "オベリスク",
+"keep": true
+},
+{
+"en": "Ogre",
+"ja": "オーガ",
+"keep": true
+},
+{
+"en": "Ogre Brute",
+"ja": "凶暴なオーガ",
+"keep": true
+},
+{
+"en": "Ogre Flinger",
+"ja": "オーガの投石兵",
+"keep": true
+},
+{
+"en": "Ogre Overseer",
+"ja": "監督オーガ",
+"keep": true
+},
+{
+"en": "Ogre Ruffian",
+"ja": "乱暴なオーガ",
+"keep": true
+},
+{
+"en": "Ogre Seer",
+"ja": "オーガの占い師",
+"keep": true
+},
+{
+"en": "Ogrish Gauntlets",
+"ja": "オーガの籠手",
+"keep": true
+},
+{
+"en": "Opal Ring",
+"ja": "オパールの指輪",
+"keep": true
+},
+{
+"en": "Oven",
+"ja": "かまど",
+"keep": true
+},
+{
+"en": "Pants",
+"ja": "ズボン",
+"keep": true
+},
+{
+"en": "Path of the Berserker",
+"ja": "狂戦士の道",
+"keep": true
+},
+{
+"en": "Path of the Blade",
+"ja": "刃の道",
+"keep": true
+},
+{
+"en": "Path of the Shield",
+"ja": "盾の道",
+"keep": true
+},
+{
+"en": "Pendant of Endurance",
+"ja": "耐久のペンダント",
+"keep": true
+},
+{
+"en": "Pendant of Insight",
+"ja": "洞察のペンダント",
+"keep": true
+},
+{
+"en": "Pendant of Nimbleness",
+"ja": "敏捷のペンダント",
+"keep": true
+},
+{
+"en": "Pendant of Power",
+"ja": "力のペンダント",
+"keep": true
+},
+{
+"en": "Pick",
+"ja": "つるはし",
+"keep": true
+},
+{
+"en": "Pillory",
+"ja": "さらし台",
+"keep": true
+},
+{
+"en": "Pillow",
+"ja": "枕",
+"keep": true
+},
+{
+"en": "Pincers",
+"ja": "やっとこ",
+"keep": true
+},
+{
+"en": "Pipe",
+"ja": "パイプ",
+"keep": true
+},
+{
+"en": "Pit Ogre",
+"ja": "穴のオーガ",
+"keep": true
+},
+{
+"en": "Pitcher",
+"ja": "水差し",
+"keep": true
+},
+{
+"en": "Plate",
+"ja": "板金鎧",
+"keep": true
+},
+{
+"en": "Plate Boots",
+"ja": "板金のブーツ",
+"keep": true
+},
+{
+"en": "Platinum Ring",
+"ja": "白金の指輪",
+"keep": true
+},
+{
+"en": "Poison Bite",
+"ja": "毒の噛みつき",
+"keep": true
+},
+{
+"en": "Polished Bone Scarab",
+"ja": "磨かれた骨のスカラベ",
+"keep": true
+},
+{
+"en": "Portal",
+"ja": "ポータル",
+"keep": true
+},
+{
+"en": "Portcullis",
+"ja": "落とし格子",
+"keep": true
+},
+{
+"en": "Potion of Battle",
+"ja": "戦いの薬",
+"keep": true
+},
+{
+"en": "Potion of Speed",
+"ja": "俊足の薬",
+"keep": true
+},
+{
+"en": "Pulsating Scarab",
+"ja": "脈打つスカラベ",
+"keep": true
+},
+{
+"en": "Pulsing Runestone",
+"ja": "脈動するルーン石",
+"keep": true
+},
+{
+"en": "Punch",
+"ja": "殴打",
+"keep": true
+},
+{
+"en": "Pylon",
+"ja": "転送柱",
+"keep": true
+},
+{
+"en": "Quicksilver Vest",
+"ja": "水銀の胴着",
+"keep": true
+},
+{
+"en": "Radiant Choker",
+"ja": "輝くチョーカー",
+"keep": true
+},
+{
+"en": "Radiate Acid",
+"ja": "酸の放射",
+"keep": true
+},
+{
+"en": "Radiate Corruption",
+"ja": "堕落の放射",
+"keep": true
+},
+{
+"en": "Radiate Fire",
+"ja": "炎の放射",
+"keep": true
+},
+{
+"en": "Radiate Ice",
+"ja": "氷の放射",
+"keep": true
+},
+{
+"en": "Radiate Lightning",
+"ja": "雷の放射",
+"keep": true
+},
+{
+"en": "Raider's Cutlass",
+"ja": "襲撃者のカットラス",
+"keep": true
+},
+{
+"en": "Rain of Corruption",
+"ja": "堕落の雨",
+"keep": true
+},
+{
+"en": "Razordisk Training",
+"ja": "円月刃の訓練",
+"keep": true
+},
+{
+"en": "Recuperation Crystal",
+"ja": "回復の水晶",
+"keep": true
+},
+{
+"en": "Redbeard's Blade",
+"ja": "赤髭の刃",
+"keep": true
+},
+{
+"en": "Regenerating",
+"ja": "再生中",
+"keep": true
+},
+{
+"en": "Resilient Mesh",
+"ja": "強靭な編み鎧",
+"keep": true
+},
+{
+"en": "Resistance Chant",
+"ja": "抵抗の詠唱",
+"keep": true
+},
+{
+"en": "Revive Servant",
+"ja": "従者の蘇生",
+"keep": true
+},
+{
+"en": "Robe",
+"ja": "ローブ",
+"keep": true
+},
+{
+"en": "Rock",
+"ja": "岩",
+"keep": true
+},
+{
+"en": "Rod of the Deep Woods",
+"ja": "深森のロッド",
+"keep": true
+},
+{
+"en": "Rod of the Elder Oak",
+"ja": "古樫のロッド",
+"keep": true
+},
+{
+"en": "Rogue Archer",
+"ja": "ならず者の弓兵",
+"keep": true
+},
+{
+"en": "Rogue Warrior",
+"ja": "ならず者の戦士",
+"keep": true
+},
+{
+"en": "Roll",
+"ja": "パン",
+"keep": true
+},
+{
+"en": "Rolling Pin",
+"ja": "麺棒",
+"keep": true
+},
+{
+"en": "Rope",
+"ja": "ロープ",
+"keep": true
+},
+{
+"en": "Ruby",
+"ja": "ルビー",
+"keep": true
+},
+{
+"en": "Ruby Ring",
+"ja": "ルビーの指輪",
+"keep": true
+},
+{
+"en": "Rune-Etched Buckler",
+"ja": "ルーン刻みの小盾",
+"keep": true
+},
+{
+"en": "Rune-Etched Glaive",
+"ja": "ルーン刻みのグレイヴ",
+"keep": true
+},
+{
+"en": "Runed Steel Mesh",
+"ja": "ルーンの鋼の編み鎧",
+"keep": true
+},
+{
+"en": "Runesoled Shoes",
+"ja": "ルーン底の靴",
+"keep": true
+},
+{
+"en": "Runestone of Purity",
+"ja": "純潔のルーン石",
+"keep": true
+},
+{
+"en": "Runeweave Gloves",
+"ja": "ルーン編みの手袋",
+"keep": true
+},
+{
+"en": "Sage",
+"ja": "賢者",
+"keep": true
+},
+{
+"en": "Sage's Bow",
+"ja": "賢者の弓",
+"keep": true
+},
+{
+"en": "Sage's Rod",
+"ja": "賢者のロッド",
+"keep": true
+},
+{
+"en": "Sage's Tiara",
+"ja": "賢者のティアラ",
+"keep": true
+},
+{
+"en": "Sapphire Ring",
+"ja": "サファイアの指輪",
+"keep": true
+},
+{
+"en": "Savage Pounce",
+"ja": "獰猛な飛びかかり",
+"keep": true
+},
+{
+"en": "Saw",
+"ja": "のこぎり",
+"keep": true
+},
+{
+"en": "Scalpel",
+"ja": "メス",
+"keep": true
+},
+{
+"en": "Scarab of Evasion",
+"ja": "回避のスカラベ",
+"keep": true
+},
+{
+"en": "Scarab of Pure Clarity",
+"ja": "清澄のスカラベ",
+"keep": true
+},
+{
+"en": "Scarab of Subtlety",
+"ja": "巧緻のスカラベ",
+"keep": true
+},
+{
+"en": "Scarab of Tenacity",
+"ja": "不屈のスカラベ",
+"keep": true
+},
+{
+"en": "Scarab of Warfare",
+"ja": "戦闘のスカラベ",
+"keep": true
+},
+{
+"en": "Scarab of the Void",
+"ja": "虚空のスカラベ",
+"keep": true
+},
+{
+"en": "Scarecrow",
+"ja": "案山子",
+"keep": true
+},
+{
+"en": "Scimitar of Subtlety",
+"ja": "巧妙のシミター",
+"keep": true
+},
+{
+"en": "Scissors",
+"ja": "ハサミ",
+"keep": true
+},
+{
+"en": "Scorched Girdle",
+"ja": "焼け焦げの腰帯",
+"keep": true
+},
+{
+"en": "Scorched Greaves",
+"ja": "焼け焦げの脛当て",
+"keep": true
+},
+{
+"en": "Scroll: Group Heal",
+"ja": "巻物：集団治癒",
+"keep": true
+},
+{
+"en": "Scroll: Lightning",
+"ja": "巻物：雷撃",
+"keep": true
+},
+{
+"en": "Scroll: Resurrection",
+"ja": "巻物：蘇生",
+"keep": true
+},
+{
+"en": "Scroll: Speed Burst",
+"ja": "巻物：急加速",
+"keep": true
+},
+{
+"en": "Searing Razordisk",
+"ja": "灼熱の円月刃",
+"keep": true
+},
+{
+"en": "Searing Scarab",
+"ja": "灼熱のスカラベ",
+"keep": true
+},
+{
+"en": "Searing Spark",
+"ja": "灼熱の火花",
+"keep": true
+},
+{
+"en": "Sentient Eyestalk",
+"ja": "意思ある眼柄",
+"keep": true
+},
+{
+"en": "Shackles",
+"ja": "枷",
+"keep": true
+},
+{
+"en": "Shadow Shroud",
+"ja": "影の覆い衣",
+"keep": true
+},
+{
+"en": "Shadowwalker's Blade",
+"ja": "影歩きの刃",
+"keep": true
+},
+{
+"en": "Shadowwalker's Boots",
+"ja": "影歩きの靴",
+"keep": true
+},
+{
+"en": "Shadowwalker's Lance",
+"ja": "影歩きのランス",
+"keep": true
+},
+{
+"en": "Shadowwalker's Mesh",
+"ja": "影歩きの網鎧",
+"keep": true
+},
+{
+"en": "Shaman Elder",
+"ja": "呪術師の長老",
+"keep": true
+},
+{
+"en": "Shard of the Phoenix",
+"ja": "不死鳥の欠片",
+"keep": true
+},
+{
+"en": "Sharpshooter",
+"ja": "狙撃手",
+"keep": true
+},
+{
+"en": "Sharpshooter's Mantle",
+"ja": "狙撃手の外套",
+"keep": true
+},
+{
+"en": "Sheet of Paper",
+"ja": "紙切れ",
+"keep": true
+},
+{
+"en": "Sheltering Buckler",
+"ja": "守護の小盾",
+"keep": true
+},
+{
+"en": "Shield Chant",
+"ja": "盾の詠唱",
+"keep": true
+},
+{
+"en": "Shield of Recovery",
+"ja": "回復の盾",
+"keep": true
+},
+{
+"en": "Shock Troop Shield",
+"ja": "突撃兵の盾",
+"keep": true
+},
+{
+"en": "Shooting Stars",
+"ja": "流星群",
+"keep": true
+},
+{
+"en": "Shortbow",
+"ja": "短弓",
+"keep": true
+},
+{
+"en": "Shovel",
+"ja": "シャベル",
+"keep": true
+},
+{
+"en": "Sign",
+"ja": "看板",
+"keep": true
+},
+{
+"en": "Silk-Woven Cord",
+"ja": "絹織りの紐",
+"keep": true
+},
+{
+"en": "Silver Necklace",
+"ja": "銀の首飾り",
+"keep": true
+},
+{
+"en": "Skeletal Warrior",
+"ja": "骸骨の戦士",
+"keep": true
+},
+{
+"en": "Skeleton",
+"ja": "骸骨",
+"keep": true
+},
+{
+"en": "Skull",
+"ja": "頭蓋骨",
+"keep": true
+},
+{
+"en": "Skulls",
+"ja": "頭蓋骨の山",
+"keep": true
+},
+{
+"en": "Skystar Chainmail",
+"ja": "天星の鎖帷子",
+"keep": true
+},
+{
+"en": "Slowed",
+"ja": "鈍足",
+"keep": true
+},
+{
+"en": "Smoky Greaves",
+"ja": "煙の脛当て",
+"keep": true
+},
+{
+"en": "Smuggler",
+"ja": "密輸人",
+"keep": true
+},
+{
+"en": "Sniper",
+"ja": "狙撃兵",
+"keep": true
+},
+{
+"en": "Soft Leather Cloak",
+"ja": "柔革の外套",
+"keep": true
+},
+{
+"en": "Soul Jar",
+"ja": "魂の壺",
+"keep": true
+},
+{
+"en": "Sparkly",
+"ja": "光る物",
+"keep": true
+},
+{
+"en": "Spear",
+"ja": "槍",
+"keep": true
+},
+{
+"en": "Specter",
+"ja": "怨霊",
+"keep": true
+},
+{
+"en": "Spectral Wolf",
+"ja": "霊狼",
+"keep": true
+},
+{
+"en": "Speed Burst",
+"ja": "急加速",
+"keep": true
+},
+{
+"en": "Spellweaver Sash",
+"ja": "呪文織りの飾り帯",
+"keep": true
+},
+{
+"en": "Spidersilk Cloak",
+"ja": "蜘蛛糸の外套",
+"keep": true
+},
+{
+"en": "Spidersilk Tunic",
+"ja": "蜘蛛糸の胴衣",
+"keep": true
+},
+{
+"en": "Spine Shield",
+"ja": "棘の守り",
+"keep": true
+},
+{
+"en": "Spiny Scarab",
+"ja": "棘のスカラベ",
+"keep": true
+},
+{
+"en": "Staff of Recovery",
+"ja": "回復の杖",
+"keep": true
+},
+{
+"en": "Steel Bracers",
+"ja": "鋼の腕当て",
+"keep": true
+},
+{
+"en": "Steel Breastplate",
+"ja": "鋼の胸当て",
+"keep": true
+},
+{
+"en": "Steel Broadsword",
+"ja": "鋼のブロードソード",
+"keep": true
+},
+{
+"en": "Steel Dagger",
+"ja": "鋼の短剣",
+"keep": true
+},
+{
+"en": "Steel Discipline",
+"ja": "鋼の鍛錬",
+"keep": true
+},
+{
+"en": "Steel Greaves",
+"ja": "鋼の脛当て",
+"keep": true
+},
+{
+"en": "Steel Halberd",
+"ja": "鋼のハルバード",
+"keep": true
+},
+{
+"en": "Steel Helm",
+"ja": "鋼の兜",
+"keep": true
+},
+{
+"en": "Steel Javelin",
+"ja": "鋼の投げ槍",
+"keep": true
+},
+{
+"en": "Steel Razordisk",
+"ja": "鋼の円月刃",
+"keep": true
+},
+{
+"en": "Steel Shield",
+"ja": "鋼の盾",
+"keep": true
+},
+{
+"en": "Steel Shortsword",
+"ja": "鋼のショートソード",
+"keep": true
+},
+{
+"en": "Steel Spear",
+"ja": "鋼の槍",
+"keep": true
+},
+{
+"en": "Stein",
+"ja": "ジョッキ",
+"keep": true
+},
+{
+"en": "Stick",
+"ja": "棒",
+"keep": true
+},
+{
+"en": "Stinking Gas",
+"ja": "悪臭ガス",
+"keep": true
+},
+{
+"en": "Stone Block",
+"ja": "石のブロック",
+"keep": true
+},
+{
+"en": "Stone Blocks",
+"ja": "石のブロック",
+"keep": true
+},
+{
+"en": "Stone Defender",
+"ja": "石の守護者",
+"keep": true
+},
+{
+"en": "Stone Sentinel",
+"ja": "石の番兵",
+"keep": true
+},
+{
+"en": "Stone Shard",
+"ja": "石の破片",
+"keep": true
+},
+{
+"en": "Studded Leather Armor",
+"ja": "鋲打ち革鎧",
+"keep": true
+},
+{
+"en": "Student's Robe",
+"ja": "学生のローブ",
+"keep": true
+},
+{
+"en": "Stunned",
+"ja": "気絶",
+"keep": true
+},
+{
+"en": "Stunning Claw",
+"ja": "気絶の爪",
+"keep": true
+},
+{
+"en": "Sword",
+"ja": "剣",
+"keep": true
+},
+{
+"en": "Teacup",
+"ja": "茶碗",
+"keep": true
+},
+{
+"en": "Teapot",
+"ja": "ティーポット",
+"keep": true
+},
+{
+"en": "Teleport",
+"ja": "瞬間移動",
+"keep": true
+},
+{
+"en": "Teria",
+"ja": "テリア",
+"keep": true
+},
+{
+"en": "Terrified",
+"ja": "恐怖",
+"keep": true
+},
+{
+"en": "Thorn Shield",
+"ja": "棘の盾",
+"keep": true
+},
+{
+"en": "Thread",
+"ja": "糸",
+"keep": true
+},
+{
+"en": "Thrown Rock",
+"ja": "投石",
+"keep": true
+},
+{
+"en": "Timewalk Scarab",
+"ja": "時渡りのスカラベ",
+"keep": true
+},
+{
+"en": "Titan Bash",
+"ja": "タイタン殴打",
+"keep": true
+},
+{
+"en": "Titan Club",
+"ja": "タイタンの棍棒",
+"keep": true
+},
+{
+"en": "Titan Conjurer",
+"ja": "タイタンの召喚師",
+"keep": true
+},
+{
+"en": "Titan Crusher",
+"ja": "タイタンの破砕者",
+"keep": true
+},
+{
+"en": "Titan Flinger",
+"ja": "タイタンの投擲者",
+"keep": true
+},
+{
+"en": "Titan Monarch",
+"ja": "タイタンの君主",
+"keep": true
+},
+{
+"en": "Titan Zombie",
+"ja": "タイタンのゾンビ",
+"keep": true
+},
+{
+"en": "Titan's Gauntlets",
+"ja": "タイタンの籠手",
+"keep": true
+},
+{
+"en": "Titan's Longbow",
+"ja": "タイタンの長弓",
+"keep": true
+},
+{
+"en": "Titansteel Boots",
+"ja": "タイタン鋼のブーツ",
+"keep": true
+},
+{
+"en": "Titansteel Breastplate",
+"ja": "タイタン鋼の胸当て",
+"keep": true
+},
+{
+"en": "Titansteel Broadsword",
+"ja": "タイタン鋼ブロードソード",
+"keep": true
+},
+{
+"en": "Titansteel Chainmail",
+"ja": "タイタン鋼の鎖帷子",
+"keep": true
+},
+{
+"en": "Titansteel Girdle",
+"ja": "タイタン鋼の腰帯",
+"keep": true
+},
+{
+"en": "Titansteel Halberd",
+"ja": "タイタン鋼のハルバード",
+"keep": true
+},
+{
+"en": "Titansteel Javelin",
+"ja": "タイタン鋼の投げ槍",
+"keep": true
+},
+{
+"en": "Titansteel Razordisk",
+"ja": "タイタン鋼の円月刃",
+"keep": true
+},
+{
+"en": "Titansteel Shield",
+"ja": "タイタン鋼の盾",
+"keep": true
+},
+{
+"en": "Titansteel Shortsword",
+"ja": "タイタン鋼ショートソード",
+"keep": true
+},
+{
+"en": "Titansteel Spear",
+"ja": "タイタン鋼の槍",
+"keep": true
+},
+{
+"en": "Titansteel-Woven Pants",
+"ja": "タイタン鋼織りのズボン",
+"keep": true
+},
+{
+"en": "Tongs",
+"ja": "やっとこ",
+"keep": true
+},
+{
+"en": "Tools",
+"ja": "道具",
+"keep": true
+},
+{
+"en": "Totem",
+"ja": "トーテム",
+"keep": true
+},
+{
+"en": "Towel",
+"ja": "タオル",
+"keep": true
+},
+{
+"en": "Translucent Scarab",
+"ja": "半透明のスカラベ",
+"keep": true
+},
+{
+"en": "Trapdoor",
+"ja": "落とし戸",
+"keep": true
+},
+{
+"en": "Tribal Fetish",
+"ja": "部族の護符",
+"keep": true
+},
+{
+"en": "Tribal Fire Pillar",
+"ja": "部族の火柱",
+"keep": true
+},
+{
+"en": "Trowel",
+"ja": "移植ごて",
+"keep": true
+},
+{
+"en": "Truefoot Bracelet",
+"ja": "真足の腕輪",
+"keep": true
+},
+{
+"en": "Truestroke Broadsword",
+"ja": "真撃のブロードソード",
+"keep": true
+},
+{
+"en": "Tunic",
+"ja": "チュニック",
+"keep": true
+},
+{
+"en": "Use Bandage",
+"ja": "包帯を使う",
+"keep": true
+},
+{
+"en": "Vampire Bat",
+"ja": "吸血コウモリ",
+"keep": true
+},
+{
+"en": "Vat",
+"ja": "大桶",
+"keep": true
+},
+{
+"en": "Veneth's Spear",
+"ja": "ヴェネスの槍",
+"keep": true
+},
+{
+"en": "Vest of the Shaman",
+"ja": "呪術師の胴衣",
+"keep": true
+},
+{
+"en": "Vise",
+"ja": "万力",
+"keep": true
+},
+{
+"en": "Vulnerability Curse",
+"ja": "脆弱化の呪い",
+"keep": true
+},
+{
+"en": "Walking Bones",
+"ja": "歩く骸骨",
+"keep": true
+},
+{
+"en": "Walking Dead",
+"ja": "歩く死者",
+"keep": true
+},
+{
+"en": "Wand of Calling",
+"ja": "召喚のワンド",
+"keep": true
+},
+{
+"en": "Wand of Corruption",
+"ja": "堕落のワンド",
+"keep": true
+},
+{
+"en": "Wand of Fire",
+"ja": "火炎のワンド",
+"keep": true
+},
+{
+"en": "Wand of Ice",
+"ja": "氷のワンド",
+"keep": true
+},
+{
+"en": "Wand of Lightning",
+"ja": "雷撃のワンド",
+"keep": true
+},
+{
+"en": "Wand of Venom",
+"ja": "毒のワンド",
+"keep": true
+},
+{
+"en": "Ward Mastery",
+"ja": "守護の極意",
+"keep": true
+},
+{
+"en": "Warped Wolf",
+"ja": "歪んだ狼",
+"keep": true
+},
+{
+"en": "Whip",
+"ja": "鞭",
+"keep": true
+},
+{
+"en": "Wine",
+"ja": "ワイン",
+"keep": true
+},
+{
+"en": "Wishing Crest",
+"ja": "願いの紋章",
+"keep": true
+},
+{
+"en": "Wizard",
+"ja": "魔術師",
+"keep": true
+},
+{
+"en": "Wizard's Loop",
+"ja": "魔術師の指輪",
+"keep": true
+},
+{
+"en": "Wizard's Staff",
+"ja": "魔術師の杖",
+"keep": true
+},
+{
+"en": "Wooden Shield",
+"ja": "木の盾",
+"keep": true
+},
+{
+"en": "Wool Pants",
+"ja": "毛織りのズボン",
+"keep": true
+},
+{
+"en": "Wretch Assassin",
+"ja": "蛮人の刺客",
+"keep": true
+},
+{
+"en": "Wretch Chief",
+"ja": "蛮人の族長",
+"keep": true
+},
+{
+"en": "Wretch Hunter",
+"ja": "蛮人の狩人",
+"keep": true
+},
+{
+"en": "Wretch Raider",
+"ja": "蛮人の襲撃者",
+"keep": true
+},
+{
+"en": "Wretch Shaman",
+"ja": "蛮人の呪術師",
+"keep": true
+},
+{
+"en": "Wretch Warrior",
+"ja": "蛮人の戦士",
+"keep": true
+},
+{
+"en": "Wretch Witch Doctor",
+"ja": "蛮人の呪医",
+"keep": true
+},
+{
+"en": "Wyrmling",
+"ja": "小竜",
+"keep": true
+},
+{
+"en": "Young Hellhound",
+"ja": "若い地獄犬",
+"keep": true
+},
+{
+"en": "Young Shaman",
+"ja": "若い呪術師",
+"keep": true
+},
+{
+"en": "Zombie",
+"ja": "ゾンビ",
+"keep": true
+}
+]

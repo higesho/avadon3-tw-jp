@@ -1,0 +1,972 @@
+[
+{
+"en": "Tinkermage",
+"ja": "機工術師",
+"keep": true
+},
+{
+"en": "Kirik-Tor",
+"ja": "キリク・トール",
+"keep": true
+},
+{
+"en": "Liberating Goldcrag",
+"ja": "ゴールドクラッグの解放",
+"keep": true
+},
+{
+"en": "Svorgald Raider",
+"ja": "スヴォルガルド賊",
+"keep": true
+},
+{
+"en": "Svorgaldi Crier",
+"ja": "スヴォルガルド伝令",
+"keep": true
+},
+{
+"en": "Mighty Djalnar",
+"ja": "強大なジャルナー",
+"keep": true
+},
+{
+"en": "Baby Stickybug",
+"ja": "幼ネバリ虫",
+"keep": true
+},
+{
+"en": "Build Boltflinger",
+"ja": "ボルト射出機を建造",
+"keep": true
+},
+{
+"en": "Reaver",
+"ja": "略奪者",
+"keep": true
+},
+{
+"en": "Headwoman Amelie",
+"ja": "女頭領アメリー",
+"keep": true
+},
+{
+"en": "Seer Wernstrum",
+"ja": "ヴェルンストルム",
+"keep": true
+},
+{
+"en": "Deep Cells",
+"ja": "深部の独房",
+"keep": true
+},
+{
+"en": "Door",
+"ja": "扉",
+"keep": false
+},
+{
+"en": "Training",
+"ja": "訓練",
+"keep": false
+},
+{
+"en": "Control",
+"ja": "Ctrl",
+"keep": false
+},
+{
+"en": "Box",
+"ja": "箱",
+"keep": false
+},
+{
+"en": "Key",
+"ja": "鍵",
+"keep": false
+},
+{
+"en": "Code",
+"ja": "掟",
+"keep": false
+},
+{
+"en": "Focus",
+"ja": "集中",
+"keep": false
+},
+{
+"en": "Mastery",
+"ja": "極意",
+"keep": false
+},
+{
+"en": "Craft",
+"ja": "製作",
+"keep": false
+},
+{
+"en": "Shield",
+"ja": "盾",
+"keep": false
+},
+{
+"en": "Blow",
+"ja": "一撃",
+"keep": false
+},
+{
+"en": "Discipline",
+"ja": "鍛錬",
+"keep": false
+},
+{
+"en": "Folk",
+"ja": "民",
+"keep": false
+},
+{
+"en": "Case",
+"ja": "ケース",
+"keep": false
+},
+{
+"en": "Combat",
+"ja": "戦闘",
+"keep": false
+},
+{
+"en": "Curse",
+"ja": "呪い",
+"keep": false
+},
+{
+"en": "Keep",
+"ja": "城塞",
+"keep": false
+},
+{
+"en": "Lever",
+"ja": "レバー",
+"keep": false
+},
+{
+"en": "Protector",
+"ja": "守護官",
+"keep": false
+},
+{
+"en": "Shift",
+"ja": "Shift",
+"keep": false
+},
+{
+"en": "Trap",
+"ja": "罠",
+"keep": false
+},
+{
+"en": "Bench",
+"ja": "ベンチ",
+"keep": false
+},
+{
+"en": "Commander",
+"ja": "司令官",
+"keep": false
+},
+{
+"en": "Escape",
+"ja": "Esc",
+"keep": false
+},
+{
+"en": "Stairs",
+"ja": "階段",
+"keep": false
+},
+{
+"en": "Wheel",
+"ja": "車輪",
+"keep": false
+},
+{
+"en": "Wind",
+"ja": "風",
+"keep": false
+},
+{
+"en": "Woods",
+"ja": "森",
+"keep": false
+},
+{
+"en": "Acid",
+"ja": "酸",
+"keep": false
+},
+{
+"en": "Assassinate",
+"ja": "暗殺",
+"keep": false
+},
+{
+"en": "Blade",
+"ja": "十人隊",
+"keep": false
+},
+{
+"en": "Blessing",
+"ja": "加護",
+"keep": false
+},
+{
+"en": "Characters",
+"ja": "キャラクター",
+"keep": false
+},
+{
+"en": "Charm",
+"ja": "お守り",
+"keep": false
+},
+{
+"en": "Claw",
+"ja": "鉤爪",
+"keep": false
+},
+{
+"en": "Game",
+"ja": "ゲーム",
+"keep": false
+},
+{
+"en": "Ground",
+"ja": "地面",
+"keep": false
+},
+{
+"en": "Lands",
+"ja": "地",
+"keep": false
+},
+{
+"en": "Letter",
+"ja": "手紙",
+"keep": false
+},
+{
+"en": "Meat",
+"ja": "肉",
+"keep": false
+},
+{
+"en": "Meeting",
+"ja": "会合",
+"keep": false
+},
+{
+"en": "Quartermaster",
+"ja": "補給官",
+"keep": false
+},
+{
+"en": "Ruins",
+"ja": "遺跡",
+"keep": false
+},
+{
+"en": "Trash",
+"ja": "ガラクタ",
+"keep": false
+},
+{
+"en": "Use",
+"ja": "使用",
+"keep": false
+},
+{
+"en": "Anvil",
+"ja": "金床",
+"keep": false
+},
+{
+"en": "Arm",
+"ja": "腕",
+"keep": false
+},
+{
+"en": "Armor",
+"ja": "防御力",
+"keep": false
+},
+{
+"en": "Bands",
+"ja": "部族",
+"keep": false
+},
+{
+"en": "Base",
+"ja": "拠点",
+"keep": false
+},
+{
+"en": "Bits",
+"ja": "断片",
+"keep": false
+},
+{
+"en": "Bow",
+"ja": "弓術",
+"keep": false
+},
+{
+"en": "Brazier",
+"ja": "火鉢",
+"keep": false
+},
+{
+"en": "Challenge",
+"ja": "挑発",
+"keep": false
+},
+{
+"en": "Chambers",
+"ja": "私室",
+"keep": false
+},
+{
+"en": "Character",
+"ja": "キャラクター",
+"keep": false
+},
+{
+"en": "Charge",
+"ja": "突撃",
+"keep": false
+},
+{
+"en": "Circles",
+"ja": "環",
+"keep": false
+},
+{
+"en": "Confusion",
+"ja": "混乱",
+"keep": false
+},
+{
+"en": "Cry",
+"ja": "叫び",
+"keep": false
+},
+{
+"en": "Crystal",
+"ja": "水晶",
+"keep": false
+},
+{
+"en": "Disk",
+"ja": "ディスク",
+"keep": false
+},
+{
+"en": "Effects",
+"ja": "効果",
+"keep": false
+},
+{
+"en": "Efficiency",
+"ja": "効率",
+"keep": false
+},
+{
+"en": "End",
+"ja": "最後",
+"keep": false
+},
+{
+"en": "Grove",
+"ja": "木立",
+"keep": false
+},
+{
+"en": "Hard",
+"ja": "ハード",
+"keep": false
+},
+{
+"en": "Hasted",
+"ja": "加速",
+"keep": false
+},
+{
+"en": "Invitation",
+"ja": "招待状",
+"keep": false
+},
+{
+"en": "Items",
+"ja": "アイテム",
+"keep": false
+},
+{
+"en": "Land",
+"ja": "地",
+"keep": false
+},
+{
+"en": "Library",
+"ja": "図書室",
+"keep": false
+},
+{
+"en": "Master",
+"ja": "主",
+"keep": false
+},
+{
+"en": "Mist",
+"ja": "霧",
+"keep": false
+},
+{
+"en": "Nest",
+"ja": "巣",
+"keep": false
+},
+{
+"en": "Outpost",
+"ja": "前哨基地",
+"keep": false
+},
+{
+"en": "Outsiders",
+"ja": "余所者",
+"keep": false
+},
+{
+"en": "Peninsula",
+"ja": "半島",
+"keep": false
+},
+{
+"en": "Plant",
+"ja": "植物",
+"keep": false
+},
+{
+"en": "Poison",
+"ja": "毒",
+"keep": false
+},
+{
+"en": "Powder",
+"ja": "粉",
+"keep": false
+},
+{
+"en": "Pure",
+"ja": "清浄",
+"keep": false
+},
+{
+"en": "Quarters",
+"ja": "居室",
+"keep": false
+},
+{
+"en": "Razordisk",
+"ja": "円月刃",
+"keep": false
+},
+{
+"en": "Roar",
+"ja": "咆哮",
+"keep": false
+},
+{
+"en": "Scales",
+"ja": "鱗",
+"keep": false
+},
+{
+"en": "Settlement",
+"ja": "集落",
+"keep": false
+},
+{
+"en": "Shelves",
+"ja": "棚",
+"keep": false
+},
+{
+"en": "Slow",
+"ja": "鈍足",
+"keep": false
+},
+{
+"en": "Soldier",
+"ja": "兵士",
+"keep": false
+},
+{
+"en": "Spray",
+"ja": "噴霧",
+"keep": false
+},
+{
+"en": "Stone",
+"ja": "石",
+"keep": false
+},
+{
+"en": "Sweep",
+"ja": "薙ぎ払い",
+"keep": false
+},
+{
+"en": "Switch",
+"ja": "スイッチ",
+"keep": false
+},
+{
+"en": "Touch",
+"ja": "手",
+"keep": false
+},
+{
+"en": "Tower",
+"ja": "塔",
+"keep": false
+},
+{
+"en": "Warrior",
+"ja": "戦士",
+"keep": false
+},
+{
+"en": "Weapons",
+"ja": "武器",
+"keep": false
+},
+{
+"en": "Webs",
+"ja": "蜘蛛の巣",
+"keep": false
+},
+{
+"en": "Winds",
+"ja": "風",
+"keep": false
+},
+{
+"en": "Workshop",
+"ja": "工房",
+"keep": false
+},
+{
+"en": "unused",
+"ja": "未使用",
+"keep": false
+},
+{
+"en": "Ale",
+"ja": "エール",
+"keep": false
+},
+{
+"en": "Basin",
+"ja": "水盤",
+"keep": false
+},
+{
+"en": "Blanket",
+"ja": "毛布",
+"keep": false
+},
+{
+"en": "Body",
+"ja": "死体",
+"keep": false
+},
+{
+"en": "Bones",
+"ja": "骨",
+"keep": false
+},
+{
+"en": "Bread",
+"ja": "パン",
+"keep": false
+},
+{
+"en": "Brigand",
+"ja": "山賊",
+"keep": false
+},
+{
+"en": "Bucket",
+"ja": "バケツ",
+"keep": false
+},
+{
+"en": "Burning",
+"ja": "燃焼",
+"keep": false
+},
+{
+"en": "Chair",
+"ja": "椅子",
+"keep": false
+},
+{
+"en": "Cloak",
+"ja": "外套",
+"keep": false
+},
+{
+"en": "Confused",
+"ja": "混乱",
+"keep": false
+},
+{
+"en": "Cow",
+"ja": "牛",
+"keep": false
+},
+{
+"en": "Crate",
+"ja": "木箱",
+"keep": false
+},
+{
+"en": "Cure",
+"ja": "治癒",
+"keep": false
+},
+{
+"en": "Dazed",
+"ja": "朦朧",
+"keep": false
+},
+{
+"en": "Desk",
+"ja": "机",
+"keep": false
+},
+{
+"en": "Executioner",
+"ja": "処刑人",
+"keep": false
+},
+{
+"en": "Fish",
+"ja": "魚",
+"keep": false
+},
+{
+"en": "Frozen",
+"ja": "凍結",
+"keep": false
+},
+{
+"en": "Fruit",
+"ja": "果物",
+"keep": false
+},
+{
+"en": "Globe",
+"ja": "地球儀",
+"keep": false
+},
+{
+"en": "Hammer",
+"ja": "ハンマー",
+"keep": false
+},
+{
+"en": "Horn",
+"ja": "角笛",
+"keep": false
+},
+{
+"en": "Immobile",
+"ja": "移動不可",
+"keep": false
+},
+{
+"en": "Librarian",
+"ja": "司書",
+"keep": false
+},
+{
+"en": "Light",
+"ja": "発光",
+"keep": false
+},
+{
+"en": "Mage",
+"ja": "魔術師",
+"keep": false
+},
+{
+"en": "Merchant",
+"ja": "商人",
+"keep": false
+},
+{
+"en": "Mine",
+"ja": "地雷",
+"keep": false
+},
+{
+"en": "Mop",
+"ja": "モップ",
+"keep": false
+},
+{
+"en": "Mug",
+"ja": "マグ",
+"keep": false
+},
+{
+"en": "Mushroom",
+"ja": "キノコ",
+"keep": false
+},
+{
+"en": "Mushrooms",
+"ja": "キノコ",
+"keep": false
+},
+{
+"en": "Pants",
+"ja": "ズボン",
+"keep": false
+},
+{
+"en": "Pen",
+"ja": "ペン",
+"keep": false
+},
+{
+"en": "Pick",
+"ja": "つるはし",
+"keep": false
+},
+{
+"en": "Plate",
+"ja": "板金鎧",
+"keep": false
+},
+{
+"en": "Portal",
+"ja": "ポータル",
+"keep": false
+},
+{
+"en": "Robe",
+"ja": "ローブ",
+"keep": false
+},
+{
+"en": "Rock",
+"ja": "岩",
+"keep": false
+},
+{
+"en": "Roll",
+"ja": "パン",
+"keep": false
+},
+{
+"en": "Sage",
+"ja": "賢者",
+"keep": false
+},
+{
+"en": "Saw",
+"ja": "のこぎり",
+"keep": false
+},
+{
+"en": "Shackles",
+"ja": "枷",
+"keep": false
+},
+{
+"en": "Shocked",
+"ja": "感電",
+"keep": false
+},
+{
+"en": "Shovel",
+"ja": "シャベル",
+"keep": false
+},
+{
+"en": "Sign",
+"ja": "看板",
+"keep": false
+},
+{
+"en": "Skulls",
+"ja": "頭蓋骨の山",
+"keep": false
+},
+{
+"en": "Spear",
+"ja": "槍",
+"keep": false
+},
+{
+"en": "Stick",
+"ja": "棒",
+"keep": false
+},
+{
+"en": "Stunned",
+"ja": "気絶",
+"keep": false
+},
+{
+"en": "Sword",
+"ja": "剣",
+"keep": false
+},
+{
+"en": "Terrified",
+"ja": "恐怖",
+"keep": false
+},
+{
+"en": "Thread",
+"ja": "糸",
+"keep": false
+},
+{
+"en": "Tools",
+"ja": "道具",
+"keep": false
+},
+{
+"en": "Trapdoor",
+"ja": "落とし戸",
+"keep": false
+},
+{
+"en": "Vat",
+"ja": "大桶",
+"keep": false
+},
+{
+"en": "Wine",
+"ja": "ワイン",
+"keep": false
+},
+{
+"en": "Wizard",
+"ja": "魔術師",
+"keep": false
+},
+{
+"en": "go",
+"ja": "出発",
+"keep": false
+},
+{
+"en": "Four Circles",
+"ja": "四つの環",
+"keep": true
+},
+{
+"en": "Hand camp",
+"ja": "ハンドの野営地",
+"keep": true
+},
+{
+"en": "Audun's Intelligence",
+"ja": "アウドゥンの諜報",
+"keep": true
+},
+{
+"en": "Intelligence",
+"ja": "知力",
+"keep": false
+},
+{
+"en": "Haste",
+"ja": "加速",
+"keep": false
+},
+{
+"en": "Craftmaster Pynchon",
+"ja": "ピンチョン工匠長",
+"keep": true
+},
+{
+"en": "Craftmaster",
+"ja": "工匠長",
+"keep": true
+},
+{
+"en": "Craftmaster Nicodemus",
+"ja": "ニコデムス工匠長",
+"keep": true
+},
+{
+"en": "Commander's Hall",
+"ja": "司令官の広間",
+"keep": true
+},
+{
+"en": "Training Hall",
+"ja": "訓練の広間",
+"keep": true
+},
+{
+"en": "Imperator",
+"ja": "統領",
+"keep": true
+},
+{
+"en": "Protector",
+"ja": "守護官",
+"keep": true
+},
+{
+"en": "Acolyte",
+"ja": "侍祭",
+"keep": true
+},
+{
+"en": "Sentinel",
+"ja": "番兵",
+"keep": true
+},
+{
+"en": "Zhethron's Keep",
+"ja": "ジェスロンの城塞",
+"keep": true
+},
+{
+"en": "Records Hall",
+"ja": "記録の広間",
+"keep": true
+},
+{
+"en": "Wristflinger",
+"ja": "腕投げ器",
+"keep": true
+},
+{
+"en": "Stickybug",
+"ja": "ネバリ虫",
+"keep": true
+},
+{
+"en": "acting Keeper Protus",
+"ja": "番人代理のプロタス",
+"keep": true
+}
+]

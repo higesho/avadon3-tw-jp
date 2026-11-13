@@ -1,0 +1,1404 @@
+va	sink	refs	english	japanese
+0x5c8920	dialog	1	Avadon 3 was unable to load any of the graphics. The game is unable to locate the files on the hard drive. Throw away the Avadon 3 folder and download a fresh copy using the account you'll use to play the game. If this doesn't help, you can contact us at support@spiderwebsoftware.com.	アヴァドン3 はグラフィックを一つも読み込めませんでした。ゲームがハードディスク上のファイルを見つけられません。「Avadon 3」フォルダを削除し、ゲームを遊ぶのと同じアカウントで新しくダウンロードし直してください。それでも解決しない場合は、support@spiderwebsoftware.com までご連絡ください。
+0x5c8a40	dialog	1	AVADON 3 ERROR	AVADON 3 エラー
+0x5c8a50	message	1	This character is cursed with immobility.	このキャラクターは動けない呪いをかけられている。
+0x5c8a7c	message	1	Move: Can't get there from where you are.	移動: 今いる場所からそこへは行けない。
+0x5c8aa8	message	1	Move: Can't get there from where you are.	移動: 今いる場所からそこへは行けない。
+0x5c8ad4	message,internal	1	Error: Text string out of range.	
+0x5c8af8	message	1	This destination is too far away. Please try to move somewhere closer to where you are.	目的地が遠すぎる。もっと近い場所へ移動しよう。
+0x5c8b50	concat,internal	1	Error: String too int	
+0x5c8b68	sprintf,internal	1	Error 5: A Graphic (Template %d, Sheet %d) Couldn't Be Loaded.	
+0x5c8ba8	dialog	1	Avadon Error	アヴァドン エラー
+0x5c8bd0	sprintf,internal	1	Avadon 3 Files/Graphics Core/G%d	
+0x5c8bf4	sprintf,internal	1	Avadon 3 Files/Graphics A/G%d	
+0x5c8c14	sprintf,internal	1	Avadon 3 Files/Graphics B/G%d	
+0x5c8c4c	concat,internal	1	.	
+0x5c8c50	concat,internal	1	Error: Loading duplicate pict, graphic 	
+0x5c8c78	message,internal	1	ERROR: Just had to reset times because they seemed messed	
+0x5c8cb4	message,internal	1	  up. Report this message and say what was going on.	
+0x5c8d30	sprintf,internal	1	Debug Nums: %d %d %d %d	
+0x5c8d68	draw	1	West	西
+0x5c8d70	draw	1	North	北
+0x5c8d78	draw	1	East	東
+0x5c8d80	draw	1	South	南
+0x5c8d88		1	When you have other characters in your group, you can select their portraits to switch to their inventories. Be sure to get weapons and armor for your whole group.	仲間を連れているときは、その肖像画を選ぶと、その仲間の所持品に切り替えられます。パーティ全員分の武器と防具を忘れずに入手しておきましょう。
+0x5c8e2c	message	1	Too many lines in mouseover text.	マウスオーバーのテキストの行数が多すぎる。
+0x5c8e50		1	This window is where you can pick up (and drop) items, equip (or remove) them, or use them.	この画面では、アイテムを拾ったり（捨てたり）、装備したり（外したり）、使ったりできます。
+0x5c8eb0		1	Select an item (or type the letter by it) on the ground to move it to your pack. Select it again to pick it up.	地面のアイテムを選ぶ（またはそのアイテムの文字を入力する）と、所持品に移動します。もう一度選ぶと拾い上げます。
+0x5c8f20		1	This window is where you can pick up (and drop) items, equip (or remove) them, or use them.	この画面では、アイテムを拾ったり（捨てたり）、装備したり（外したり）、使ったりできます。
+0x5c8f7c	message	1	Too many lines in mouseover text.	マウスオーバーのテキストの行数が多すぎる。
+0x5c8fa0		1	Now that you have the cloak, click here to have your character equip it ...	外套を手に入れましたね。ここをクリックして、キャラクターに装備させましょう……
+0x5c8ff8		1	This window is where you can pick up (and drop) items, equip (or remove) them, or use them.	この画面では、アイテムを拾ったり（捨てたり）、装備したり（外したり）、使ったりできます。
+0x5c9060		1	Stand near the cloak on the table by the door. Then press this button (or type 'g') to get it.	扉のそばのテーブルにある外套の近くに立ち、このボタンを押す（または 'g' と入力する）と取得できます。
+0x5c90c0		1	To attack a skeleton, select the space it is standing in. Defeat these enemies. Later, you will learn about spells and other abilities.	骸骨を攻撃するには、骸骨がいるマスを選んでください。これらの敵を倒してみましょう。後で呪文やほかの能力についても学べます。
+0x5c9148		1	You are now in combat! In battle, all of the characters take turns acting. During your turn, you can move, attack, cast spells, use items, and so on. Press the space bar to end your turn early.	戦闘に入りました！　戦闘中は、すべてのキャラクターが順番に行動します。自分の番には、移動、攻撃、呪文の詠唱、アイテムの使用などができます。スペースバーを押すと、自分の番を早めに終えられます。
+0x5c9218		1	When no more enemies are visible, you can end combat mode by pressing this button (or typing 'f').	見えている敵がいなくなったら、このボタンを押す（または 'f' と入力する）と、戦闘モードを終えられます。
+0x5c927c	message	1	Too many lines in mouseover text.	マウスオーバーのテキストの行数が多すぎる。
+0x5c92a0		1	Select the ability you wish to use. Press this button to deliver a powerful blow. Then select a target to attack.	使う能力を選んでください。このボタンを押すと強力な一撃を繰り出せます。その後、攻撃する相手を選んでください。
+0x5c9314	message	1	Too many lines in mouseover text.	マウスオーバーのテキストの行数が多すぎる。
+0x5c9338		1	Select the ability you wish to use. Press this button to deliver a powerful blow. Then select a target to attack.	使う能力を選んでください。このボタンを押すと強力な一撃を繰り出せます。その後、攻撃する相手を選んでください。
+0x5c93ac	message,internal	1	Error: Checked sound out of range.	
+0x5c93d0		1	Select the ability you wish to use. Press this button to summon a wolf to aid you in battle.	使う能力を選んでください。このボタンを押すと、狼を呼び出して戦いを手伝わせられます。
+0x5c9430		1	Select the ability you wish to use. Press this button to cast a spell that dazes non-skeletal foes. Then select the target area for the spell.	使う能力を選んでください。このボタンを押すと、骸骨以外の敵を朦朧とさせる呪文を唱えられます。その後、呪文を放つ範囲を選んでください。
+0x5c94c0		1	Select the ability you wish to use. Press this button to create a turret that will shoot nearby foes.	使う能力を選んでください。このボタンを押すと、近くの敵を撃つ砲台を作れます。
+0x5c9528		1	When you use an ability, you won't be able to use it again for several turns.	能力を使うと、数ターンの間は再び使えなくなります。
+0x5c9578		1	You have a variety of abilities that can help to defeat your foes. Why not try one out? Press this button (or type 'a') to use an ability.	敵を倒すのに役立つ能力がいろいろあります。ひとつ試してみませんか？　このボタンを押す（または 'a' と入力する）と、能力を使えます。
+0x5c9604	message,internal	1	Error: Checked sound out of range.	
+0x5c9628		1	... or press this button to use your missile weapon. (You can also press 'w' to switch.) Try it now.	……または、このボタンを押して投射武器を使ってください。（'w' を押しても切り替えられます。）今すぐ試してみましょう。
+0x5c9690		1	Press this button to attack with your melee weapon ...	このボタンを押すと、近接武器で攻撃します……
+0x5c96c8		1	When you select an enemy, you will attack it with your current weapon.	敵を選ぶと、現在の武器でその敵を攻撃します。
+0x5c9710		1	Select one of these slots, type the name for your saved game, and press the 'OK' button to save your game.	いずれかのスロットを選び、セーブデータの名前を入力して、「OK」ボタンを押すと、ゲームを保存できます。
+0x5c977c	message,internal	1	Error: Checked sound out of range.	
+0x5c97a0		1	Later, you can use the File Menu (or type Control-O) to bring up the Load Game window and load your saved game.	後で、ファイルメニュー（または Ctrl-O と入力）から「ゲームをロード」画面を開き、保存したゲームを読み込めます。
+0x5c9810		1	Finally, if you're in a hurry, you can type F3 to save your game in the Quick Save slot. Later, you can type F4 to load that game.	急いでいる場合は、F3 と入力するとクイックセーブのスロットにゲームを保存できます。後で F4 と入力すると、そのゲームを読み込めます。
+0x5c9894	message,internal	1	Error: Played sound out of range.	
+0x5c98b8		1	Now that you have played for a while, you should save the game. Press this button to bring up the file menu. (Or type Control-S to save the game directly.)	しばらく遊んだら、ゲームを保存しておきましょう。このボタンを押すと、ファイルメニューが開きます。（または Ctrl-S と入力すると、すぐにゲームを保存できます。）
+0x5c9954	sprintf	1	Avadon 3 Files\\Avadon 3 Sounds\\SND%d.ogg	
+0x5c9980		1	Press the '+' buttons to increase your base statistics (Strength, Dexterity, etc.). Then select the abilites to the right you wish to increase.	'+' ボタンを押すと、基本能力値（筋力、器用さなど）を上げられます。その後、右側にある上げたい能力を選んでください。
+0x5c9a10		1	You gain levels by completing quests and defeating foes. When you gain a level, you can increase your base statistics and your abilities.	クエストを完了したり敵を倒したりすると、レベルが上がります。レベルが上がったら、基本能力値と能力を上げられます。
+0x5c9aa0		1	This character has gained a level! Press the Info button to learn how to train your character.	このキャラクターがレベルアップしました！　キャラクターの育て方は、情報ボタンを押すと確認できます。
+0x5c9b08	sprintf	1	 |v1.0.2, Copyright 2016, Spiderweb Software, All Rights Reserved	
+0x5c9b4c	sprintf	1	Scripts%s%s	
+0x5c9b58	sprintf	1	DEMO VERSION.|v1.0.2, Copyright 2016, Spiderweb Software, All Rights Reserved	
+0x5c9ba8	concat	1	Script name empty or too int.	
+0x5c9bc8	message	1	Failed to allocate script memory.	
+0x5c9bec	message	1	Failed to load script text.	
+0x5c9c08	message	1	Failed to allocate memory for token list.	
+0x5c9c34	concat,internal	1	.	
+0x5c9c38	concat,internal	1	 script failure: Token longer than max length in line 	
+0x5c9c70	concat,internal	1	.	
+0x5c9c74	concat,internal	1	 script failure: Variable name too int in line 	
+0x5c9ca4	concat,internal	1	.	
+0x5c9ca8	concat,internal	1	 script failure: Too many variables defined in line 	
+0x5c9ce0	concat,internal	1	.	
+0x5c9ce4	concat	1	 in line 	
+0x5c9cf0	concat,internal	1	 script failure: Invalid identifier 	
+0x5c9d18	concat,internal	1	.	
+0x5c9d1c	concat,internal	1	 script failure: Overlong operator in line 	
+0x5c9d48	concat,internal	1	.	
+0x5c9d4c	concat	1	 in line 	
+0x5c9d58	concat,internal	1	 script failure: Invalid operator 	
+0x5c9d7c	concat,internal	1	.	
+0x5c9d80	concat,internal	1	 script failure: Overlong or unending string in line 	
+0x5c9db8	concat,internal	1	.	
+0x5c9dbc	concat,internal	1	 script failure: Too many strings in line 	
+0x5c9de8	concat,internal	1	.	
+0x5c9dec	concat,internal	1	 script failure: Invalid symbol in line 	
+0x5c9e18	concat,internal	1	.	
+0x5c9e1c	concat	1	 internal error: Token stack overflow in 	
+0x5c9e48	concat,internal	1	.	
+0x5c9e4c	concat	1	 internal error: Bad initialization in 	
+0x5c9e74	concat,internal	1	.	
+0x5c9e78	concat	1	 Error: Internal error 1 in line 	
+0x5c9e9c	concat,internal	1	.	
+0x5c9ea0	concat	1	 Error: Unmatched right bracket in line 	
+0x5c9ecc	concat,internal	1	.	
+0x5c9ed0	concat	1	 Error: Internal error 2 in line 	
+0x5c9ef4	concat,internal	1	.	
+0x5c9ef8	concat	1	 Error: Right bracket without matching conditional in line 	
+0x5c9f34	concat,internal	1	.	
+0x5c9f38	concat	1	 Error: Missing semicolon in line 	
+0x5c9f5c	concat,internal	1	.	
+0x5c9f60	concat	1	 Error: No body declared.	
+0x5c9f7c	concat,internal	1	.	
+0x5c9f80	concat	1	 Error: State with no number in line 	
+0x5c9fa8	concat,internal	1	.	
+0x5c9fac	concat,internal	1	 Error: Tried to run invalid creature script.	
+0x5c9fdc	concat,internal	1	.	
+0x5c9fe0	concat	1	 Error: Creature script bad header.	
+0x5ca004	concat	1	 Error: State not found - 	
+0x5ca020	concat,internal	1	.	
+0x5ca024	concat,internal	1	 Error: Tried to process invalid dialogue script.	
+0x5ca058	concat,internal	1	.	
+0x5ca05c	concat	1	 Error: Dialogue script bad header.	
+0x5ca080	concat,internal	1	.	
+0x5ca084	concat	1	Dialogue script error: No dialogue node selected in line 	
+0x5ca0c0	concat,internal	1	.	
+0x5ca0c4	concat	1	Dialogue script error: Extra begintalkscript in line 	
+0x5ca0fc	concat,internal	1	.	
+0x5ca100	concat	1	Dialogue script error: Too many dialogue nodes in line 	
+0x5ca138	concat,internal	1	.	
+0x5ca13c	concat,internal	1	Dialogue script error: Dialogue node out of range in line 	
+0x5ca178	concat,internal	1	.	
+0x5ca17c	concat	1	Dialogue script error: Missing = in line 	
+0x5ca1a8	concat,internal	1	.	
+0x5ca1ac	concat	1	Dialogue script error: Missing number in line 	
+0x5ca1dc	concat,internal	1	.	
+0x5ca1e0	concat	1	Dialogue script error: Missing = in line 	
+0x5ca20c	concat,internal	1	.	
+0x5ca210	concat	1	Dialogue script error: Missing ; in line 	
+0x5ca23c	concat,internal	1	.	
+0x5ca240	concat	1	Dialogue script error: Missing = in line 	
+0x5ca26c	concat,internal	1	.	
+0x5ca270	concat	1	Dialogue script error: Missing string data in line 	
+0x5ca2a4	concat,internal	1	.	
+0x5ca2a8	concat	1	Dialogue script error: Missing = in line 	
+0x5ca2d4	concat,internal	1	.	
+0x5ca2d8	concat	1	Dialogue script error: Missing matching break in line 	
+0x5ca310	concat,internal	1	.	
+0x5ca314	concat	1	Dialogue script error: Missing = in line 	
+0x5ca340	concat,internal	1	.	
+0x5ca344	concat	1	Dialogue script error: Missing = in line 	
+0x5ca370	concat,internal	1	.	
+0x5ca374	concat	1	Dialogue script error: Missing string data in line 	
+0x5ca3a8	concat,internal	1	.	
+0x5ca3ac	concat	1	Dialogue script error: Improper block definer in line 	
+0x5ca3e4	concat,internal	1	.	
+0x5ca3e8	concat	1	Dialogue script error:  in line 	
+0x5ca40c	concat,internal	1	.	
+0x5ca410	concat	1	Dialogue script error: Missing semicolon in line 	
+0x5ca444	concat,internal	1	.	
+0x5ca448	concat,internal	1	 Error: Tried to process invalid text library script.	
+0x5ca480	concat,internal	1	.	
+0x5ca484	concat	1	 Error: Text library script bad header.	
+0x5ca4ac	concat,internal	1	.	
+0x5ca4b0	concat	1	Text library error: Unexpected EOF in line 	
+0x5ca4dc	concat,internal	1	.	
+0x5ca4e0	concat,internal	1	Text library error: String # out of range in line 	
+0x5ca514	concat,internal	1	.	
+0x5ca518	concat	1	Text library error: Missing '=' in line 	
+0x5ca544	concat,internal	1	.	
+0x5ca548	concat	1	Text library error: Missing string in line 	
+0x5ca574	concat,internal	1	.	
+0x5ca578	concat	1	Text library error: Missing semicolon in line 	
+0x5ca5a8	concat,internal	1	.	
+0x5ca5ac	concat	1	Text library error: Duplicate string in line 	
+0x5ca5dc	concat,internal	1	.	
+0x5ca5e0	concat,internal	1	 Error: Tried to run invalid zone script.	
+0x5ca60c	concat,internal	1	.	
+0x5ca610	concat	1	 Error: Zone file bad header.	
+0x5ca630	concat	1	 Error: State not found - 	
+0x5ca64c	concat,internal	1	.	
+0x5ca650	concat,internal	1	 Error: Tried to run invalid creature script.	
+0x5ca680	concat,internal	1	.	
+0x5ca684	concat	1	 Error: Creature file bad header.	
+0x5ca6a8	concat	1	 Error: State not found - 	
+0x5ca6c4	concat,internal	1	.	
+0x5ca6c8	concat,internal	1	 Error: Tried to run invalid object script	
+0x5ca6f4	concat,internal	1	.	
+0x5ca6f8	concat	1	 Error: Object file bad header.	
+0x5ca718	concat	1	 Error: State not found - 	
+0x5ca734	concat,internal	1	.	
+0x5ca738	concat	1	 Error: Too many nodes used in line 	
+0x5ca760	message	1	  Your script is doing too much, hot-shot!	
+0x5ca78c	concat,internal	1	.	
+0x5ca790	concat	1	 Error: State not ended properly in line 	
+0x5ca7bc	concat,internal	1	.	
+0x5ca7c0	concat	1	 Error: Missing ( in line 	
+0x5ca7dc	concat,internal	1	.	
+0x5ca7e0	concat	1	 Error: Missing ) in line 	
+0x5ca7fc	concat,internal	1	.	
+0x5ca800	concat	1	 Error: Unmatched left bracket in line 	
+0x5ca828	concat,internal	1	.	
+0x5ca82c	concat	1	 Error: Missing ) in line 	
+0x5ca848	concat,internal	1	.	
+0x5ca84c	concat	1	 Error: Unmatched left bracket in line 	
+0x5ca874	concat,internal	1	.	
+0x5ca878	concat	1	 Error: While loop without left bracket in line 	
+0x5ca8ac	concat,internal	1	.	
+0x5ca8b0	concat	1	 Error: Missing ( in line 	
+0x5ca8cc	concat,internal	1	.	
+0x5ca8d0	concat	1	 Error: Missing = in line 	
+0x5ca8ec	concat,internal	1	.	
+0x5ca8f0	concat	1	 Error: Missing = in line 	
+0x5ca90c	concat,internal	1	.	
+0x5ca910	concat	1	 Error: Wrong function type in line 	
+0x5ca938	concat,internal	1	.	
+0x5ca93c	concat	1	 Error: Missing left parenthesis in line 	
+0x5ca968	concat,internal	1	.	
+0x5ca96c	concat	1	 Error: Improper command in line 	
+0x5ca990	concat,internal	1	.	
+0x5ca994	concat	1	 Error: Unexpected end of file in line 	
+0x5ca9bc	concat,internal	1	.	
+0x5ca9c0	concat	1	 Error: Unmatched left parenthesis in line 	
+0x5ca9ec	concat,internal	1	.	
+0x5ca9f0	concat	1	 Error: Empty expression in line 	
+0x5caa14	concat,internal	1	.	
+0x5caa18	concat	1	 Major Error: Expression TOO LONG in line 	
+0x5caa44	concat,internal	1	.	
+0x5caa48	concat	1	 Error: Bad term in expression in line 	
+0x5caa70	concat,internal	1	.	
+0x5caa74	concat	1	 Error: Bad expression in line 	
+0x5caa94	message,internal	1	Error: Tried to parse invalid scenario data file.	
+0x5caac8	message,internal	1	Error: Scenario data file bad header.	
+0x5caaf0	concat,internal	1	.	
+0x5caaf4	concat	1	Scenario script error: Extra beginscenscript in line 	
+0x5cab2c	concat,internal	1	.	
+0x5cab30	concat	1	Scenario script error: Missing number in line 	
+0x5cab60	concat,internal	1	.	
+0x5cab64	concat,internal	1	Scenario script error: Floor type out of range in line 	
+0x5cab9c	concat,internal	1	.	
+0x5caba0	concat,internal	1	Scenario script error: Ter type out of range in line 	
+0x5cabd8	concat,internal	1	.	
+0x5cabdc	concat,internal	1	Scenario script error: Value out of range in line 	
+0x5cac10	concat,internal	1	.	
+0x5cac14	concat,internal	1	Scenario script error: Value out of range in line 	
+0x5cac48	concat,internal	1	.	
+0x5cac4c	concat,internal	1	Scenario script error: Abil type out of range in line 	
+0x5cac84	concat,internal	1	.	
+0x5cac88	concat	1	Scenario script error: Missing number in line 	
+0x5cacb8	concat,internal	1	.	
+0x5cacbc	concat,internal	1	Scenario script error: Value out of range in line 	
+0x5cacf0	concat,internal	1	.	
+0x5cacf4	concat	1	Scenario script error: Improper block definer in line 	
+0x5cad2c	concat,internal	1	.	
+0x5cad30	concat	1	Scenario script error: Unexpected variable definer in line 	
+0x5cad6c	concat,internal	1	.	
+0x5cad70	concat	1	Scenario script error: Missing = in line 	
+0x5cad9c	concat,internal	1	.	
+0x5cada0	concat	1	Scenario script error: Missing value in line 	
+0x5cadd0	concat,internal	1	.	
+0x5cadd4	concat	1	Scenario script error: Out of place import command in line 	
+0x5cae10	concat,internal	1	.	
+0x5cae14	concat	1	Scenario script error: Out of place variable definer in line 	
+0x5cae54	concat,internal	1	.	
+0x5cae58	concat	1	Scenario script error: Assignment error in line 	
+0x5cae8c	concat,internal	1	.	
+0x5cae90	concat	1	Scenario script error: Unexpected array definer in line 	
+0x5caecc	concat,internal	1	.	
+0x5caed0	concat	1	Scenario script error: Missing array member in line 	
+0x5caf08	concat,internal	1	.	
+0x5caf0c	concat	1	Scenario script error: Missing = in line 	
+0x5caf38	concat,internal	1	.	
+0x5caf3c	concat	1	Scenario script error: Missing value in line 	
+0x5caf6c	concat,internal	1	.	
+0x5caf70	concat	1	Scenario script error: Out of place array definer in line 	
+0x5cafac	concat,internal	1	.	
+0x5cafb0	concat	1	Scenario script error: Array assignment error in line 	
+0x5cafe8	concat,internal	1	.	
+0x5cafec	concat	1	Scenario script error: Unexpected string definer in line 	
+0x5cb028	concat,internal	1	.	
+0x5cb02c	concat	1	Scenario script error: Missing = in line 	
+0x5cb058	concat,internal	1	.	
+0x5cb05c	concat	1	Scenario script error: Missing string in line 	
+0x5cb08c	message	1	Internal string error 1	
+0x5cb0a4	concat,internal	1	.	
+0x5cb0a8	concat	1	Scenario script error: Out of place string in line 	
+0x5cb0dc	concat,internal	1	.	
+0x5cb0e0	concat	1	Scenario script error: String assignment error in line 	
+0x5cb118	concat,internal	1	.	
+0x5cb11c	concat	1	Scenario script error: Improper command in line 	
+0x5cb150	concat,internal	1	.	
+0x5cb154	concat	1	Scenario script error: Missing semicolon in line 	
+0x5cb188	internal	1	NullZoneSc	
+0x5cb194	concat,internal	1	Error: Couldn't create an AI for zone. Script: 	
+0x5cb1cc	concat	1	!	になった！
+0x5cb1d0	concat,internal	1	Error: Couldn't create an AI for creature 	
+0x5cb204	concat	1	!	になった！
+0x5cb208	concat,internal	1	Error: Couldn't create an AI for object 	
+0x5cb23c	message,internal	1	Error: Tried to load text library out of range.	
+0x5cb334	internal	1	NullZoneSc	
+0x5cb340	message,internal	1	Error: Couldn't create a zone dialogue script.	
+0x5cb37c	message,internal	1	Error: Couldn't create a zone dialogue script.	
+0x5cb3c0	sprintf	1	OK.	「わかった。」
+0x5cb3c4	sprintf	1	I have another question.	「別の質問がある。」
+0x5cb3e0	sprintf	1	That's all for now.	「今はこれで十分だ。」
+0x5cb3f4	sprintf	1	OK.	「わかった。」
+0x5cb3f8	sprintf	1	The conversation ends.	「会話を終える。」
+0x5cb410	message	1	Major Error 1: Couldn't initialize scen data.	
+0x5cb454	message	1	Major Error 1: Couldn't initialize scen data.	
+0x5cb498	message	1	Major Error 1: Couldn't initialize scen data.	
+0x5cb4d8	concat,internal	1	.	
+0x5cb4dc	concat	1	 Error: Creature/object-only function in line 	
+0x5cb50c	concat,internal	1	.	
+0x5cb510	concat	1	 Error: Creature-only function in line 	
+0x5cb538	concat,internal	1	.	
+0x5cb53c	concat	1	 Error: Function call error (no parameters) in line 	
+0x5cb574	concat,internal	1	.	
+0x5cb578	concat	1	 Error: Creature/object-only function in line 	
+0x5cb5a8	message,internal	1	Error: Called for creature type of dead creature.	
+0x5cb5dc	concat,internal	1	.	
+0x5cb5e0	concat	1	 Error: Function call error (unary) in line 	
+0x5cb610	concat,internal	1	.	
+0x5cb614	concat	1	 Error: Bad SDF in line 	
+0x5cb630	concat,internal	1	.	
+0x5cb634	concat	1	 Error: Function call error (binary) in line 	
+0x5cb664	concat,internal	1	.	
+0x5cb668	concat	1	 Error: Function call error (trinary) in line 	
+0x5cb698	concat,internal	1	.	
+0x5cb69c	concat	1	 Error: Wrong number/type of procedure parameters in line 	
+0x5cb6d8	concat,internal	1	Debug Value: 	
+0x5cb6e8	sprintf,internal	1	Debug location: %d %d	
+0x5cb700	message,internal	1	Error: Can't use set_state with value below 2.	
+0x5cb730	message,internal	1	Abil slot out of range.	
+0x5cb748	concat,internal	1	.	
+0x5cb74c	concat	1	 Error: Bad SDF parameters in line 	
+0x5cb780	concat,internal	1	.	
+0x5cb784	concat	1	 Error: Dialogue-only procedure in line 	
+0x5cb7b0	sprintf	1	You pay %d coins.	%dゴールドを支払った。
+0x5cb7c4	sprintf	1	You gain %d coins.	%dゴールドを得た。
+0x5cb7d8	sprintf	1	You get an item: %s	アイテムを得た: %s
+0x5cb7ec	message	1	You don't have room to carry this item. It falls to the floor.	持ち物がいっぱいで、このアイテムを持てない。アイテムは床に落ちた。
+0x5cb82c	message	1	You return to a safe base and are able to rest.	安全な拠点に戻った。ここで休息できる。
+0x5cb864	concat	1	Pacification Pylon calms 	鎮静の転送柱が鎮めた: 
+0x5cb880	concat_msg	1	. This entry is already in your codex.	についてだ。この項目は既にコーデックスに登録されている。
+0x5cb8a8	concat_msg	1	This book is about 	この本の内容は
+0x5cb8bc	concat_msg	1	This book is about 	この本の内容は
+0x5cb8d0	concat_msg	1	. This entry has been added to your codex (which can be read in the Journal).	についてだ。この項目はコーデックスに追加された（日誌で読める）。
+0x5cb920	message	1	Peculiar error. Undefined function called.	
+0x5cb94c	concat,internal	1	.	
+0x5cb950	concat	1	 Error: Procedure call error in line 	
+0x5cb978	concat,internal	1	.	
+0x5cb97c	concat	1	 Error: Location-returning function error in line 	
+0x5cb9b0	table,internal	1	ACH_AV3_0	
+0x5cb9bc	table,internal	1	ACH_AV3_1	
+0x5cb9c8	table,internal	1	ACH_AV3_2	
+0x5cb9d4	table,internal	1	ACH_AV3_3	
+0x5cb9e0	table,internal	1	ACH_AV3_4	
+0x5cb9ec	table,internal	1	ACH_AV3_5	
+0x5cb9f8	table,internal	1	ACH_AV3_6	
+0x5cba04	table,internal	1	ACH_AV3_7	
+0x5cba10	table,internal	1	ACH_AV3_8	
+0x5cba1c	table,internal	1	ACH_AV3_9	
+0x5cba28	table,internal	1	ACH_AV3_10	
+0x5cba34	table,internal	1	ACH_AV3_11	
+0x5cba40	table,internal	1	ACH_AV3_12	
+0x5cba4c	table,internal	1	ACH_AV3_13	
+0x5cba58	table,internal	1	ACH_AV3_14	
+0x5cba64	table,internal	1	ACH_AV3_15	
+0x5cba70	table,internal	1	ACH_AV3_16	
+0x5cba7c	table,internal	1	ACH_AV3_17	
+0x5cba88	table,internal	1	ACH_AV3_18	
+0x5cba94	table,internal	1	ACH_AV3_19	
+0x5cbaa0	table,internal	1	ACH_AV3_20	
+0x5cbaac	table,internal	1	ACH_AV3_21	
+0x5cbab8	table,internal	1	ACH_AV3_22	
+0x5cbac4	table,internal	1	ACH_AV3_23	
+0x5cbad0	table,internal	1	ACH_AV3_24	
+0x5cbadc	table,internal	1	ACH_AV3_25	
+0x5cbae8	table,internal	1	ACH_AV3_26	
+0x5cbaf4	table,internal	1	ACH_AV3_27	
+0x5cbb00	table,internal	1	ACH_AV3_28	
+0x5cbb0c	table,internal	1	ACH_AV3_29	
+0x5cbb18	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sAvadon3Settings.dat	
+0x5cbb74	dialog	1	Couldnt write preferences file.	設定ファイルを書き込めませんでした。
+0x5cbb94	sprintf	1	Medal Earned: %s	メダル獲得: %s
+0x5cbba8	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sAvadon3Settings.dat	
+0x5cbc04	internal	1	rb	
+0x5cbc08	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sAvadon3Settings.dat	
+0x5cbc80	dialog,internal	1	Steam must be running to play this game (SteamAPI_Init() failed).	
+0x5cbcc4	dialog	1	Fatal Error	致命的なエラー
+0x5cbcd0	internal	1	Received stats and achievements from Steam\n	
+0x5cbcfc	internal	1	name	
+0x5cbd08	internal	1	desc	
+0x5cbd14	4cb52f,internal	1	RequestStats - failed, %d\n	
+0x5cbd30	internal	1	Stored stats for Steam\n	
+0x5cbd48	4cb52f,internal	1	StatsStored - failed, %d\n	
+0x5cbd64	internal	1	Stored Achievement for Steam\n	
+0x5cbd84	label	1	Autosave	オートセーブ
+0x5cbd90	489a30	1	Welcome to Avadon 3! These messages will pop up to help you learn to play the game. Click somewhere to move your character.	アヴァドン3へようこそ！このメッセージは、ゲームの遊び方を覚えるために表示されます。どこかをクリックすると、キャラクターが移動します。
+0x5cbe0c	4023f0	1	Action cancelled.	行動を取り消した。
+0x5cbe20	message	1	Cheat codes have been deactivated. To learn how to turn them back on, go to Spiderweb Software's web site and look at the Avadon tech support page.	チートコードは無効になった。再び有効にする方法は、Spiderweb Softwareのウェブサイトにあるアヴァドンのテクニカルサポートページを見ること。
+0x5cbeb4	message	1	Can't Quicksave during combat.	戦闘中はクイックセーブできない。
+0x5cbed4	message	1	Action cancelled.	行動を取り消した。
+0x5cbee8	message	1	Load Quicksave: This will cause you to lose your progress. Press F4 again to load your Quicksave game.	クイックセーブ読み込み: 現在の進行状況は失われる。もう一度F4を押すと、クイックセーブしたゲームを読み込む。
+0x5cbf50	message	1	Quicksave: Nothing in quicksave slot. Press F3 to quicksave game.	クイックセーブ: クイックセーブ枠は空だ。F3を押すとゲームをクイックセーブする。
+0x5cbf94	message	1	Action cancelled.	行動を取り消した。
+0x5cbfa8	message	1	Attack: Finish what is happening first.	攻撃: 先に進行中の処理を終えること。
+0x5cbfd0	message	1	Destroy Turret: Only the tinkermage who created this device can destroy it.	タレット破壊: この装置を作った機工術師だけが破壊できる。
+0x5cc01c	message	1	Talk: You can't talk to charmed characters.	会話: 魅了されたキャラクターとは話せない。
+0x5cc048	message	1	Talk: You can't start a conversation while in combat mode.	会話: 戦闘モード中は会話を始められない。
+0x5cc084	message	1	Use Object: Only your actual characters can use objects.	オブジェクト使用: 使えるのは自分のキャラクターだけだ。
+0x5cc0c0	message	1	Use Object: You don't have enough action points (Need 5).	オブジェクト使用: 行動ポイントが足りない（5必要）。
+0x5cc0fc	message	1	Attack: You need to be able to see this foe to target it.	攻撃: 敵を狙うには、その敵が見えていなければならない。
+0x5cc138	message	1	Attack: You can't attack mines. To attempt to disarm it, stand next to it and select it.	攻撃: 地雷は攻撃できない。解除するには、隣に立って選択すること。
+0x5cc194	message	1	You need to select an empty space to target this ability.	この能力を狙うには、空いているマスを選ぶ必要がある。
+0x5cc1d0	message	1	Use Ability: You need to select an empty space to use this ability.	能力使用: この能力を使うには、空いているマスを選ぶ必要がある。
+0x5cc214	message	1	Use Ability: You can't see this target spot.	能力使用: この対象地点は見えない。
+0x5cc244	message,internal	1	Use Ability: This target spot is out of range.	
+0x5cc274	message	1	You can only teleport to spaces you have a clear path to.	見通しの通るマスにしか瞬間移動できない。
+0x5cc2b0	message	1	Move: You can't move when targeting an ability. (Press Escape to cancel the ability.)	移動: 能力の対象を選択中は移動できない。（Escを押すと能力を取り消せる。）
+0x5cc308	message	1	Action canceled.	行動を取り消した。
+0x5cc31c	concat	1	 is now inactive.	はアクティブでなくなった。
+0x5cc330	message	1	Move: You can't move in a combat round after you've attacked, used an ability, or been stopped by an enemy. (Click the character or press the space bar to end your turn early.)	移動: 攻撃・能力の使用・敵による停止のあとは、戦闘ラウンド中に移動できない。（キャラクターをクリックするか、スペースバーを押すと、ターンを早めに終えられる。）
+0x5cc3e4	concat	1	 is active again.	はアクティブに戻った。
+0x5cc3f8	message	1	Move Roster Window: Finish what you're doing first.	名簿ウィンドウの移動: 先に今の行動を終えること。
+0x5cc430	message	1	Move Roster Window: Select where you would like to place the roster window.	名簿ウィンドウの移動: 名簿ウィンドウを置く場所を選択すること。
+0x5cc47c	tooltip	1	Health: 	体力: 
+0x5cc48c	tooltip	1	Vitality: 	活力: 
+0x5cc498	tooltip	1	 vitality lost to wounds.	ポイントの活力が負傷で失われた。
+0x5cc4b4	sprintf	1	AP: 1	
+0x5cc4bc	sprintf	1	AP: %d	
+0x5cc4c4	sprintf	1	Pet AP: 1	ペットAP: 1
+0x5cc4d0	sprintf	1	Pet AP: %d	ペットAP: %d
+0x5cc4dc	message	1	Give Item: Your pack is full.	アイテム譲渡: 持ち物がいっぱいだ。
+0x5cc4fc	message	1	Inventory: Finish what you're doing first.	所持品: 先に今の行動を終えること。
+0x5cc528	message	1	Inventory: This character must be active to see the inventory.	所持品: 所持品を見るには、このキャラクターをアクティブにしている必要がある。
+0x5cc568	message	1	You can't use this ability on an unconscious character.	気絶しているキャラクターには、この能力を使えない。
+0x5cc5a0	message	1	See Statistics: Finish what you're doing first.	能力値の確認: 先に今の行動を終えること。
+0x5cc5d4	sprintf	1	Turns Remaining: %d.	残りターン: %d。
+0x5cc5ec	tooltip	1	Default Attack: Melee weapon	通常攻撃: 近接武器
+0x5cc60c	tooltip	1	Default Attack: Melee weapon	通常攻撃: 近接武器
+0x5cc62c	tooltip	1	Default Attack: Spirit Claw	通常攻撃: 霊の爪
+0x5cc648	tooltip	1	Default Attack: Firebolt	通常攻撃: 火炎弾
+0x5cc664	tooltip	1	Default Attack: Melee weapon	通常攻撃: 近接武器
+0x5cc684	tooltip	1	Default Attack: Missile Weapon	通常攻撃: 遠隔武器
+0x5cc6a8	tooltip	1	Use Ability (	能力使用(
+0x5cc6b8	tooltip	1	Use Ability	能力使用
+0x5cc6c8	tooltip	1	Inventory (	所持品(
+0x5cc6d4	tooltip	1	Inventory	所持品
+0x5cc6e4	tooltip	1	See Journal/Quest Log (	日誌/クエストログを表示(
+0x5cc6fc	tooltip	1	See Journal/Quest Log	日誌/クエストログを表示
+0x5cc718	tooltip	1	Instructions (	操作説明(
+0x5cc728	tooltip	1	Instructions	操作説明
+0x5cc738	tooltip	1	Save/Load/Quit Menu (Escape)	セーブ/ロード/終了メニュー(Esc)
+0x5cc758	tooltip	1	Empty Quick Use slot.	クイック使用枠（空）
+0x5cc774	tooltip	1	Shortcut: 	ショートカット: 
+0x5cc780	tooltip	1	To clear this Quick Use button, Right-Click or Control-click it.	このクイック使用ボタンを消すには、右クリックするか、Ctrl+クリックする。
+0x5cc7c8	tooltip	1	Start Combat (	戦闘開始(
+0x5cc7d8	tooltip	1	Start Combat	戦闘開始
+0x5cc7ec	tooltip	1	End Combat (	戦闘終了(
+0x5cc7fc	tooltip	1	End Combat	戦闘終了
+0x5cc808	message	1	Quickspell: Only your characters can set Quickspell slots.	クイック呪文: 自分のキャラクターだけがクイック呪文枠を設定できる。
+0x5cc844	message	1	Weapon Mode: You need to equip a melee weapon.	武器モード: 近接武器を装備している必要がある。
+0x5cc874	message	1	Default attack is now melee weapon.	通常攻撃が近接武器になった。
+0x5cc898	float	1	Default: Main Weapon	通常: メイン武器
+0x5cc8b0	message	1	Weapon Mode: You need to equip a missile weapon.	武器モード: 遠隔武器を装備している必要がある。
+0x5cc8e4	message	1	Default attack is now missile weapon.	通常攻撃が遠隔武器になった。
+0x5cc90c	float	1	Default: Missile Weapon	通常: 遠隔武器
+0x5cc924	message	1	Use Ability: Finish what you're doing first.	能力使用: 先に今の行動を終えること。
+0x5cc954	message	1	Get Items: Your main character must be active to get items.	アイテム取得: アイテムを得るには、メインキャラクターをアクティブにしている必要がある。
+0x5cc990	message	1	Quick Use: Only your characters can use Quick Use slots.	クイック使用: 自分のキャラクターだけがクイック使用枠を使える。
+0x5cc9cc	message	1	Switch Items: You don't have enough action points.	アイテムスイッチ: 行動ポイントが足りない。
+0x5cca00	message	1	Quick Use: To use a Quick Use slot, your character must be active.	クイック使用: クイック使用枠を使うには、キャラクターをアクティブにしている必要がある。
+0x5cca44	message	1	Use Ability: Finish what you're doing first.	能力使用: 先に今の行動を終えること。
+0x5cca74	message	1	Swap Weapons: You switch to a new weapon.	武器交換: 新しい武器に持ち替えた。
+0x5ccaa0	float	1	Switch Weapon	武器スイッチ
+0x5ccab0	message	1	Equip Weapon: You equip a new weapon.	武器装備: 新しい武器を装備した。
+0x5ccad8	float	1	Switch Weapon	武器スイッチ
+0x5ccae8	message	1	Quickspell: Only your characters can set Quickspell slots.	クイック呪文: 自分のキャラクターだけがクイック呪文枠を設定できる。
+0x5ccb24	message	1	Move Map Window: Finish what you're doing first.	マップウィンドウの移動: 先に今の行動を終えること。
+0x5ccb58	message	1	Move Map Window: Select where you would like to place the map window.	マップウィンドウの移動: マップウィンドウを置く場所を選択すること。
+0x5ccba0	label	1	Hold Tab key to see entire map.	Tabキーを押し続けると全体マップを表示
+0x5ccbc0	label	1	Hold Shift key to see creature names.	Shiftキーを押し続けるとクリーチャー名を表示
+0x5ccbe8	sprintf	1	Walk: %d	歩行: %d
+0x5ccbf4	sprintf	1	NullZoneSc	
+0x5ccc00	concat	1	 is swept under the water and drowns!	は水に押し流され、溺れた！
+0x5ccc28	concat	1	 is caught by the lava and burns to a cinder!	は溶岩に捕まり、黒焦げになった！
+0x5ccc58	sprintf	1	Zone Name	
+0x5ccc64	sprintf	1	Unused	未使用
+0x5ccc6c	sprintf	1	Unused	未使用
+0x5ccc74	sprintf	1	mobbasic	
+0x5ccc80	sprintf	1	Unused	未使用
+0x5ccc88	sprintf	1	Unused	未使用
+0x5ccc90	sprintf	1	Unused	未使用
+0x5ccc98	sprintf	1	Unused	未使用
+0x5ccca0	sprintf	1	Unused	未使用
+0x5ccca8	sprintf	1	Unused	未使用
+0x5cccb0	sprintf	1	Unused	未使用
+0x5cccb8	concat,internal	1	.	
+0x5cccbc	concat	1	 by 	が
+0x5cccc4	concat	1	 increases 	の上昇: 
+0x5cccd0	concat,internal	1	.	
+0x5cccd4	concat	1	 by 	が
+0x5cccdc	concat	1	 decreases 	の低下: 
+0x5ccce8	concat	1	!	になった！
+0x5cccec	concat	1	 is now level 	はレベル
+0x5cccfc	float	1	Level up!	レベルアップ！
+0x5ccd08	float	1	+1 Endurance	持久力+1
+0x5ccd18	float	1	+1 Strength	筋力+1
+0x5ccd24	float	1	+1 Dexterity	器用さ+1
+0x5ccd34	float	1	+1 Intelligence	知力+1
+0x5ccd44	message	1	Ability with bad slot given.	
+0x5ccd64	float	1	Ensnared!	捕らわれた！
+0x5ccd70	float	1	Evade!	回避！
+0x5ccd78	float	1	Enemy stops you!	敵に阻まれた！
+0x5ccd8c	float	1	Stopped!	止められた！
+0x5ccd98	message	1	Move: Your route is blocked.	移動: 経路がふさがれている。
+0x5ccdb8	message,internal	1	Debug Error! Called start_pathing_move in combat! Report this!	
+0x5ccdf8	sprintf	1	Num = %d	
+0x5cce04	sprintf	1	Act = %d	
+0x5cce10	sprintf	1	Type = %d	
+0x5cce1c	sprintf	1	Targ = %d	
+0x5cce28	message	1	Attack: You can only try to attack a foe that you can see.	攻撃: 見えている敵にしか攻撃できない。
+0x5cce64	message	1	Attack: This foe is too far away to attack. Move closer.	攻撃: 敵が遠すぎる。もっと近づく必要がある。
+0x5ccea0	message	1	Attack: You need to have a weapon equipped to attack this foe.	攻撃: この敵を攻撃するには武器を装備している必要がある。
+0x5ccee0	message	1	Attack: You need to have a missile weapon equipped to attack this foe.	攻撃: この敵を攻撃するには飛び道具を装備している必要がある。
+0x5ccf28	message	1	You can't use this missile against a foe who is next to you. Switch to your melee weapon/wand to attack it.	隣の敵にはこの飛び道具は使えない。近接武器かワンドにスイッチして攻撃する必要がある。
+0x5ccf94	concat	1	 flees in terror!	は恐怖で逃げ出した！
+0x5ccfa8	concat	1	 is paralyzed with fear.	は恐怖で身がすくんだ。
+0x5ccfc4	message	1	continue_attack no abil defined	
+0x5ccfe4	message	1	You need a clear path to your target to use this ability.	この能力を使うには、標的までの通り道が空いている必要がある。
+0x5cd020	float	1	Can't reach target.	標的に届かない。
+0x5cd034	message	1	No clear space next to that target.	その標的の隣に空きスペースがない。
+0x5cd058	message	1	Move: Can't get there from where you are.	移動: そこへは今いる場所から行けない。
+0x5cd084	concat_msg	1	: Select target (or hit Escape to cancel).	: 標的を選択（Escで取り消し）。
+0x5cd0b0	concat_msg	1	: Select target space (or hit Escape to cancel).	: 対象のマスを選択（Escで取り消し）。
+0x5cd0e4	concat_msg	1	: Select friendly character (or hit Escape to cancel).	: 味方キャラクターを選択（Escで取り消し）。
+0x5cd11c	concat_msg	1	: Select friendly character (or hit Escape to cancel).	: 味方キャラクターを選択（Escで取り消し）。
+0x5cd154	message,internal	1	Error: ability_used not set for ability.	
+0x5cd180	message	1	Disarm Mine: Too far away. Move next to it before trying to disarm it.	地雷解除: 遠すぎる。解除するには、まず地雷の隣まで移動すること。
+0x5cd1c8	message	1	Disarm Mine: Mines are tricky. Only humans are clever enough to disarm them.	地雷解除: 地雷は厄介だ。解除できるほど賢いのは人間だけだ。
+0x5cd218	float	1	Disarm!	解除！
+0x5cd220	concat,internal	1	.	
+0x5cd224	concat	1	 is healed for 	の回復: 
+0x5cd234	float_part	1	Heal 	回復 
+0x5cd23c	concat	1	 vitality.	得た。
+0x5cd248	concat	1	 gains 	は活力を
+0x5cd250	float_part	1	 Vitality	 活力
+0x5cd25c	float	1	Cured	治癒
+0x5cd264	concat	1	 is cured.	は治癒した。
+0x5cd270	message,internal	1	Error: Status type out of range.	
+0x5cd294	concat,internal	1	.	
+0x5cd298	concat	1	 resists 	は抵抗: 
+0x5cd2a4	float_part	1	 resisted.	に抵抗！
+0x5cd2b0	concat	1	 turns.)	ターン）。
+0x5cd2c0	concat	1	 gets status: 	は状態異常: 
+0x5cd2d0	concat	1	 turn.)	ターン）。
+0x5cd2dc	concat	1	 gets status: 	は状態異常: 
+0x5cd2ec	concat,internal	1	.	
+0x5cd2f0	concat	1	 unaffected by 	は影響なし: 
+0x5cd300	float	1	Lose Turn	ターン喪失
+0x5cd30c	float	1	Lose Turn	ターン喪失
+0x5cd318	concat	1	 calms down.	は落ち着いた。
+0x5cd328	442fe0	1	?	
+0x5cd32c	concat	1	 starts to look suspicious.	は怪しい動きを見せ始めた。
+0x5cd348	concat	1	 disappears.	は消えた。
+0x5cd358	concat	1	A summoned 	召喚された
+0x5cd364	concat	1	 feels incredibly sluggish.	は極端に動きが鈍くなった。
+0x5cd380	float	1	Moving Slowly	移動低下
+0x5cd390	float	1	Radiate Healing	周囲へ回復
+0x5cd3a0	float	1	Radiate Energy	周囲へ放射
+0x5cd3b0	float	1	Sanctification!	聖別！
+0x5cd3c0	float	1	Dazed - Miss Turn	朦朧でターン喪失
+0x5cd3d4	float	1	Stunned - Miss Turn	気絶でターン喪失
+0x5cd3e8	float	1	Acting Confused	混乱行動
+0x5cd3f8	message,internal	1	Error: Damage type out of bounds.	
+0x5cd41c	concat,internal	1	Debug: Invulnerability blocks damage: 	
+0x5cd444	float	1	Absorb!	吸収！
+0x5cd44c	float	1	Immune!	無効！
+0x5cd454	concat	1	 takes no damage.	にはダメージがない。
+0x5cd468	concat	1	 points of damage.	のダメージを受けた。
+0x5cd47c	concat	1	 takes 	は
+0x5cd484	concat	1	 points of magical damage.	の魔法ダメージを受けた。
+0x5cd4a0	concat	1	 takes 	は
+0x5cd4a8	concat	1	 points of fire damage.	の火炎ダメージを受けた。
+0x5cd4c0	concat	1	 takes 	は
+0x5cd4c8	concat	1	 points of disruption damage.	の崩壊ダメージを受けた。
+0x5cd4e8	concat	1	 takes 	は
+0x5cd4f0	concat	1	 points of poison damage.	の毒ダメージを受けた。
+0x5cd50c	concat	1	 takes 	は
+0x5cd514	concat	1	 points of acid damage.	の酸ダメージを受けた。
+0x5cd52c	concat	1	 takes 	は
+0x5cd534	concat	1	 points of cold damage.	の冷気ダメージを受けた。
+0x5cd54c	concat	1	 takes 	は
+0x5cd554	sprintf	1	%s takes %d points of physical damage. (%d blocked.)	%sは%dの物理ダメージを受けた（%dを防いだ）。
+0x5cd58c	sprintf	1	%s takes %d points of magical damage. (%d resisted.)	%sは%dの魔法ダメージを受けた（%dを軽減）。
+0x5cd5c4	sprintf	1	%s takes %d points of fire damage. (%d resisted.)	%sは%dの火炎ダメージを受けた（%dを軽減）。
+0x5cd5f8	sprintf	1	%s takes %d points of disruption damage. (%d resisted.)	%sは%dの崩壊ダメージを受けた（%dを軽減）。
+0x5cd630	sprintf	1	%s takes %d points of poison damage. (%d resisted.)	%sは%dの毒ダメージを受けた（%dを軽減）。
+0x5cd664	sprintf	1	%s takes %d points of acid damage. (%d resisted.)	%sは%dの酸ダメージを受けた（%dを軽減）。
+0x5cd698	sprintf	1	%s takes %d points of cold damage. (%d resisted.)	%sは%dの冷気ダメージを受けた（%dを軽減）。
+0x5cd6cc	concat	1	 collapses into unconsciousness. To revive this character,	は意識を失った。このキャラクターを復活させるには、
+0x5cd708	message	1	  get away from any foes and end combat.	  周囲の敵から離れて、戦闘を終わらせること。
+0x5cd734	message	1	Equip: Failed. Not enough action points.	装備: 失敗。行動ポイントが足りない。
+0x5cd760	sprintf	1	Equip item failed. You don't have enough action points.	装備に失敗した。行動ポイントが足りない。
+0x5cd798	message	1	Equip: Failed. No room in pack to replace equipped item.	装備: 失敗。装備中の品と交換するための空きが所持品にない。
+0x5cd7d4	message,internal	1	Error: Character num out of range in can_see_char.	
+0x5cd808	message	1	You are encumbered! (You're wearing too much heavy equipment.)	重量超過だ！（重い装備を着けすぎている。）
+0x5cd848	float	1	Encumbered.	重量超過。
+0x5cd854	message,internal	1	Abil slot out of range.	
+0x5cd86c	message	1	Summon Failed: No room in zone for new creatures.	召喚失敗: このエリアに新たな生物を呼び出す空きがない。
+0x5cd8a0	message	1	Summon Failed: No room for new creature.	召喚失敗: 新たな生物を呼び出す空きがない。
+0x5cd8f0	concat	1	 regains consciousness.	は意識を取り戻した。
+0x5cd908	concat	1	. No room to place.	（置く場所がない）。
+0x5cd91c	concat	1	Can't revive 	復活できない: 
+0x5cd92c	message	1	Experience Error: No main pc found!	
+0x5cd950	float_part	1	XP +	経験値 +
+0x5cd958	message,internal	1	Ability num out of range.	
+0x5cd974	message	1	Your skills aren't high enough to use this ability.	技能が足りず、この能力は使えない。
+0x5cd9a8	sprintf	1	Your skills aren't high enough to use this ability.	技能が足りず、この能力は使えない。
+0x5cd9dc	concat_msg	1	 more turns.	ターン使えない。
+0x5cd9ec	concat_msg	1	You can't use this ability for 	この能力はあと
+0x5cda0c	sprintf	1	You can't use this ability for %d more turns.	この能力はあと%dターン使えない。
+0x5cda3c	message	1	You must be at full vitality to use this ability.	この能力は活力が満タンでないと使えない。
+0x5cda70	message	1	You don't have enough vitality left to use this ability.	この能力を使うには活力が足りない。
+0x5cdaac	sprintf	1	You must be at full vitality to use this ability.	この能力は活力が満タンでないと使えない。
+0x5cdae0	sprintf	1	You don't have enough vitality left to use this ability.	この能力を使うには活力が足りない。
+0x5cdb1c	sprintf	1	Num = %d	
+0x5cdb28	message,internal	1	Error: Tried to change object to new object type with different size.	
+0x5cdb70	message,internal	1	Error: Non-existant object animation called.	
+0x5cdba0	message,internal	1	Error: Non-existant object animation called.	
+0x5cdbd0	message,internal	1	Error: Tried to make sfx out of range.	
+0x5cdc24	message	1	Floating text too int.	
+0x5cdc4c	message	1	Floating text too int.	
+0x5cdc64	message,internal	1	Error: Used old style of particle.	
+0x5cdc9c	sprintf	1	Sell	売却
+0x5cdca4	tooltip	1	Shortcut: 	ショートカット: 
+0x5cdcb8	tooltip	1	Currently Using:	装備中:
+0x5cdccc	sprintf	1	Can be sold in a store.	店で売却できる。
+0x5cdce4	sprintf	1	Like pants for your chest!	胸に履かせるズボンのようなものだ！
+0x5cdd00	sprintf	1	A very high-quality skin. Someone might be able to make something very nice from it.	とても質の高い皮だ。これで何か素晴らしい物が作れるかもしれない。
+0x5cdd58	sprintf	1	You should always know where this is.	これがどこにあるか、常に把握しておくべきだ。
+0x5cdd80	sprintf	1	No adventurer should ever be without a nice, freshly-laundered pair of pants.	冒険者たる者、洗いたてのズボンを欠かしてはならない。
+0x5cddd0	sprintf	1	Very lucky, except maybe for the horse.	とても運がいい。馬を除けばだが。
+0x5cddf8	sprintf	1	It's still damp. And twitching slightly. Ewww.	まだ湿っている。少し震えている。うえぇ。
+0x5cde28	sprintf	1	Obscure, incomprehensible magical writings. Might be of value to someone.	難解で判読不能な魔法の文字だ。誰かにとっては価値があるかもしれない。
+0x5cde74	sprintf	1	Never send to know for whom the bell tolls; it tolls for thee.	誰のために問うてはならない。鐘は汝のために鳴る。
+0x5cdeb4	sprintf	1	Bears the mark of Craftmaster Nicodemus.	職人長ニコデムスの刻印がある。
+0x5cdee0	sprintf	1	A rare, valuable item. Someone might be able to craft something out of it.	珍しく価値のある品。これを使って何か作れるかもしれない。
+0x5cdf2c	sprintf	1	Value: %d.	価値: %d。
+0x5cdf38	sprintf	1	Weight: %d lbs.	重さ: %d ポンド。
+0x5cdf48	sprintf	1	Weight: %d.%d lbs.	重さ: %d.%d ポンド。
+0x5cdf5c	sprintf	1	%s %s Amount: %d.	%s %s 量: %d。
+0x5cdf70	sprintf	1	%s %s Charges: %d.	%s %s 使用回数: %d。
+0x5cdf8c	tooltip	1	Can't equip this item.	この品は装備できない。
+0x5cdfa4	tooltip,internal	1	.	
+0x5cdfa8	tooltip	1	Minimum Strength: 	必要筋力: 
+0x5cdfbc	tooltip,internal	1	.	
+0x5cdfc0	tooltip	1	Minimum Dexterity: 	必要器用さ: 
+0x5cdfd4	tooltip,internal	1	.	
+0x5cdfd8	tooltip	1	Minimum Intelligence: 	必要知力: 
+0x5cdff0	tooltip	1	Blademaster required.	剣士専用。
+0x5ce008	tooltip	1	Shadowwalker required.	影歩き専用。
+0x5ce020	tooltip	1	Shaman required.	呪術師専用。
+0x5ce034	tooltip	1	Sorcerer required.	妖術師専用。
+0x5ce048	tooltip	1	Tinkermage required.	機工術師専用。
+0x5ce060	tooltip	1	Blademasters can't use.	剣士は使用できない。
+0x5ce078	tooltip	1	Shadowwalkers can't use.	影歩きは使用できない。
+0x5ce094	tooltip	1	Shamans can't use.	呪術師は使用できない。
+0x5ce0a8	tooltip	1	Sorcerers can't use.	妖術師は使用できない。
+0x5ce0c0	tooltip	1	Tinkermages can't use.	機工術師は使用できない。
+0x5ce0d8	sprintf	1	Armor: +%d%%	防御力: +%d%%
+0x5ce0e8	tooltip	1	Charm: Works while in pack.	お守り: 所持中も効果がある。
+0x5ce114	sprintf	1	%s%% melee damage protection.	近接ダメージを%s%%軽減。
+0x5ce134	sprintf	1	%s to action points.	行動ポイント%s。
+0x5ce14c	sprintf	1	%s%% to hit chance.	命中率%s%%。
+0x5ce160	sprintf	1	%s%% to Hostile Effect Resistance.	敵対効果への耐性%s%%。
+0x5ce184	sprintf	1	%s%% to Energy Resistance.	エネルギー耐性%s%%。
+0x5ce1a0	sprintf	1	%s%% to Fire Resistance.	火耐性%s%%。
+0x5ce1bc	sprintf	1	%s%% to Poison Resistance.	毒耐性%s%%。
+0x5ce1d8	sprintf	1	%s%% to Acid Resistance.	酸耐性%s%%。
+0x5ce1f4	sprintf	1	%s%% to Curse Resistance.	呪い耐性%s%%。
+0x5ce210	sprintf	1	%s%% to Mind Effect Resistance.	精神効果耐性%s%%。
+0x5ce230	sprintf	1	%s%% to Cold Resistance.	冷気耐性%s%%。
+0x5ce24c	sprintf	1	%s%% chance to evade attacks.	攻撃回避の確率%s%%。
+0x5ce26c	sprintf	1	%s%% to vitality recovery.	活力回復%s%%。
+0x5ce288	sprintf	1	%s%% less time for abilities to recharge.	能力の再使用時間を%s%%短縮。
+0x5ce2b4	sprintf	1	%s%% to melee damage.	近接ダメージ%s%%。
+0x5ce2cc	sprintf	1	%s%% to magical damage.	魔法ダメージ%s%%。
+0x5ce2e4	sprintf	1	%s%% to blessings/curses you cause.	与える祝福/呪いの効果%s%%。
+0x5ce308	sprintf	1	%s%% to healing.	回復量%s%%。
+0x5ce31c	sprintf	1	%s%% to missile damage.	飛び道具ダメージ%s%%。
+0x5ce334	sprintf	1	%s%% to critical hit chance.	クリティカル率%s%%。
+0x5ce354	sprintf	1	%s%% chance to parry.	受け流しの確率%s%%。
+0x5ce36c	sprintf	1	%s%% chance to riposte.	反撃の確率%s%%。
+0x5ce384	tooltip	1	When on a weapon, physical attacks do more damage.	武器に付けると、物理攻撃のダメージが増える。
+0x5ce3b8	tooltip	1	Combine this with a weapon or piece of armor in an enchanted forge.	魔力の鍛冶場で武器や防具と合成する。
+0x5ce3fc	tooltip	1	Makes a weapon 3% more likely to hit.	武器の命中率を3%上げる。
+0x5ce424	tooltip	1	Makes armor provide 1% more protection.	防具の防御力を1%上げる。
+0x5ce44c	tooltip	1	Makes armor provide more protection from physical attacks.	防具の物理攻撃に対する防御力を上げる。
+0x5ce488	tooltip	1	When on a weapon, magical attacks do more damage.	武器に付けると、魔法攻撃のダメージが増える。
+0x5ce4bc	tooltip	1	Makes armor provide more protection from magical attacks.	防具の魔法攻撃に対する防御力を上げる。
+0x5ce4f8	tooltip	1	When on a weapon, curses are more effective.	武器に付けると、呪いの効果が高まる。
+0x5ce528	tooltip	1	Makes armor provide more protection from curses, acid, and poison.	防具の呪い・酸・毒に対する防御力を上げる。
+0x5ce56c	tooltip	1	When on a weapon, attacks more likely to be critical.	武器に付けると、クリティカルが出やすくなる。
+0x5ce5a4	tooltip	1	When on armor, makes you harder to hit.	防具に付けると、攻撃を受けにくくなる。
+0x5ce5cc	tooltip	1	When on an item, increases your Strength.	装備すると筋力が上がる。
+0x5ce5f8	tooltip	1	When on an item, increases your Dexterity.	装備すると器用さが上がる。
+0x5ce624	tooltip	1	When on an item, increases your Intelligence.	装備すると知力が上がる。
+0x5ce654	tooltip	1	When on an item, increases your Endurance.	装備すると持久力が上がる。
+0x5ce680	tooltip	1	Makes all attacks do more damage.	すべての攻撃のダメージが増える。
+0x5ce6a4	tooltip	1	Makes armor provide much more magic resistance.	防具の魔法耐性を大きく上げる。
+0x5ce6d4	sprintf	1	%s to %s.	%s～%s。
+0x5ce6e0	sprintf	1	Basic Attack: %s	基本攻撃: %s
+0x5ce6f4	sprintf	1	Basic Attack: %s	基本攻撃: %s
+0x5ce708	sprintf	1	Ability: %s	能力: %s
+0x5ce714	sprintf	1	Enhancement: +3%% bonus to hit.	強化: 命中率+3%%。
+0x5ce734	sprintf	1	Enhancement: +2%% melee damage.	強化: 近接ダメージ+2%%。
+0x5ce754	sprintf	1	Enhancement: +2%% spell damage	強化: 呪文ダメージ+2%%
+0x5ce774	sprintf	1	Enhancement: +5%% to blesses/curses.	強化: 祝福/呪いの効果+5%%。
+0x5ce79c	sprintf	1	Enhancement: +3%% critical chance.	強化: クリティカル率+3%%。
+0x5ce7c0	sprintf	1	Enhancement: +1 to Strength.	強化: 筋力+1。
+0x5ce7e0	sprintf	1	Enhancement: +1 to Dexterity.	強化: 器用さ+1。
+0x5ce800	sprintf	1	Enhancement: +1 to Intelligence.	強化: 知力+1。
+0x5ce824	sprintf	1	Enhancement: +1 to Endurance.	強化: 持久力+1。
+0x5ce844	sprintf	1	Enhancement: +4%% all damage.	強化: 全ダメージ+4%%。
+0x5ce864	sprintf	1	Enhancement: +1%% protection.	強化: 防御+1%%。
+0x5ce884	sprintf	1	Enhancement: +4%% physical damage resistance.	強化: 物理ダメージ耐性+4%%。
+0x5ce8b4	sprintf	1	Enhancement: +4%% magical/elemental resistance.	強化: 魔法/元素耐性+4%%。
+0x5ce8e4	sprintf	1	Enhancement: +5%% curse/acid/poison resistance.	強化: 呪い/酸/毒耐性+5%%。
+0x5ce914	sprintf	1	Enhancement: +5%% harder to hit.	強化: 回避+5%%。
+0x5ce938	sprintf	1	Enhancement: +1 to Strength.	強化: 筋力+1。
+0x5ce958	sprintf	1	Enhancement: +1 to Dexterity.	強化: 器用さ+1。
+0x5ce978	sprintf	1	Enhancement: +1 to Intelligence.	強化: 知力+1。
+0x5ce99c	sprintf	1	Enhancement: +1 to Endurance.	強化: 持久力+1。
+0x5ce9bc	sprintf	1	Enhancement: +4%% resistance to all hostile magic.	強化: 敵対魔法への耐性+4%%。
+0x5ce9f0	concat	1	 coins.	ゴールド。
+0x5ce9f8	concat	1	You get 	獲得: 
+0x5cea04	message	1	 coins	ゴールド
+0x5cea0c	concat	1	 coins.	ゴールド。
+0x5cea14	concat	1	 for 	の代金は
+0x5cea1c	concat	1	You Sell: 	売却: 
+0x5cea28	message	1	You sell everything in your junk bag.	雑品袋の中身をすべて売却した。
+0x5cea50	concat	1	 coins.	ゴールド。
+0x5cea58	concat	1	You receive: 	受け取り: 
+0x5cea68	message,internal	1	Screen particle out of range.	
+0x5cea88	dialog	1	Avadon 3 requires a resolution of at least 1024 x 600 at Millions of Colors to run. The game is unable to set the monitor to a proper resolution. If you believe that the game is in error, contact support@spiderwebsoftware.com.	『アヴァドン3』の実行には、数百万色で1024 x 600以上の解像度が必要です。ゲームがモニターを適切な解像度に設定できませんでした。ゲームの不具合だと思われる場合は、support@spiderwebsoftware.com までご連絡ください。
+0x5ceb6c	dialog	1	Resolution Error	解像度エラー
+0x5ceb88	sprintf	1	Draw All Graphics (Default)	すべてのグラフィックを描画（デフォルト）
+0x5ceba4	sprintf	1	Partial Graphics	一部のグラフィック
+0x5cebb8	sprintf	1	Minimum Graphics (Old Machines)	最低限のグラフィック（旧型PC向け）
+0x5cebd8		1	Avadon 3: The Warborn	アヴァドン3：ウォーボーン
+0x5cec00	sprintf	1	Space	スペース
+0x5cec08	sprintf	1	Del	
+0x5cec0c	sprintf	1	Home	
+0x5cec14	sprintf	1	End	
+0x5cec18	sprintf	1	Pg Up	
+0x5cec20	sprintf	1	Pg Dn	
+0x5cec28	sprintf	1	Esc	
+0x5cec30	sprintf	1	Shift+	
+0x5cec38	sprintf	1	Cntrl+	Ctrl+
+0x5cec40	sprintf	1	Alt+	
+0x5cec48	sprintf	1	Command+	
+0x5cec5c	sprintf	1	FPS: %d	
+0x5cec64	dialog	1	Couldn't read from campaign file.	キャンペーンファイルを読み込めませんでした。
+0x5cec88	dialog	1	Graphics loading error. A key graphic is either missing or unloadable. Memory may be catastrophically low.	グラフィックの読み込みエラーです。重要なグラフィックが見つからないか、読み込めません。メモリが極端に不足している可能性があります。
+0x5cecf4	sprintf	1	%s%sAvadon 3 Files%s	
+0x5ced14	sprintf	1	%s%sSpiderweb Software	
+0x5ced2c	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games	
+0x5ced5c	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d	
+0x5ceda4	dialog	1	Couldn't open campaign file.	キャンペーンファイルを開けませんでした。
+0x5cedd4	dialog	1	Couldn't open campaign file.	キャンペーンファイルを開けませんでした。
+0x5cedf4	dialog	1	Load zone error: Couldn't set campaign file position.	ゾーン読み込みエラー: キャンペーンファイルの位置を設定できませんでした。
+0x5cee2c	dialog	1	Load zone error: Couldn't read zone.	ゾーン読み込みエラー: ゾーンを読み込めませんでした。
+0x5cee54	dialog	1	Load zone error: Couldn't close zone.	ゾーン読み込みエラー: ゾーンを閉じられませんでした。
+0x5cee7c	sprintf	1	Saved Game	セーブゲーム
+0x5cee88	label	1	Quicksave (F4 to load)	クイックセーブ（F4でロード）
+0x5ceea0	message	1	Quicksave: Done. (Press F4 to load Quicksave game.)	クイックセーブ: 完了。（F4キーでクイックセーブをロードできます。）
+0x5ceed4	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sheader	
+0x5cef24	dialog	1	Save Error: Couldn't open header file.	セーブエラー: ヘッダーファイルを開けませんでした。
+0x5cef4c	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sdata	
+0x5cef88	dialog	1	Save Error: Couldn't write to file. Try saving in a different slot. Error 1.	セーブエラー: ファイルに書き込めませんでした。別のスロットへのセーブをお試しください。エラー1。
+0x5cefd8	dialog	1	Save Error: Couldn't close file. Try saving in a different slot. Error 2.	セーブエラー: ファイルを閉じられませんでした。別のスロットへのセーブをお試しください。エラー2。
+0x5cf034	dialog	1	Save Error: Couldn't open data file.	セーブエラー: データファイルを開けませんでした。
+0x5cf05c	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sitems	
+0x5cf098	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 5.	セーブエラー: 一部のデータを保存できませんでした。別のスロットへのセーブをお試しください。エラー5。
+0x5cf0e8	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 5b.	セーブエラー: 一部のデータを保存できませんでした。別のスロットへのセーブをお試しください。エラー5b。
+0x5cf138	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 6.	セーブエラー: 一部のデータを保存できませんでした。別のスロットへのセーブをお試しください。エラー6。
+0x5cf188	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 7.	セーブエラー: 一部のデータを保存できませんでした。別のスロットへのセーブをお試しください。エラー7。
+0x5cf1d8	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 8.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー8。
+0x5cf228	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 9.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー9。
+0x5cf278	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 10.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー10。
+0x5cf2c8	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 11.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー11。
+0x5cf318	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 12.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー12。
+0x5cf368	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 13.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー13。
+0x5cf3b8	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 13.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー13。
+0x5cf408	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 13b.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー13b。
+0x5cf458	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 14.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー14。
+0x5cf4a8	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 15.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー15。
+0x5cf4f8	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 16.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー16。
+0x5cf548	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 17.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー17。
+0x5cf598	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 17.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー17。
+0x5cf5f8	dialog	1	Save Error: Couldn't open items file.	セーブエラー: アイテムファイルを開けませんでした。
+0x5cf620	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 41.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー41。
+0x5cf670	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sjournal	
+0x5cf6c0	dialog	1	Save Error: Couldn't open journal file.	セーブエラー: 日誌ファイルを開けませんでした。
+0x5cf6e8	dialog	1	Save Error: Couldn't save some data. Try saving in a different slot. Error 51.	セーブエラー: 一部のデータを保存できませんでした。別のスロットに保存してみてください。エラー51。
+0x5cf738	message	1	Save: Game saved.	セーブ: ゲームを保存した。
+0x5cf74c	message	1	Game saved.	ゲームを保存した。
+0x5cf758	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sheader	
+0x5cf7a8	dialog	1	Load Error: Couldn't open header file.	ロードエラー: ヘッダーファイルを開けませんでした。
+0x5cf7d0	dialog	1	Load Error: Couldn't load from file. This saved game is damaged. Error 21.	ロードエラー: ファイルから読み込めませんでした。このセーブデータは破損しています。エラー21。
+0x5cf81c	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sdata	
+0x5cf858	dialog	1	Load Error: Couldn't close file. This saved game is damaged. Error 22.	ロードエラー: ファイルを閉じられませんでした。このセーブデータは破損しています。エラー22。
+0x5cf8b0	dialog	1	Load Error: Couldn't open data file.	ロードエラー: データファイルを開けませんでした。
+0x5cf8d8	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 25.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー25。
+0x5cf924	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sitems	
+0x5cf960	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 25b.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー25b。
+0x5cf9ac	internal	1	rb	
+0x5cf9b0	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 26.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー26。
+0x5cfa0c	internal	1	wb	
+0x5cfa10	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 27.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー27。
+0x5cfa5c	table	1	Extremely Cheap	非常に安い
+0x5cfa6c	table	1	Slightly Expensive	やや高め
+0x5cfa80	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 28.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー28。
+0x5cfacc	table	1	Very Reasonable	かなり手頃
+0x5cfadc	table	1	Expensive	高い
+0x5cfae8	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 29.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー29。
+0x5cfb34	table	1	Exorbitant	法外
+0x5cfb40	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 30.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー30。
+0x5cfb8c	table	1	Utterly Ridiculous	まったく話にならない
+0x5cfba0	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 31.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー31。
+0x5cfbec	float	1	Encumbered.	重量超過。
+0x5cfbf8	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 32.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー32。
+0x5cfc44	sprintf	1	You put the item on the ground.	アイテムを地面に置いた。
+0x5cfc64	sprintf	1	You can't sell this item.	このアイテムは売れない。
+0x5cfc80	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 33.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー33。
+0x5cfccc	sprintf	1	Get Item: You stole the item without anyone seeing you.	アイテム取得: 誰にも見られずにアイテムを盗んだ。
+0x5cfd04	sprintf	1	Only scarabs can be placed into this slot.	この欄にはスカラベしか置けない。
+0x5cfd30	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 33.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー33。
+0x5cfd7c	sprintf	1	You can only equip scarabs when in your Hand encampment.	スカラベを装備できるのは、ハンドの野営地にいるときだけだ。
+0x5cfdb8	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 33.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー33。
+0x5cfe04	sprintf	1	You can only remove scarabs when in your Hand encampment.	スカラベを外せるのは、ハンドの野営地にいるときだけだ。
+0x5cfe40	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 34.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー34。
+0x5cfe8c	sprintf	1	Place scarabs into the scarab slots to equip them.	スカラベをスカラベ欄に置くと装備できます。
+0x5cfec0	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 35.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー35。
+0x5cff0c	sprintf	1	You can't equip this item. Put it into your pack.	このアイテムは装備できない。持ち物に入れること。
+0x5cff40	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 36.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー36。
+0x5cff8c	sprintf	1	You can only remove scarabs when in your Hand encampment.	スカラベを外せるのは、ハンドの野営地にいるときだけだ。
+0x5cffc8	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 37.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー37。
+0x5d0014	sprintf	1	You don't have room in your pack.	持ち物に空きがない。
+0x5d0038	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 37.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー37。
+0x5d0094	dialog	1	Load Error: Couldn't open items file.	ロードエラー: アイテムファイルを開けませんでした。
+0x5d00cc	sprintf	1	You can't equip this item.	このアイテムは装備できない。
+0x5d00e8	dialog	1	Load Error: Couldn't load some data. This saved game is damaged. Error 41.	ロードエラー: 一部のデータを読み込めませんでした。このセーブデータは破損しています。エラー41。
+0x5d0134	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sjournal	
+0x5d0174	sprintf	1	%s%sSpiderweb Software%sAvadon 3 Saved Games%sSave%d%sheader	
+0x5d01bc	table	1	Pretty Average	まずまず
+0x5d01cc	sprintf	1	You can't equip this item.	このアイテムは装備できない。
+0x5d01e8	message	1	You can't use this forge until you find a Runestone. When you have one, you can use it to improve your weapons and armor.	ルーンストーンを見つけるまで、この鍛冶炉は使えません。ルーンストーンを手に入れたら、武器や防具の強化に使えます。
+0x5d0264	sprintf	1	Put down the item before leaving the inventory screen.	所持品画面を閉じる前に、手に持っているアイテムを置くこと。
+0x5d029c	sprintf	1	You need to put two items onto the anvil.	金床に2つのアイテムを置く必要がある。
+0x5d02c8	sprintf	1	To see another character's inventory, select his or her portrait. Click the star by an item to use it. Shift-click a stack of items to split it up.	他のキャラクターの所持品を見るには、その肖像画を選択してください。アイテムの横の星をクリックすると使用できます。アイテムの束はShiftクリックで分割できます。
+0x5d035c	sprintf	1	You can't use an enhancement on this item.	このアイテムには強化を使用できない。
+0x5d0388	sprintf	1	Click the star by an item to use it. Shift-click a stack of items to split it up.	アイテムの横の星をクリックすると使用できます。アイテムの束はShiftクリックで分割できます。
+0x5d03dc	sprintf	1	Put down the item on the cursor first.	まずカーソル上のアイテムを置くこと。
+0x5d0404	sprintf	1	Thank You!	ありがとう！
+0x5d0410	sprintf	1	To enchant it, place it into the Forge with a Runestone. Then press the 'Combine' button.	強化するには、ルーンストーンと一緒にアイテムを鍛冶炉に入れてから、「合成」ボタンを押してください。
+0x5d046c	sprintf	1	Your junk bag is full.	雑品袋がいっぱいだ。
+0x5d0484	4ce4b0	1	Press the OK button to the lower right when you're done.	終わったら、右下の「OK」ボタンを押してください。
+0x5d04c0	sprintf	1	Select the items you want to sell. Click an item again to cancel the sale. Press the 'OK' button to sell all marked items.	売りたいアイテムを選択してください。もう一度クリックすると売却を取り消せます。「OK」ボタンを押すと、選択したアイテムをすべて売却します。
+0x5d053c	4ce4b0	1	You can also use and drop items on the Inventory screen.	所持品画面では、アイテムを使用したり置いたりすることもできます。
+0x5d0578	message	1	You are heavily encumbered. You won't be able to cast spells or function well in combat until you take off some bulky armor.	重量超過だ。かさばる鎧を外すまで、呪文は唱えられず、戦闘でも十分に動けない。
+0x5d05f8	4ce4b0	1	Select On Ground area to drop item. Select character picture to equip item. Select Pack area to put item away.	アイテムを置くには地面欄を選択してください。アイテムを装備するにはキャラクターの肖像画を選択してください。アイテムをしまうには持ち物欄を選択してください。
+0x5d0668	4ce4b0	1	Select Container area to drop item. Select character picture to equip item. Select Pack area to put item away.	アイテムを置くには容器欄を選択してください。アイテムを装備するにはキャラクターの肖像画を選択してください。アイテムをしまうには持ち物欄を選択してください。
+0x5d06d8	4ce4b0	1	Select Forge area to put item in forge. Select character picture to equip item. Select Pack area to put item away.	アイテムを鍛冶炉に入れるには鍛冶炉欄を選択してください。アイテムを装備するにはキャラクターの肖像画を選択してください。アイテムをしまうには持ち物欄を選択してください。
+0x5d074c	sprintf	1	You sell everything in your Junk Bag.	雑品袋の中身をすべて売却した。
+0x5d0774	sprintf	1	Your Junk Bag is now empty. There was nothing in it of value.	雑品袋は空になった。価値のあるものは入っていなかった。
+0x5d07b4	sprintf	1	You put the item away.	アイテムをしまった。
+0x5d07cc	4ce4b0	1	You can only enhance any weapon or piece of armor once.	武器や防具は、一度しか強化できません。
+0x5d0804	label	1	NY	
+0x5d0808	sprintf	1	You open your Junk Bag. If you don't want an item, put it here. Items in your Junk Bag can all be sold at once when you are selling items in a store.	雑品袋を開きました。いらないアイテムはここに入れてください。雑品袋の中のアイテムは、店で売却するときにまとめて売ることができます。
+0x5d08a0	sprintf	1	You put an item in your junk bag. (You can also Control-click an item in your pack to put it here.)	アイテムを雑品袋に入れた。（持ち物のアイテムをCtrlクリックしても、ここに入れられる。）
+0x5d0904	sprintf	1	Coins: %d   Wearing %d lbs.  Encumbered: %d lbs.	ゴールド: %d　装備重量: %d lbs.　重量超過: %d lbs.
+0x5d0938	sprintf	1	Can't drop any more items here. (Store some items in a different area.)	ここにはこれ以上アイテムを置けない。（別の欄に保管してください。）
+0x5d0980	sprintf	1	You put the item on the forge.	アイテムを鍛冶炉に置いた。
+0x5d09a0	sprintf	1	Can't put any more items in here. (Store some items in a different area.)	これ以上ここにはアイテムを入れられない。（別の欄に保管してください。）
+0x5d09ec	sprintf	1	Get Item: You don't have enough action points.	アイテム取得: 行動ポイントが足りない。
+0x5d0a20	sprintf	1	Get Item: You can't take this item. It isn't yours, and its owner would see you.	アイテム取得: このアイテムは取れない。あなたのものではなく、持ち主に見られてしまう。
+0x5d0a74	sprintf	1	Your junk bag is full.	雑品袋がいっぱいだ。
+0x5d0a98	sprintf	1	You put an item in your junk bag. (You can also Control-click an item in your pack or on the ground to put it here.)	アイテムを雑品袋に入れた。（持ち物や地面のアイテムをCtrlクリックしても、ここに入れられる。）
+0x5d0b10	sprintf	1	Use Item: To use an item in combat, your character must be active.	アイテム使用: 戦闘中にアイテムを使うには、そのキャラクターが行動可能でなければならない。
+0x5d0b54	sprintf	1	Use Item: To use an item, the character needs to be present.	アイテム使用: アイテムを使うには、そのキャラクターがその場にいなければならない。
+0x5d0b94	sprintf	1	You are't high enough level to use this scarab slot.	このスカラベ欄を使うには、レベルが足りない。
+0x5d0bcc	sprintf	1	Your junk bag is full.	雑品袋がいっぱいだ。
+0x5d0be4	internal	1	dd	
+0x5d0be8	sprintf	1	You can't equip a two-handed weapon when you are using a shield.	盾を装備しているときは、両手武器を装備できない。
+0x5d0c2c	sprintf	1	You need to put an item onto the anvil first.	まず金床にアイテムを置く必要がある。
+0x5d0c5c	sprintf	1	You can't fit all of these items on the anvil.	これらのアイテムすべては金床に載せられない。
+0x5d0c8c	internal	1	fps	
+0x5d0c90	sprintf	1	You can't equip a shield when you are using a two-handed weapon.	両手武器を装備しているときは、盾を装備できない。
+0x5d0cd4	sprintf	1	You can't equip this item. Not enough action points.	このアイテムは装備できない。行動ポイントが足りない。
+0x5d0d0c	sprintf	1	You enhance one of your items.	アイテムを1つ強化した。
+0x5d0d2c	message	1	FPS Meter: Off.	FPSメーター: オフ。
+0x5d0d3c	internal	1	combatsave	
+0x5d0d48	sprintf	1	Only weapons or items with usable abilites can go into Quick Use slots.	クイック使用スロットに入れられるのは、使用できる能力を持つ武器かアイテムだけだ。
+0x5d0d90	sprintf	1	You put an item in your junk bag. (You can also Control-click an item in your pack or on the ground to put it here.)	アイテムを雑品袋に入れた。（持ち物や地面のアイテムをCtrlクリックしても、ここに入れられる。）
+0x5d0e08	sprintf	1	You can only equip/remove scarabs when in your Hand encampment.	スカラベの装備・取り外しができるのは、ハンドの野営地にいるときだけだ。
+0x5d0e48	sprintf	1	You can't equip a two-handed weapon when you are using a shield.	盾を装備しているときは、両手武器を装備できない。
+0x5d0e8c	sprintf	1	%s Inventory:	%sの所持品:
+0x5d0e9c	sprintf	1	The name is too short.	名前が短すぎる。
+0x5d0eb4	internal	1	healmenow	
+0x5d0ec0	sprintf	1	You can't equip a shield when you are using a two-handed weapon.	両手武器を装備しているときは、盾を装備できない。
+0x5d0f04	label	1	Go To Spiderweb Software Online Store	Spiderweb Software オンラインストアへ
+0x5d0f2c	sprintf	1	Name can't start with a space.	名前の先頭に空白は使えない。
+0x5d0f4c	internal	1	rechargeme	
+0x5d0f58	sprintf	1	Pick up scarabs and drop them into the scarab slots to equip them.	スカラベを拾って、スカラベ欄に置くと装備できます。
+0x5d0f9c	sprintf	1	You can't equip this item. Not enough action points.	このアイテムは装備できない。行動ポイントが足りない。
+0x5d0fd4	internal	1	avport	
+0x5d0fdc	internal	1	shieldsup	
+0x5d0fe8	sprintf	1	You need to put an enhancement in the forge with one other item.	強化するには、鍛冶炉に強化素材ともう1つのアイテムを入れる必要がある。
+0x5d102c	sprintf	1	This item has already been enhanced.	このアイテムはすでに強化されている。
+0x5d1054	sprintf	1	Combining these items doesn't make anything.	これらのアイテムを合成しても、何も作れない。
+0x5d1084	sprintf	1	%s at Forge:	%s（鍛冶炉）:
+0x5d1094	internal	1	gltest	
+0x5d109c	internal	1	backtostart	
+0x5d10a8	4ce4b0	1	This is the inventory screen, where you will pick items up off the ground and use them. You can equip (i.e. wear or ready) items like weapons and armor, and you can use items like potions and crystals.	ここは所持品画面です。地面からアイテムを拾って使用します。武器や防具などのアイテムは装備（身に着ける、または構えること）でき、薬や水晶などのアイテムは使用できます。
+0x5d1174	message	1	FPS Meter: On.	FPSメーター: オン。
+0x5d1184	internal	1	retrain	
+0x5d118c	internal	1	lockpickplz	
+0x5d1198		1	Items you can pick up are in the On Ground area to the upper right. Select an item to pick it up. You can only pick up items you are close to. (If you don't see the dagger there, move closer to it and bring up this window again.)	拾えるアイテムは右上の地面欄にあります。アイテムを選択すると拾えます。近くにあるアイテムしか拾えません。（そこに短剣が見えない場合は、近づいてからこの画面を開き直してください。）
+0x5d1280	4ce4b0	1	Once you pick up an item, select your character's graphic to equip it.	アイテムを拾ったら、キャラクターの絵を選択して装備してください。
+0x5d12c8	4ce4b0	1	Some items, like lamps, potions, and food, can be used. Items that can be used have a little glowing sun button on them. Click on that button to use the item. Then you will drink the potion, eat the food, etc.	ランプや薬、食べ物などのアイテムは使用できます。使用できるアイテムには光る太陽のボタンが付いています。そのボタンをクリックすると、薬を飲んだり、食べ物を食べたりできます。
+0x5d139c	message	1	Not in combat. Game not saved.	戦闘中ではない。ゲームは保存されなかった。
+0x5d13bc	internal	1	iamweak	
+0x5d13c4	message	1	Ka-Ching!	チャリーン！
+0x5d13d0	4ce4b0	1	To get rid of an item you don't want, click on it to pick it up. Then click on the On Ground area to set the item on the ground.	いらないアイテムを処分するには、そのアイテムをクリックして拾い、地面欄をクリックしてアイテムを地面に置いてください。
+0x5d1454	internal	1	ddraw	
+0x5d145c	internal	1	iampoor	
+0x5d1464	internal	1	showmeall	
+0x5d1470	4ce4b0	1	There are healing pods, lamps, and other useful items in the chambers around the Geneforge.	ジーンフォージの周りの部屋には、回復ポッドやランプなど役立つアイテムがあります。
+0x5d14cc	message	1	All characters will now show up on your automap.	これで、すべてのキャラクターがオートマップに表示されるようになった。
+0x5d1500	4ce4b0	1	To get a full, detailed description of an item, hold down the Control key and click on it.	アイテムの詳しい説明を見るには、Ctrlキーを押しながらアイテムをクリックしてください。
+0x5d155c	message	1	Only characters you can see will show up on your automap.	オートマップに表示されるのは、見えているキャラクターだけになった。
+0x5d1598	4ce4b0	1	If there is a sort of weapon or item you use a lot (like healing pods or a favorite sword), you can put it in a Quick Use item slot and use it from the main playing screen.	よく使う武器やアイテム（回復ポッドやお気に入りの剣など）は、クイック使用アイテムスロットに入れておくと、メイン画面から使用できます。
+0x5d1648		1	To put an item in a Quick Use slot, click on it to pick it up, and then click on one of the four Quick Use slots. You can only put usable items (like potions, scrolls, and crystals) or weapons (like swords or javelins) in the Quick Use slots.	アイテムをクイック使用スロットに入れるには、そのアイテムをクリックして拾い、4つあるクイック使用スロットのいずれかをクリックします。クイック使用スロットに入れられるのは、使用できるアイテム（薬、巻物、水晶など）か、武器（剣や投げ槍など）だけです。
+0x5d173c	internal	1	location	
+0x5d1748	4ce4b0	1	Then, on the main play screen, you will see the item on one of the four Quick Use buttons on the bottom of the screen. Click on that item to use/equip it.	すると、メイン画面下部の4つのクイック使用ボタンのいずれかに、そのアイテムが表示されます。そのアイテムをクリックすると、使用・装備できます。
+0x5d17e4	internal	1	whereami	
+0x5d17f0	4ce4b0	1	When you have a Runestone, you can combine it with one of your weapons or pieces of armor to make a stronger item.	ルーンストーンを持っていれば、武器や防具と合成して、より強いアイテムを作れます。
+0x5d1864	sprintf	1	You are in Zone %d, %s.	ゾーン%d、%sにいる。
+0x5d187c	message	1	Khalida is not currently disloyal. Nothing happens.	カリダは現在、離反していない。何も起こらない。
+0x5d18b0	4ce4b0	1	To combine a Runestone and an item, drop them in the Forge area (to the lower right) and press the Combine button. If the items in the forge can be combined, you will receive a new item.	ルーンストーンとアイテムを合成するには、右下の鍛冶炉欄に置いて「合成」ボタンを押してください。鍛冶炉の中のアイテムを合成できれば、新しいアイテムを入手できます。
+0x5d196c	internal	1	sorrydedrik	
+0x5d1978	4ce4b0	1	 | | | | | | | | | | |Thank you for trying Avadon 3: The Warborn!	 | | | | | | | | | | |『アヴァドン3：ウォーボーン』をお試しいただき、ありがとうございます！
+0x5d19bc	sprintf	1	  PC location: X = %d, Y = %d.	
+0x5d19dc	message	1	Dedrik is now loyal to you.	デドリックがあなたに忠誠を誓った。
+0x5d19f8	4ce4b0	1	This is only the demo version of the game, containing the first few hours of play. The full version of Avadon 3 is an epic adventure, ranging all over Lynaeus.	これはゲームの体験版です。最初の数時間のプレイが収録されています。完全版の『アヴァドン3』は、リネウス全土を巡る壮大な冒険です。
+0x5d1a98	4ce4b0	1	Avadon 3 has an enormous and open-ended story line. You can be moral or corrupt, merciful or cruel. In the end, you can choose whether you wish to stay loyal to the Black Fortress or, if you are strong enough, to seize control of it for yourself.	『アヴァドン3』は、壮大で結末の定まらない物語です。高潔にも邪悪にも、慈悲深くも残酷にもなれます。最後には、黒の要塞に忠誠を尽くし続けるか、力があればそれを自分の手に奪い取るかを選べます。
+0x5d1b90	4ce4b0	1	If you want to experience the whole game, select the option below to go to Spiderweb Software's secure online store. Hope to see you again soon!	製品版をお楽しみいただくには、下の項目を選んで、Spiderweb Softwareの安全なオンラインストアへお進みください。またお会いできる日を楽しみにしています！
+0x5d1c2c	sprintf	1	Name can't end with a space.	名前の末尾に空白は使えません。
+0x5d1c4c	internal	1	dontshowmeall	
+0x5d1c5c	message	1	Dedrik is not currently disloyal. Nothing happens.	デドリックは現在離反していない。何も起こらない。
+0x5d1c90	message	1	You have changed one of the game's flags. Please only do this if you're sure you know what you're doing.	ゲームのフラグを一つ変更した。内容を理解している場合にのみ行うこと。
+0x5d1cfc	internal	1	sorryyoshiria	
+0x5d1d0c	message	1	Yannick is not currently disloyal. Nothing happens.	ヤニックは現在離反していない。何も起こらない。
+0x5d1d40	message	1	In-combat saved game now in the Quicksave slot (Folder 'Save18').	戦闘中のセーブデータをクイックセーブ枠に保存した（フォルダ'Save18'）。
+0x5d1d84	internal	1	showwaypoint	
+0x5d1d94	internal	1	sorrykhalida	
+0x5d1da4	message	1	Khalida is now loyal to you.	カリダがあなたに忠誠を誓った。
+0x5d1dc4	message	1	Yoshiria is now loyal to you.	ヨシリアがあなたに忠誠を誓った。
+0x5d1de4	message	1	Yoshiria is not currently disloyal. Nothing happens.	ヨシリアは現在離反していない。何も起こらない。
+0x5d1e1c	internal	1	sorryyannick	
+0x5d1e2c	message	1	Yannick is now loyal to you.	ヤニックがあなたに忠誠を誓った。
+0x5d1e4c	internal	1	sorryalcander	
+0x5d1e5c	message	1	Alcander is now loyal to you.	アルカンダーがあなたに忠誠を誓った。
+0x5d1e7c	message	1	Alcander is not currently disloyal. Nothing happens.	アルカンダーは現在離反していない。何も起こらない。
+0x5d1eb4	sprintf	1	New creation name:	新規作成の名前:
+0x5d1ec8	sprintf	1	New character name:	新しいキャラクター名:
+0x5d1edc	sprintf	1	What do you want?	何をしますか？
+0x5d1ef0	sprintf	1	Pick up how many?	いくつ拾いますか？
+0x5d1f04	sprintf	1	Sell how many?	いくつ売りますか？
+0x5d1f14	label	1	Avadon	アヴァドン
+0x5d1f1c	label	1	Picking Locks	解錠
+0x5d1f2c	sprintf	1	%d lockpicks	解錠具%d本
+0x5d1f3c	sprintf	1	one lockpick	解錠具1本
+0x5d1f4c	sprintf	1	%d lockpicks	解錠具%d本
+0x5d1f5c	sprintf	1	one lockpick	解錠具1本
+0x5d1f6c	sprintf	1	You currently have %s, and it would take %s to succeed.	現在%sを所持しているが、成功させるには%sが必要だ。
+0x5d1fa4	sprintf	1	Do you use a lockpick?	解錠具を使用しますか？
+0x5d1fbc	sprintf	1	Do you use the lockpicks?	解錠具を使用しますか？
+0x5d1fd8	label	1	(Since you don't have a Shadowwalker, Sorcerer, or Tinkermage in your group, it will take extra lockpicks to do this.)	（影歩き・妖術師・機工術師がパーティにいないため、これには解錠具が余分に必要です。）
+0x5d2050	label	1	Use What Ability?	使用する能力
+0x5d2064	label	1	What Ability In Slot?	スロットにセットする能力
+0x5d2080	label	1	New Quest	新しいクエスト
+0x5d2090	label	1	(To see the quests you currently have, open the Journal screen.)	（現在受けているクエストは日誌画面で確認できます。）
+0x5d20d4	label	1	Select Difficulty	難易度を選択
+0x5d20e8	sprintf	1	Casual	カジュアル
+0x5d20f0	sprintf	1	Normal	ノーマル
+0x5d20f8	sprintf	1	Hard	ハード
+0x5d2100	sprintf	1	Torment	トーメント
+0x5d2108	label	1	Choose how difficult you would like Avadon 3 to be. You can also change the difficulty later on the Game Settings window.	『アヴァドン3』の難易度を選んでください。難易度は、後からゲーム設定画面でも変更できます。
+0x5d2184	label	1	Medals You Have Earned	獲得したメダル
+0x5d219c	tooltip	1	Secret medal.	秘密のメダル
+0x5d21ac	message	1	Save Game: Drop your carried item first.	セーブ: 手に持ったアイテムを先に置く。
+0x5d21d8	message	1	Save Game: You can't save during combat.	セーブ: 戦闘中はセーブできない。
+0x5d2204	sprintf	1	Saved Game	セーブゲーム
+0x5d2210	loading	1	Loading Scenario Data	シナリオデータを読み込み中
+0x5d2228	loading	1	Loading File Data	ファイルデータを読み込み中
+0x5d223c	message	1	Load: Game loaded.	ロード: ゲームを読み込んだ。
+0x5d2250	loading	1	Setting Blockage Arrays	通行判定を設定中
+0x5d2268	loading	1	Setting Up Game	ゲームを準備中
+0x5d2278	label	1	Save Your Game	ゲームをセーブ
+0x5d2288	label	1	Load a Saved Game	セーブしたゲームをロード
+0x5d22d0	sprintf	1	Empty	空き
+0x5d22d8	sprintf	1	Empty Quicksave (F3 to use)	空のクイックセーブ（F3で使用）
+0x5d22f4	sprintf	1	Empty Autosave	空のオートセーブ
+0x5d2338	sprintf	1	Welcome to Avadon! First, select one of the five character types to the left. Use the text box to change your name. When you're ready, press the 'OK' button.	アヴァドンへようこそ！　まず左の五つの職業から一つ選んでください。名前の変更には入力欄を使用します。準備ができたら'OK'ボタンを押してください。
+0x5d23d8	sprintf	1	Tristram	トリストラム
+0x5d23e4	sprintf	1	You spend a skill point to improve this skill.	この技能を上げるため、技能ポイントを1つ使います。
+0x5d2414	sprintf	1	You can't change the party order during combat.	戦闘中はパーティの並び順を変更できません。
+0x5d2444	label	1	Your name:	名前:
+0x5d2450	sprintf	1	You are now training this character. First, use the '+' buttons to increase a base statistic (Strength, Dexterity, Etc.).	このキャラクターを訓練中です。まず「+」ボタンで基本能力値（筋力、器用さなど）を上げてください。
+0x5d24cc	sprintf	1	You can't change the party order during combat.	戦闘中はパーティの並び順を変更できません。
+0x5d24fc	tooltip	1	Changing your name:	名前の変更:
+0x5d2510	sprintf	1	You are now editing this character. Increase your skills as desired. Press 'OK' when done.	このキャラクターを編集中です。お好みに応じて技能を上げてください。終わったら'OK'ボタンを押してください。
+0x5d256c	tooltip	1	You can select your character's name to change it.	名前を選ぶと変更できます。
+0x5d25a0	sprintf	1	Welcome to Avadon! The name you have selected is too short. Make it longer and press the 'OK' button.	アヴァドンへようこそ！　選んだ名前は短すぎます。もっと長くして、'OK'ボタンを押してください。
+0x5d2608	sprintf	1	Welcome to Avadon! Your name can't start with a space. Fix this and press the 'OK' button.	アヴァドンへようこそ！　名前の先頭に空白は使えません。直してから'OK'ボタンを押してください。
+0x5d2668	sprintf	1	Welcome to Avadon! Your name can't end with a space. Fix this and press the 'OK' button.	アヴァドンへようこそ！　名前の末尾に空白は使えません。直してから'OK'ボタンを押してください。
+0x5d26c4	label	1	Choose Your Character	キャラクターを選択
+0x5d26dc	label	1	Female	女性
+0x5d26e8	sprintf	1	You haven't finished training this character yet. Press the Cancel button if you want to do training later.	このキャラクターの訓練はまだ終わっていません。後で訓練する場合は「キャンセル」ボタンを押してください。
+0x5d2758	sprintf	1	Now choose a specialization (to the lower left). This will give a bonus to skills in the top, middle, or bottom rows. (This bonus doesn't unlock new abilities.)	次に特化を選んでください（左下）。特化すると、上段・中段・下段のいずれかの技能にボーナスが付きます。（このボーナスでは新しい能力は解放されません。）
+0x5d27fc	label	1	Female	女性
+0x5d2808	sprintf	1	You can now increase your skills (to the right). Select skill to increase it. The first time you train a skill costs two points.	右側の技能を上げられます。上げたい技能を選んでください。技能を初めて訓練するには、2ポイントかかります。
+0x5d288c	sprintf	1	%s Statistics:	%sの統計:
+0x5d28a0	sprintf	1	Now spend two points to increase your skills (to the right). Select a skill to increase it. The first time you train a skill it costs two points.	次は2ポイントを使って右側の技能を上げてください。上げたい技能を選んでください。技能を初めて訓練する場合は2ポイントかかります。
+0x5d2934	tooltip	1	Health	体力
+0x5d293c	tooltip	1	Vitality	活力
+0x5d2948	sprintf	1	You spend two skill points to train this skill for the first time. You have trained this character. Press the 'OK' button to save the changes.	この技能を初めて訓練し、技能ポイントを2つ使いました。このキャラクターの訓練が完了しました。変更を保存するには'OK'ボタンを押してください。
+0x5d29d8	sprintf	1	You spend a skill point to improve this skill. You have trained this character. Press the 'OK' button to save the changes.	この技能を上げるため、技能ポイントを1つ使いました。このキャラクターの訓練が完了しました。変更を保存するには'OK'ボタンを押してください。
+0x5d2a54	sprintf	1	%d left	残り%d
+0x5d2a5c	tooltip	1	These skills tend to involve directly damaging your foes.	この技能は敵に直接ダメージを与えるものが多いです。
+0x5d2a98	sprintf	1	You spend two skill points to train this skill for the first time.	この技能を初めて訓練するため、技能ポイントを2つ使いました。
+0x5d2adc	label	1	Male	男性
+0x5d2ae4	label	1	Male	男性
+0x5d2aec	sprintf	1	Training %s:	%sの訓練:
+0x5d2afc	sprintf	1	  Points to spend: %d	  使用可能ポイント: %d
+0x5d2b14	tooltip	1	You gain a specialization at levels 5, 15, and 25.	レベル5、15、25で特化を得られます。
+0x5d2b48	tooltip	1	This is the main skill for Blademasters. It makes almost all of your abilities more powerful.	剣士にとっての主要な技能です。ほぼすべての能力が強化されます。
+0x5d2ba8	tooltip	1	This is a major skill for Shadowwalkers. It makes your melee abilities more powerful.	影歩きにとって重要な技能です。近接の能力が強化されます。
+0x5d2c00	tooltip	1	This is a major skill for Shadowwalkers. It makes your missile abilities more powerful.	影歩きにとって重要な技能です。飛び道具の能力が強化されます。
+0x5d2c58	tooltip	1	This is the main skill for Shamans. It makes almost all of your abilities more powerful.	呪術師にとっての主要な技能です。ほぼすべての能力が強化されます。
+0x5d2cbc	tooltip	1	Efficiency Specialization	効率特化
+0x5d2cd8	tooltip	1	This is the main skill for Sorcerers. It makes almost all of your abilities more powerful.	妖術師にとっての主要な技能です。ほぼすべての能力が強化されます。
+0x5d2d34	tooltip	1	You gain a specialization at levels 5, 15, and 25.	レベル5、15、25で特化を得られます。
+0x5d2d68	tooltip	1	This is a major skill for Tinkermages. It makes your missile attacks (like grenades) more effective.	機工術師にとって重要な技能です。飛び道具による攻撃（手榴弾など）の効果が高まります。
+0x5d2dd0	tooltip	1	This is a major skill for Tinkermages. It makes your turrets more powerful.	機工術師にとって重要な技能です。タレットが強化されます。
+0x5d2e1c	tooltip	1	You gain a specialization at levels 5, 15, and 25.	レベル5、15、25で特化を得られます。
+0x5d2e50	tooltip	1	When you take damage, your health goes down. When you run out of health, your character goes unconscious. Your health goes up when you gain a level or increase your Endurance.	ダメージを受けると体力が減ります。体力が尽きるとキャラクターは気絶します。体力は、レベルが上がったり持久力を上げたりすると増えます。
+0x5d2f08	tooltip	1	You spend Vitality to use your more powerful abilities. If your vitality is full, you can use any ability. Otherwise, you can't use an ability unless you have enough Vitality.	より強力な能力を使うと活力を消費します。活力が満タンなら、どの能力も使えます。そうでなければ、活力が足りる場合にだけ能力を使えます。
+0x5d2fb8	tooltip	1	Vitality comes back with time. When you run out, you can only use basic abilities. You gain ten vitality every time you gain a level.	活力は時間とともに回復します。活力が尽きると、基本的な能力しか使えなくなります。レベルが上がるたびに活力が10増えます。
+0x5d3040	tooltip	1	You have been knocked out, so your maximum vitality has been reduced. This will be cured when you return to camp.	気絶したため、活力の最大値が減っています。キャンプに戻ると回復します。
+0x5d30f4	tooltip	1	Battle Specialization	戦闘特化
+0x5d310c	tooltip	1	Utility Specialization	補助特化
+0x5d3124	label	1	Change Party Order:	パーティの並び替え:
+0x5d3138	tooltip	1	Each level of battle specialization gives a +1 bonus when using skills in the second section. (This doesn't count toward unlocking new abilities.)	戦闘特化のレベルごとに、第2区分の技能使用時に+1のボーナスが付きます。（この分は新しい能力の解放には数えられません。）
+0x5d31cc	label	1	Up	上へ
+0x5d31d0	tooltip	1	Each level of power specialization gives a +1 bonus when using skills in the fourth section. (This doesn't count toward unlocking new abilities.)	威力特化のレベルごとに、第4区分の技能使用時に+1のボーナスが付きます。（この分は新しい能力の解放には数えられません。）
+0x5d3268	tooltip	1	These passive skills tend to make your other attacks more effective and protect you from enemy attacks.	この受動技能は、他の攻撃を効果的にし、敵の攻撃から身を守るものが多いです。
+0x5d32d0	tooltip	1	Each level of utility specialization gives a +1 bonus when using skills in the third section. (This doesn't count toward unlocking new abilities.)	補助特化のレベルごとに、第3区分の技能使用時に+1のボーナスが付きます。（この分は新しい能力の解放には数えられません。）
+0x5d3368	tooltip	1	These skills tend to bless or cure your allies, curse your enemies, or do other generally useful things.	味方を祝福・治癒したり、敵を呪ったり、ほかにも役立つ効果を持つものが多いです。
+0x5d33d4	label	1	Down	下へ
+0x5d33dc	sprintf	1	Points to spend: %d	  使用可能ポイント: %d
+0x5d33f0	tooltip	1	(You don't need to do anything for this ability to help you. It is always active.)	（この能力は何もしなくても効果を発揮します。常に有効です。）
+0x5d3448	tooltip	1	(Train this skill to level 7 or 8 to give both abilities a big bonus.)	（この技能を7か8まで訓練すると、両方の能力に大きなボーナスが付きます。）
+0x5d3490	tooltip	1	(Increasing this skill also makes its abilities far more effective.)	（この技能を上げると、その能力の効果も大きく高まります。）
+0x5d34d8	internal	1	Tristram	
+0x5d34e4	internal	1	Raidon	
+0x5d34ec	internal	1	Merten	
+0x5d34f4	internal	1	Varell	
+0x5d34fc	internal	1	Harmon	
+0x5d3504	internal	1	Sibel	
+0x5d350c	internal	1	Rini	
+0x5d3514	internal	1	Magda	
+0x5d351c	internal	1	Cordelia	
+0x5d3528	internal	1	Calantha	
+0x5d3534	sprintf	1	Tristram	トリストラム
+0x5d3540	sprintf	1	Raidon	ライドン
+0x5d3548	sprintf	1	Merten	メルテン
+0x5d3550	sprintf	1	Varell	ヴァレル
+0x5d3558	sprintf	1	Harmon	ハーモン
+0x5d3560	sprintf	1	Sibel	シベル
+0x5d3568	sprintf	1	Rini	リニ
+0x5d3570	sprintf	1	Magda	マグダ
+0x5d3578	sprintf	1	Cordelia	コーデリア
+0x5d3584	sprintf	1	Calantha	カランサ
+0x5d3590	sprintf	1	You can't train in this skill until you increase the skills that lead up to it.	この技能を訓練するには、この技能へ至る前段の技能を先に上げる必要があります。
+0x5d35e0	sprintf	1	The maximum value for this skill is 4.	この技能の最大値は4です。
+0x5d3608	sprintf	1	The maximum value for this skill is 8.	この技能の最大値は8だ。
+0x5d3630	sprintf	1	You don't have any skill points left.	技能ポイントが残っていない。
+0x5d3658	sprintf	1	You need two points to buy the first level of a skill.	技能の最初のレベルを習得するには、ポイントが2必要だ。
+0x5d3690	sprintf	1	You can't lower this skill until you lower one of the skills just above it.	この技能は、直上の技能のどれかを下げるまで下げられない。
+0x5d36e0	sprintf	1	You can't lower this skill until you lower one of the skills just above it.	この技能は、直上の技能のどれかを下げるまで下げられない。
+0x5d372c	concat	1	Talking Error: Dialogue script broken or absent. (Tag = 	
+0x5d3768	message,internal	1	Error: No dialogue node with given tag.	
+0x5d3790	sprintf	1	Recorded in %s:	%sでの記録:
+0x5d37a0	40ef00	1	Tutorial Message	チュートリアル
+0x5d37c4	sprintf	1	Record   You have %d coins.	記録   所持ゴールド: %d
+0x5d37e0	message,internal	1	Error: Tried to place nonexistent dialogue node.	
+0x5d381c	label	1	Avadon 3 Instructions	アヴァドン3 操作説明
+0x5d3834	label	1	Your Journal	日誌
+0x5d3844	label	1	          Journal	          日誌
+0x5d3858	label	1	  Special Items	  特殊アイテム
+0x5d3868	label	1	Current Quests	現在のクエスト
+0x5d3878	label	1	    Codex	    コーデックス
+0x5d3884	label	1	Select a topic to the left.	左の項目を選択してください。
+0x5d38a0	label	1	[Empty]	[空]
+0x5d38a8	label	1	Delete	削除
+0x5d38b0	message,internal	1	Shop Error: Shop out of range called.	
+0x5d38d8	message,internal	1	Shop Error: Shop cost adjustment out of range.	
+0x5d3908	sprintf	1	You buy an item.	アイテムを購入した。
+0x5d391c	sprintf	1	Not enough room in pack.	所持品に空きがない。
+0x5d3938	sprintf	1	Shopping for %s	%sの買い物
+0x5d394c	sprintf	1	Costs %d.	価格は%dゴールド。
+0x5d395c	sprintf	1	Prices: %s	価格: %s
+0x5d3968	sprintf	1	Your Coins: %d	所持ゴールド: %d
+0x5d3978	label	1	Press the Buy button to purchase an item. To have a new character start shopping, select its portrait.	購入ボタンを押すと、アイテムを購入できます。別のキャラクターに買い物をさせるには、その肖像を選択してください。
+0x5d39e0	label	1	Avadon Settings	アヴァドン設定
+0x5d39f0	label	1	Customize the Keyboard	キーボードのカスタマイズ
+0x5d3a08	sprintf	1	Gameplay Settings	ゲームプレイ設定
+0x5d3a1c	sprintf	1	Difficulty:	難易度:
+0x5d3a28	sprintf	1	Load a saved game to change this.	これを変更するには、セーブしたゲームをロードしてください。
+0x5d3a4c	sprintf	1	Casual	カジュアル
+0x5d3a54	sprintf	1	Normal	ノーマル
+0x5d3a5c	sprintf	1	Hard	ハード
+0x5d3a64	sprintf	1	Torment	トーメント
+0x5d3a6c	sprintf	1	Scrolling Speed:	スクロール速度:
+0x5d3a80	sprintf	1	Normal	ノーマル
+0x5d3a88	sprintf	1	Fast	速い
+0x5d3a90	sprintf	1	Slow	遅い
+0x5d3a98	sprintf	1	Warning Before Pause In Combat:	戦闘中の一時停止前に警告:
+0x5d3ab8	sprintf	1	On	オン
+0x5d3abc	sprintf	1	Off	オフ
+0x5d3ac0	sprintf	1	Ability Animation Speed:	能力アニメーション速度:
+0x5d3adc	sprintf	1	Normal	ノーマル
+0x5d3ae4	sprintf	1	Fast	速い
+0x5d3aec	sprintf	1	Set Keyboard Shortcuts	キーボードショートカットの設定
+0x5d3b04	sprintf	1	Graphics and Game Window Size	グラフィックとゲームウィンドウのサイズ
+0x5d3b24	sprintf	1	Resolution and Window Size:	解像度とウィンドウサイズ:
+0x5d3b40	sprintf	1	Ask at Startup	起動時に確認
+0x5d3b50	sprintf	1	Use Current Setting	現在の設定を使用
+0x5d3b64	sprintf	1	Graphics Extra Details:	追加の描画詳細:
+0x5d3b7c	sprintf	1	Draw All	すべて描画
+0x5d3b88	sprintf	1	Don't Draw	描画しない
+0x5d3b94	sprintf	1	Game Area Size:	ゲーム画面のサイズ:
+0x5d3ba4	sprintf	1	Normal	ノーマル
+0x5d3bac	sprintf	1	Small	小
+0x5d3bb4	sprintf	1	Large	大
+0x5d3bbc	sprintf	1	Color Depth at Startup:	起動時の色深度:
+0x5d3bd4	sprintf	1	Use Default	既定値を使用
+0x5d3be0	sprintf	1	Always Use 16 Bit	常に16ビットを使用
+0x5d3bf4	sprintf	1	Always Use 32 Bit	常に32ビットを使用
+0x5d3c08	sprintf	1	Full Combat Grid:	戦闘グリッドの全体表示:
+0x5d3c1c	sprintf	1	Don't Draw	描画しない
+0x5d3c28	sprintf	1	Draw	描画
+0x5d3c30	sprintf	1	Game Text Size:	ゲーム内テキストのサイズ:
+0x5d3c40	sprintf	1	Default	標準
+0x5d3c48	sprintf	1	Larger	大きめ
+0x5d3c50	sprintf	1	Sound Settings	サウンド設定
+0x5d3c60	sprintf	1	Sound Volume:	音量:
+0x5d3c70	sprintf	1	Off	オフ
+0x5d3c74	sprintf	1	Quiet	静か
+0x5d3c7c	sprintf	1	Normal	ノーマル
+0x5d3c84	sprintf	1	Background Sounds:	環境音:
+0x5d3c98	sprintf	1	On	オン
+0x5d3c9c	sprintf	1	Off	オフ
+0x5d3ca0	sprintf	1	No Shortcut	ショートカットなし
+0x5d3cb4	sprintf	1	%s - Type Shortcut	%s - ショートカット入力
+0x5d3cc8	label	1	Restore Defaults	初期設定に戻す
+0x5d3cdc	label	1	Edit Game Settings	ゲーム設定を編集
+0x5d3cf0	label	1	Type the new keyboard shortcut, or press Escape to not have a shortcut. You can use the Shift, Control, or Option key.	新しいキーボードショートカットを入力してください。ショートカットを設定しない場合はEscを押してください。Shift、Ctrl、Optionキーを使用できます。
+0x5d3d68	label	1	Select a command to change (or remove) the keyboard shortcut. Some combinations (Control-O,S,Q and Shift-D) are reserved. Press the OK button when done.	変更（または削除）するコマンドを選択してください。一部の組み合わせ（Ctrl-O,S,QとShift-D）は予約されています。完了したらOKボタンを押してください。
+0x5d3e04	label	1	       Unavailable in demo.	       体験版では利用できません。
+0x5d3e20	label	1	All locations you have learned about are displayed on the map. Select the region to travel to. Choose an arrow to enter from a specific direction.	これまでに知った場所はすべて地図に表示されています。移動先の地域を選択してください。特定の方向から入るには、矢印を選んでください。
+0x5d3eb4	label	1	Choose Your Group	グループを選択
+0x5d3ec8	label	1	NOTE! You won't be able to travel to all locations until you purchase Avadon 3.	注意！　アヴァドン3を購入するまで、すべての場所へは移動できません。
+0x5d3f18	label	1	Blademaster	剣士
+0x5d3f24	label	1	Shadowwalker	影歩き
+0x5d3f34	label	1	Shaman	呪術師
+0x5d3f3c	label	1	Sorcerer	妖術師
+0x5d3f48	label	1	Tinkermage	機工術師
+0x5d3f54	sprintf	1	Level: %d	レベル: %d
+0x5d3f60	sprintf	1	Health: %d	体力: %d
+0x5d3f6c	loading	1	Creating a new campaign. Please be patient.	新しいキャンペーンを作成中です。しばらくお待ちください。
+0x5d3f98	loading	1	Loading Scenario Data	シナリオデータを読み込み中
+0x5d3fb0	loading	1	Creating a new campaign. Please be patient.	新しいキャンペーンを作成中です。しばらくお待ちください。
+0x5d3fdc	loading	1	Loading Campaign Data	キャンペーンデータを読み込み中
+0x5d3ff4	loading	1	Creating a new campaign. Please be patient.	新しいキャンペーンを作成中です。しばらくお待ちください。
+0x5d4020	loading	1	Initializing Character	キャラクターを初期化中
+0x5d4038	loading	1	Creating a new campaign. Please be patient.	新しいキャンペーンを作成中です。しばらくお待ちください。
+0x5d4064	loading	1	Loading First Area	最初のエリアを読み込み中
+0x5d4078	4ce4b0	1	Click mouse to continue.	クリックして続行。
+0x5d40a8	message,internal	1	Error: Accessed out of range Stuff Done Flag.	
+0x5d40d8	message,internal	1	Error: Attempted to change out of range Stuff Done Flag.	
+0x5d4114	message,internal	1	Error: Attempted to change out of range Stuff Done Flag.	
+0x5d4150	message,internal	1	Error: Special item out of range.	
+0x5d4174	concat,internal	1	.	
+0x5d4178	concat	1	You gain something special: 	特別な物を得た: 
+0x5d4198	concat,internal	1	.	
+0x5d419c	concat	1	You lose something special: 	特別な物を失った: 
+0x5d41bc	message,internal	1	Error: Quest out of range.	
+0x5d41d8	message,internal	1	Error: Tried to change hidden quest.	
+0x5d4200	message	1	A new quest has been added to your list.	新しいクエストが一覧に追加された。
+0x5d422c	message	1	  (To see your quest list, press the Journal button.)	  （クエスト一覧は日誌ボタンで確認できる。）
+0x5d4264	message	1	A new quest has been added to your list.	新しいクエストが一覧に追加された。
+0x5d4290	message	1	  (To see your quest list, press the Journal button.)	  （クエスト一覧は日誌ボタンで確認できる。）
+0x5d42c8	message	1	A quest has been completed.	クエストを完了した。
+0x5d42e4	sprintf	1	Quest Advanced: %s	クエスト進行: %s
+0x5d42f8	message,internal	1	Error: Quest out of range.	
+0x5d4314	message,internal	1	Error: Zone out of range.	
+0x5d4330	float	1	Burning goo!	燃焼の粘液！
+0x5d4340	loading	1	Clearing Data	データを消去中
+0x5d4350	loading	1	Loading Zone Data	エリアのデータを読み込み中
+0x5d4364	loading	1	Initializing Items	アイテムを初期化中
+0x5d4378	loading	1	Initializing Creatures	クリーチャーを初期化中
+0x5d4390	loading	1	Initializing Objects	オブジェクトを初期化中
+0x5d43a8	loading	1	Setting Blockage Arrays	通行判定を設定中
+0x5d43c0	loading	1	Loading Zone Script	エリアのスクリプトを読み込み中
+0x5d43d4	loading	1	Loading Dialogue Script	会話スクリプトを読み込み中
+0x5d43ec	loading	1	Loading Object Scripts	オブジェクトのスクリプトを読み込み中
+0x5d4404	loading	1	Preparing Graphics	グラフィックを準備中
+0x5d4418	concat,internal	1	.	
+0x5d441c	concat	1	Now Entering: 	進入: 
+0x5d442c	message,internal	1	Error! Couldn't place party when entering zone.	
+0x5d445c	label	1	Autosave	オートセーブ
+0x5d4468	message	1	Autosave: Done.	オートセーブ: 完了。
+0x5d4478	message	1	Autosave: Left zone in combat mode. Couldn't autosave.	オートセーブ: 戦闘中のままエリアを離れたため、オートセーブできなかった。
+0x5d44b0	message	1	Leave Zone: You can't leave the zone until all of your creations are standing near you.	エリア移動: 作り出したものすべてが近くに来るまで、エリアを離れることはできない。
+0x5d4508	message,internal	1	Error: Creature out of range spawned.	
+0x5d4530	message,internal	1	Debug: make_zone_hostile called.	
+0x5d4554	message,internal	1	Creature assigned to group out of range.	
+0x5d4580	concat	1	 assigned to full group.	
+0x5d459c	concat,internal	1	Error: Creature 	
+0x5d45b0	message	1	Exit Located.	出口を発見した。
+0x5d45c0	message	1	Exit Located.	出口を発見した。
+0x5d45d0	message	1	Exit Located.	出口を発見した。
+0x5d45e0	message	1	Exit Located.	出口を発見した。
+0x5d45f0	message	1	Combat has begun! (To end combat, press the Peace button below.)	戦闘開始！　（戦闘を終えるには、下の平和ボタンを押す。）
+0x5d4634	message	1	End Combat: Cancelled. Combat will continue.	戦闘終了: 中止。戦闘は続く。
+0x5d4664	message	1	Ending Combat Mode	戦闘モードを終了する。
+0x5d4678	message	1	End Combat: An enemy is visible. Combat will end at the end of this round. If something tries to attack you, combat will immediately restart.	戦闘終了: 敵が見えている。このラウンドの終わりに戦闘は終了するが、何かに攻撃されると、すぐに戦闘が再開する。
+0x5d4708	message	1	Starting new round.	新しいラウンドを開始する。
+0x5d471c	float	1	Dazed - Miss Turn	朦朧でターン喪失
+0x5d4730	float	1	Stunned - Miss Turn	気絶でターン喪失
+0x5d4744	concat,internal	1	.	
+0x5d4748	concat	1	Now active: 	行動中: 
+0x5d4758	float	1	Active	行動中
+0x5d4760	message	1	Are you sure you want to end this character's turn? (Select again to end turn.)	このキャラクターのターンを終了するか？（もう一度選ぶとターンが終了する。）
+0x5d47b0	message,internal	1	Tried to change a locked ability.	
+0x5d47d4	message	1	Inactive creature given as ability user.	
+0x5d4800	message,internal	1	Abil roster number out of range.	
+0x5d4824	message,internal	1	Abil number out of range.	
+0x5d4840	message,internal	1	NULL item given to ability engine.	
+0x5d4864	message,internal	1	NULL weapon given to ability engine.	
+0x5d488c	message	1	Target char not present.	
+0x5d48a8	message,internal	1	Using scarab ability of nonexistant scarab.	
+0x5d48d4	message	1	Ability engine queried for missing character.	
+0x5d4904	message	1	Ability engine queried for empty ability.	
+0x5d4930	message	1	Ability engine queried for ability out of char's roster.	
+0x5d496c	message	1	Ability engine queried for range of empty ability.	
+0x5d49a0	message,internal	1	abil_can_target_this_char called prematurely.	
+0x5d49d0	message	1	You can only cast this spell on allies.	この呪文は味方にしか使えない。
+0x5d49f8	message	1	You can only cast this spell on enemies.	この呪文は敵にしか使えない。
+0x5d4a24	message,internal	1	abil_affects_this_combat_loc called prematurely.	
+0x5d4a58	message,internal	1	abil_can_target_this_location called prematurely.	
+0x5d4a8c	message,internal	1	abil_place_in_mouseover called prematurely.	
+0x5d4ab8	tooltip	1	Improved by Strength	筋力で強化
+0x5d4ad0	tooltip	1	Improved by Dexterity	器用さで強化
+0x5d4ae8	tooltip	1	Improved by Intelligence	知力で強化
+0x5d4b04	tooltip	1	Improved by Endurance	持久力で強化
+0x5d4b1c	tooltip	1	Melee Attack	近接攻撃
+0x5d4b2c	tooltip	1	Close Attack	近距離攻撃
+0x5d4b3c	tooltip	1	Missile	飛び道具
+0x5d4b44	tooltip	1	Magical Missile	マジックミサイル
+0x5d4b54	tooltip	1	Affects Single Ally	味方単体
+0x5d4b68	tooltip	1	Affects Nearby Allies	周囲の味方
+0x5d4b80	tooltip	1	Affects Nearby Foes	周囲の敵
+0x5d4b94	tooltip	1	Affects Everyone Nearby	周囲の全員
+0x5d4bac	sprintf	1	Fatigue: %d. 	疲労: %d。 
+0x5d4bbc	sprintf	1	Turns to recover: %d. 	回復までのターン: %d。 
+0x5d4bf0	tooltip	1	Cone Attack	扇状攻撃
+0x5d4bfc	tooltip	1	Affects an area.	範囲効果
+0x5d4c10	sprintf	1	%s base %s damage.%s	%1$sの基本%2$sダメージ。%3$s
+0x5d4c28	sprintf	1	%s %s damage.%s	%s %sダメージ。%s
+0x5d4c38	tooltip	1	Cone Attack	扇状攻撃
+0x5d4c44	tooltip	1	Affects an area.	範囲効果
+0x5d4c58	sprintf	1	%s for %s Turns.%s	%1$s（%2$sターン）。%3$s
+0x5d4c6c	sprintf	1	%s %s damage to foe near target.%s	対象付近の敵に%1$s%2$sダメージ。%3$s
+0x5d4c90	sprintf	1	%s for %s Turns to foe near target.%s	対象付近の敵に%1$s（%2$sターン）。%3$s
+0x5d4cb8	tooltip	1	Leap to target.	対象へ跳躍
+0x5d4cc8	sprintf	1	Knockback %s spaces.%s	%sマスのノックバック。%s
+0x5d4ce0	tooltip	1	Cone Attack	扇状攻撃
+0x5d4cec	tooltip	1	Affects an area.	範囲効果
+0x5d4d00	sprintf	1	All abilities inactive for %s turns.%s	%sターンの間、すべての能力が使用不可。%s
+0x5d4d28	sprintf	1	Heal for %s.%s	%s回復。%s
+0x5d4d38	sprintf	1	%s for %s Turns.%s	%1$s（%2$sターン）。%3$s
+0x5d4d4c	sprintf	1	Cures 1 hostile effect.%s	敵対効果を1つ治癒。%s
+0x5d4d68	sprintf	1	Cure %s hostile effects.%s	%s個の敵対効果を治癒。%s
+0x5d4d84	sprintf	1	Cures 1 mental effect.%s	精神効果を1つ治癒。%s
+0x5d4da0	sprintf	1	Cure %s mental effects.%s	%s個の精神効果を治癒。%s
+0x5d4dbc	sprintf	1	All inactive abilities return %s turns earlier.%s	使用不可の能力が%sターン早く戻る。%s
+0x5d4df0	sprintf	1	Restore %s vitality.%s	活力を%s回復。%s
+0x5d4e08	tooltip	1	Massive bonus damage to low-health foes.	瀕死の敵に大ダメージ
+0x5d4e34	tooltip	1	Pulls foes closer.	敵の引き寄せ
+0x5d4e48	tooltip	1	Challenges nearby foes, drawing their attacks.	周囲の敵を挑発
+0x5d4e78	tooltip	1	 on ground.	を置く。
+0x5d4e84	tooltip	1	Places 	地面に
+0x5d4e8c	sprintf	1	Doesn't end turn.%s	ターンを終了しない。%s
+0x5d4ea0	tooltip	1	Foes less likely to attack you.	敵に狙われにくくする
+0x5d4ec0	sprintf	1	Summons an ally for %s turns.%s	%sターンの間、味方を召喚。%s
+0x5d4ee0	sprintf	1	Summons a %s for %s turns.%s	%sを%sターン召喚。%s
+0x5d4f00	tooltip	1	Create a decoy.	囮を作成
+0x5d4f10	tooltip	1	Revives a fallen party member.	倒れた仲間を蘇生
+0x5d4f30	sprintf	1	Hastes a pet and heals for %s.%s	ペットを加速させ、%s回復。%s
+0x5d4f54	sprintf	1	Attack does critical damage.%s	クリティカルダメージを与える。%s
+0x5d4f74	tooltip	1	Teleport to target space.	対象のマスへ瞬間移動
+0x5d4f90	float	1	Parry!	受け流し！
+0x5d4f98	concat	1	 parries the attack.	は攻撃を受け流した。
+0x5d4fb0	concat	1	 is missed.	には攻撃が当たらなかった。
+0x5d4fbc	float	1	Missed	回避！
+0x5d4fc4	float	1	Spines!	トゲ！
+0x5d4fcc	float	1	Reflect!	反射！
+0x5d4fd8	float	1	Riposte!	反撃！
+0x5d4fe4	concat	1	 ripostes the attack.	は反撃に転じた。
+0x5d4ffc	float	1	Focus Mastery!	集中の極意！
+0x5d500c	concat	1	 feels confused after the blow lands.	は一撃を受けて混乱した。
+0x5d5034	concat	1	 feels sluggish after the blow lands.	は一撃を受けて動きが鈍くなった。
+0x5d505c	concat	1	 is sprayed by acid from the wound.	は傷口から酸を浴びた。
+0x5d5080	concat	1	 is sprayed by venom from the wound.	は傷口から毒液を浴びた。
+0x5d50a8	concat	1	 loses control after touching this foe.	はこの敵に触れて制御を失った。
+0x5d50d0	concat	1	 is filled with terror after striking the blow.	は一撃を受けて恐怖に駆られた。
+0x5d5100	concat	1	 feels weaker after the blow lands.	は一撃を受けて弱体化した。
+0x5d5124	concat	1	 is wounded by spines.	はトゲで傷ついた。
+0x5d513c	concat	1	 is frozen in place.	はその場で凍りついた。
+0x5d5154	concat	1	 drips poison into the wound.	は傷口に毒を注がれた。
+0x5d5174	concat	1	 drips searing venom into the wound.	は傷口に焼けつく毒を注がれた。
+0x5d519c	concat	1	 with terror.	を恐怖で圧倒した。
+0x5d51ac	concat	1	 overwhelms 	は
+0x5d51bc	concat,internal	1	.	
+0x5d51c0	concat	1	 clouds the mind of 	の精神攻撃→
+0x5d51d8	concat,internal	1	.	
+0x5d51dc	concat	1	 makes time slow down for 	の時間遅延→
+0x5d51f8	concat	1	 with corruption.	に堕落を植え付けた。
+0x5d520c	concat	1	 infects 	は
+0x5d5218	concat	1	 in place.	をその場で凍りつかせた。
+0x5d5224	concat	1	 freezes 	は
+0x5d5230	concat	1	 get very tired.	をひどく疲労させた。
+0x5d5244	concat	1	 makes 	は
+0x5d524c	float	1	Fatigued!	疲労！
+0x5d5258	concat,internal	1	.	
+0x5d525c	concat	1	 paralyzes 	の麻痺→
+0x5d5268	float	1	Backstab!	背後攻撃！
+0x5d5274	float	1	Critical!	クリティカル！
+0x5d5280	float	1	Cleave!	なぎ払い！
+0x5d5288	float	1	Leap!	跳躍！
+0x5d5290	message	1	No room next to the target.	対象の隣に空きがない。
+0x5d52ac	float	1	Knockback!	ノックバック！
+0x5d52b8	float	1	Fatigued!	疲労！
+0x5d52c4	float	1	Pull!	引き寄せ！
+0x5d52cc	float	1	Deathblow!	死の一撃！
+0x5d52d8	float	1	Revived!	蘇生！
+0x5d52e4	float	1	Revived!	蘇生！
+0x5d52f0	float	1	Critical!	クリティカル！
+0x5d52fc	float	1	Knockback!	ノックバック！
+0x5d5308	float	1	Pulled!	引き寄せられた！
+0x5d5310	float	1	Fatigued!	疲労！
+0x5d531c	float	1	Challenged!	挑発された！
+0x5d5328	float	1	Critical!	クリティカル！
+0x5d5334	float	1	Knockback!	ノックバック！
+0x5d5340	float	1	Pulled!	引き寄せられた！
+0x5d5348	float	1	Fatigued!	疲労！
+0x5d5354	float	1	Critical!	クリティカル！
+0x5d5360	float	1	Knockback!	ノックバック！
+0x5d536c	float	1	Fatigued!	疲労！
+0x5d5378	float	1	Revived!	蘇生！
+0x5d5384	float	1	Speed up!	速度アップ！
+0x5d5390	float	1	Hiding!	潜伏！
+0x5d5398	float	1	Revived!	蘇生！
+0x5d53a4	internal	1	Unused	
+0x5d53ac	message	1	You can't cast summon spells when you already have a pet.	すでにペットがいるため、召喚呪文は唱えられない。
+0x5d53e8	message	1	You can't make turrets when you already have two.	すでに2基あるため、タレットを作れない。
+0x5d541c	message	1	You can't summon a pet or decoy when you already have one.	すでにペットか囮がいるため、召喚できない。
+0x5d5458	sprintf	1	Shadowwalker	影歩き
+0x5d5468	message	1	You can't cast this spell unless you have a pet.	ペットがいないと、この呪文は唱えられない。
+0x5d549c	float	1	Leap!	跳躍！
+0x5d54a4	message	1	You can't use this ability unless you have a turret.	タレットがないと、この能力は使えない。
+0x5d54dc	message,internal	1	Tried to launch non-existant abil.	
+0x5d5500	message,internal	1	Tried to launch effect of non-existant abil.	
+0x5d5530	message	1	Char using abil not present.	
+0x5d5550	message	1	Item being used not defined.	
+0x5d5570	message	1	You have to have a pet to use this ability.	この能力を使うにはペットが必要だ。
+0x5d559c	message	1	You can't cast summon spells when you already have a pet.	すでにペットがいるため、召喚呪文は唱えられない。
+0x5d55d8	message	1	You have to have turrets to use this ability.	この能力を使うにはタレットが必要だ。
+0x5d5608	message	1	You can't create a turret when you already have two.	すでに2基あるため、タレットを作れない。
+0x5d5640	concat	1	 experiences a sudden burst of speed.	は急に速さが増した。
+0x5d5668	float	1	Hasted!	加速！
+0x5d5670	message,internal	1	Debug: Report this ... Zero damage error	
+0x5f40a8	inplace20	0	Blademaster	剣士
+0x5f40bc	inplace20	0	Shadowwalker	影歩き
+0x5f40d0	inplace20	0	Shaman	呪術師
+0x5f40e4	inplace20	0	Sorcerer	妖術師
+0x5f40f8	inplace20	0	Tinkermage	機工術師

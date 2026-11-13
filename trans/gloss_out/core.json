@@ -1,0 +1,602 @@
+[
+{
+"en": "Warborn",
+"ja": "ウォーボーン",
+"keep": true
+},
+{
+"en": "Protus",
+"ja": "プロタス",
+"keep": true
+},
+{
+"en": "Kirik",
+"ja": "キリク",
+"keep": true
+},
+{
+"en": "Age of Chaos",
+"ja": "混沌の時代",
+"keep": true
+},
+{
+"en": "Velusa",
+"ja": "ヴェルーサ",
+"keep": true
+},
+{
+"en": "Refuge",
+"ja": "避難所",
+"keep": true
+},
+{
+"en": "Green Refuge",
+"ja": "緑の避難所",
+"keep": true
+},
+{
+"en": "Tilla",
+"ja": "ティラ",
+"keep": true
+},
+{
+"en": "Camp Nightshade",
+"ja": "ナイトシェード野営地",
+"keep": true
+},
+{
+"en": "God",
+"ja": "神",
+"keep": true
+},
+{
+"en": "Fort Foresight",
+"ja": "先見の砦",
+"keep": true
+},
+{
+"en": "Svorgaldi",
+"ja": "スヴォルガルド人",
+"keep": true
+},
+{
+"en": "Khalida",
+"ja": "カリダ",
+"keep": true
+},
+{
+"en": "Rudow",
+"ja": "ルドウ",
+"keep": true
+},
+{
+"en": "Geert",
+"ja": "ゲールト",
+"keep": true
+},
+{
+"en": "Vanatok Stead",
+"ja": "ヴァナトクの集落",
+"keep": true
+},
+{
+"en": "Daum",
+"ja": "ダウム",
+"keep": true
+},
+{
+"en": "Acting Keeper Protus",
+"ja": "番人代理のプロタス",
+"keep": true
+},
+{
+"en": "Chief Tilla",
+"ja": "ティラ族長",
+"keep": true
+},
+{
+"en": "Cerise",
+"ja": "セリーズ",
+"keep": true
+},
+{
+"en": "Shezass",
+"ja": "シェザス",
+"keep": true
+},
+{
+"en": "Dirran",
+"ja": "ディラン",
+"keep": true
+},
+{
+"en": "Arena",
+"ja": "闘技場",
+"keep": true
+},
+{
+"en": "Gankrong",
+"ja": "ガンクロン",
+"keep": true
+},
+{
+"en": "Keeper Protus",
+"ja": "番人のプロタス",
+"keep": true
+},
+{
+"en": "Silena",
+"ja": "シレナ",
+"keep": true
+},
+{
+"en": "Emory",
+"ja": "エモリー",
+"keep": true
+},
+{
+"en": "Temple of Velusa",
+"ja": "ヴェルーサの神殿",
+"keep": true
+},
+{
+"en": "Monitor Base",
+"ja": "百人長の拠点",
+"keep": true
+},
+{
+"en": "Vana's Reach",
+"ja": "ヴァナの辺境",
+"keep": true
+},
+{
+"en": "Commander Cerise",
+"ja": "セリーズ司令官",
+"keep": true
+},
+{
+"en": "Botan",
+"ja": "ボタン",
+"keep": true
+},
+{
+"en": "Envoy Dirran",
+"ja": "使節のディラン",
+"keep": true
+},
+{
+"en": "Farland",
+"ja": "ファーランド",
+"keep": true
+},
+{
+"en": "Acting Keeper",
+"ja": "番人代理",
+"keep": true
+},
+{
+"en": "Deathskull",
+"ja": "デスカル",
+"keep": true
+},
+{
+"en": "Laria",
+"ja": "ラリア",
+"keep": true
+},
+{
+"en": "Lorenz",
+"ja": "ローレンツ",
+"keep": true
+},
+{
+"en": "Deniz",
+"ja": "デニズ",
+"keep": true
+},
+{
+"en": "Svar's Peninsula",
+"ja": "スヴァル半島",
+"keep": true
+},
+{
+"en": "Ravilla",
+"ja": "ラヴィラ",
+"keep": true
+},
+{
+"en": "Defender Emory",
+"ja": "エモリー守備兵",
+"keep": true
+},
+{
+"en": "Gorm",
+"ja": "ゴルム",
+"keep": true
+},
+{
+"en": "Ilse",
+"ja": "イルゼ",
+"keep": true
+},
+{
+"en": "Trupo",
+"ja": "トルポ",
+"keep": true
+},
+{
+"en": "Vanatok's Stead",
+"ja": "ヴァナトクの集落",
+"keep": true
+},
+{
+"en": "Zhethron's Lair",
+"ja": "ジェスロンの要塞",
+"keep": true
+},
+{
+"en": "Ima",
+"ja": "イマ",
+"keep": true
+},
+{
+"en": "Aelia",
+"ja": "アエリア",
+"keep": true
+},
+{
+"en": "Arena of the Warborn",
+"ja": "ウォーボーンの闘技場",
+"keep": true
+},
+{
+"en": "Eye Laria",
+"ja": "アイのラリア",
+"keep": true
+},
+{
+"en": "Keeper's Hall",
+"ja": "番人の広間",
+"keep": true
+},
+{
+"en": "Magda",
+"ja": "マグダ",
+"keep": true
+},
+{
+"en": "Wallace",
+"ja": "ウォレス",
+"keep": true
+},
+{
+"en": "Zetra",
+"ja": "ゼトラ",
+"keep": true
+},
+{
+"en": "Aden",
+"ja": "エイデン",
+"keep": true
+},
+{
+"en": "Free Roads",
+"ja": "自由街道",
+"keep": true
+},
+{
+"en": "Pure Land",
+"ja": "清浄の地",
+"keep": true
+},
+{
+"en": "Devin",
+"ja": "デヴィン",
+"keep": true
+},
+{
+"en": "Leora",
+"ja": "レオラ",
+"keep": true
+},
+{
+"en": "Hand Kaede",
+"ja": "ハンドのカエデ",
+"keep": true
+},
+{
+"en": "High Chief Golath",
+"ja": "ゴラス大族長",
+"keep": true
+},
+{
+"en": "Kaede",
+"ja": "カエデ",
+"keep": true
+},
+{
+"en": "Tawonite",
+"ja": "タウォン人",
+"keep": true
+},
+{
+"en": "Alric",
+"ja": "アルリック",
+"keep": true
+},
+{
+"en": "Chief",
+"ja": "族長",
+"keep": true
+},
+{
+"en": "Commander Wallace",
+"ja": "ウォレス司令官",
+"keep": true
+},
+{
+"en": "Egmon",
+"ja": "エグモン",
+"keep": true
+},
+{
+"en": "Eye Audun",
+"ja": "アイのアウドゥン",
+"keep": true
+},
+{
+"en": "Halia",
+"ja": "ハリア",
+"keep": true
+},
+{
+"en": "Heart Callan",
+"ja": "ハートのカラン",
+"keep": true
+},
+{
+"en": "Miklosh",
+"ja": "ミクロシュ",
+"keep": true
+},
+{
+"en": "Tamsin",
+"ja": "タムシン",
+"keep": true
+},
+{
+"en": "Verginia",
+"ja": "ヴェルギニア",
+"keep": true
+},
+{
+"en": "Duchess",
+"ja": "女公爵",
+"keep": true
+},
+{
+"en": "Ellice",
+"ja": "エリス",
+"keep": true
+},
+{
+"en": "Golath",
+"ja": "ゴラス",
+"keep": true
+},
+{
+"en": "Grenra",
+"ja": "グレンラ",
+"keep": true
+},
+{
+"en": "Judit",
+"ja": "ユディト",
+"keep": true
+},
+{
+"en": "Lavonne",
+"ja": "ラヴォンヌ",
+"keep": true
+},
+{
+"en": "Otho",
+"ja": "オトー",
+"keep": true
+},
+{
+"en": "Pact Warrior",
+"ja": "盟約の戦士",
+"keep": true
+},
+{
+"en": "Sever",
+"ja": "セヴァー",
+"keep": true
+},
+{
+"en": "Sovereign",
+"ja": "君主",
+"keep": true
+},
+{
+"en": "Anton",
+"ja": "アントン",
+"keep": true
+},
+{
+"en": "Craft",
+"ja": "製作",
+"keep": true
+},
+{
+"en": "Foresight",
+"ja": "先見",
+"keep": true
+},
+{
+"en": "Free People",
+"ja": "自由の民",
+"keep": true
+},
+{
+"en": "Lyacos",
+"ja": "リアコス",
+"keep": true
+},
+{
+"en": "New Woodhome",
+"ja": "新しい森の家",
+"keep": true
+},
+{
+"en": "Protector Ravilla",
+"ja": "ラヴィラ守護官",
+"keep": true
+},
+{
+"en": "Protector Verginia",
+"ja": "ヴェルギニア守護官",
+"keep": true
+},
+{
+"en": "Sea Vaults",
+"ja": "海の地下道",
+"keep": true
+},
+{
+"en": "Taroe",
+"ja": "タロエ",
+"keep": true
+},
+{
+"en": "Trupo's Outpost",
+"ja": "トルポの前哨基地",
+"keep": true
+},
+{
+"en": "Abbas",
+"ja": "アッバス",
+"keep": true
+},
+{
+"en": "Antitia Guard",
+"ja": "アンティティア衛兵",
+"keep": true
+},
+{
+"en": "Antitia Ruins",
+"ja": "アンティティア遺跡",
+"keep": true
+},
+{
+"en": "Audun",
+"ja": "アウドゥン",
+"keep": true
+},
+{
+"en": "Chief Golath",
+"ja": "ゴラス族長",
+"keep": true
+},
+{
+"en": "Contested Lands",
+"ja": "係争の地",
+"keep": true
+},
+{
+"en": "Gaze of Avadon",
+"ja": "アヴァドンの視線",
+"keep": true
+},
+{
+"en": "Hand Hahn",
+"ja": "ハンドのハーン",
+"keep": true
+},
+{
+"en": "Kita",
+"ja": "キタ",
+"keep": true
+},
+{
+"en": "Linus",
+"ja": "ライナス",
+"keep": true
+},
+{
+"en": "Ritter",
+"ja": "リッター",
+"keep": true
+},
+{
+"en": "Romia",
+"ja": "ロミア",
+"keep": true
+},
+{
+"en": "Scout Kita",
+"ja": "斥候のキタ",
+"keep": true
+},
+{
+"en": "Semra",
+"ja": "セムラ",
+"keep": true
+},
+{
+"en": "Spiral",
+"ja": "螺旋",
+"keep": true
+},
+{
+"en": "Temple Guard",
+"ja": "神殿の衛兵",
+"keep": true
+},
+{
+"en": "Titan Lands",
+"ja": "タイタンの地",
+"keep": true
+},
+{
+"en": "Tower Guard",
+"ja": "塔の衛兵",
+"keep": true
+},
+{
+"en": "Watcher Semra",
+"ja": "セムラ十人長",
+"keep": true
+},
+{
+"en": "Adele",
+"ja": "アデル",
+"keep": true
+},
+{
+"en": "Ahala",
+"ja": "アハラ",
+"keep": true
+},
+{
+"en": "Antitia",
+"ja": "アンティティア",
+"keep": true
+},
+{
+"en": "Bator",
+"ja": "バートル",
+"keep": true
+},
+{
+"en": "Carsten",
+"ja": "カーステン",
+"keep": true
+},
+{
+"en": "Case",
+"ja": "ケース",
+"keep": true
+}
+]

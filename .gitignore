@@ -1,0 +1,55 @@
+# build output
+*.obj
+*.exp
+*.lib
+*.dll
+__pycache__/
+dist/
+
+# Text extracted from the original game (English source) and generated images:
+# not redistributed. Regenerate them with the tools from your own copy of the game.
+img_out/
+img_preview/
+trans/units/
+trans/chunks/
+trans/jobs/
+trans/jobs.json
+trans/known.json
+trans/gloss_in/
+trans/glossary_candidates.json
+trans/check_report.json
+trans_exe/chunks/
+trans_exe/jobs/
+trans_exe/fragctx.json
+trans_scen/chunks/
+trans_scen/jobs/
+trans_scen/units.json
+
+# work notes (kept locally, not published)
+DEVELOPMENT.md
+
+# work notes (kept locally, not published)
+trans/STYLE.md
+
+# work notes (kept locally, not published)
+trans/TRANSLATOR_BRIEF.md
+
+# work notes (kept locally, not published)
+trans/GLOSS_BRIEF.md
+
+# work notes (kept locally, not published)
+trans_exe/EXE_BRIEF.md
+
+# work notes (kept locally, not published)
+trans_scen/SCEN_BRIEF.md
+
+# work notes and work trees (kept locally, not published)
+trans/VOICE_BRIEF.md
+trans/REVIEW_TODO.md
+trans/voices_in/
+trans/voices_out/
+trans/jobs_k.json
+ref_av1/
+orig_tree/
+build_tree/
+exe_strings.tsv.bak
