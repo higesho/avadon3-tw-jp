@@ -9,5 +9,8 @@
 "0x5d1f4c": "解錠具%d本",
 "0x5d288c": "%sの統計:",
 "0x5d2a54": "残り%d",
-"0x5d4c28": "%s %sダメージ。%s"
+"0x5d4c28": "%s %sダメージ。%s",
+"0x5ceb88": "Draw All Graphics (Default)",
+"0x5ceba4": "Partial Graphics",
+"0x5cebb8": "Minimum Graphics (Old Machines)"
 }

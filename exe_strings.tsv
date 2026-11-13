@@ -736,9 +736,9 @@ va	sink	refs	english	japanese
 0x5cea68	message,internal	1	Screen particle out of range.	
 0x5cea88	dialog	1	Avadon 3 requires a resolution of at least 1024 x 600 at Millions of Colors to run. The game is unable to set the monitor to a proper resolution. If you believe that the game is in error, contact support@spiderwebsoftware.com.	『アヴァドン3』の実行には、数百万色で1024 x 600以上の解像度が必要です。ゲームがモニターを適切な解像度に設定できませんでした。ゲームの不具合だと思われる場合は、support@spiderwebsoftware.com までご連絡ください。
 0x5ceb6c	dialog	1	Resolution Error	解像度エラー
-0x5ceb88	sprintf	1	Draw All Graphics (Default)	すべてのグラフィックを描画（デフォルト）
-0x5ceba4	sprintf	1	Partial Graphics	一部のグラフィック
-0x5cebb8	sprintf	1	Minimum Graphics (Old Machines)	最低限のグラフィック（旧型PC向け）
+0x5ceb88	internal	1	Draw All Graphics (Default)	
+0x5ceba4	internal	1	Partial Graphics	
+0x5cebb8	internal	1	Minimum Graphics (Old Machines)	
 0x5cebd8		1	Avadon 3: The Warborn	アヴァドン3：ウォーボーン
 0x5cec00	sprintf	1	Space	スペース
 0x5cec08	sprintf	1	Del	

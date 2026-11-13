@@ -1,0 +1,992 @@
+[
+{
+"file": "mobfrenzy",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Calm down."
+},
+{
+"file": "mobfrenzy",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Frenzy."
+},
+{
+"file": "mobfrenzy",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Frenzy!"
+},
+{
+"file": "mobgroupgd",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Shouts alarm!"
+},
+{
+"file": "mobsummoner",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Calls for aid!"
+},
+{
+"file": "z0nightshadedlg",
+"n": 633,
+"kind": "shop_arg",
+"en": "Nicodemus has a wide array of trinkets and baubles he has no use for."
+},
+{
+"file": "z0nightshadedlg",
+"n": 685,
+"kind": "shop_arg",
+"en": "Trader Ai has an eclectic assortment of goods, the random debris gathered from desperate refugees and fresh battlefields."
+},
+{
+"file": "z0nightshadedlg",
+"n": 879,
+"kind": "shop_arg",
+"en": "Okan makes the best armor and weapons he can with the resources he has. Which isn't much."
+},
+{
+"file": "z10infernal",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Submits!"
+},
+{
+"file": "z10rb2",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Absorb shades."
+},
+{
+"file": "z10rb2",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Great strength!"
+},
+{
+"file": "z10rb2",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Absorb shades."
+},
+{
+"file": "z10rb2",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Great strength!"
+},
+{
+"file": "z10rb2",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Charges up."
+},
+{
+"file": "z11drake",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Drained."
+},
+{
+"file": "z11drake",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Drained."
+},
+{
+"file": "z11drake",
+"n": 6,
+"kind": "run_text_on_char",
+"en": "Drained."
+},
+{
+"file": "z11golem",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Hummm!"
+},
+{
+"file": "z11golem",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "HUMMMMM!"
+},
+{
+"file": "z11golem",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Crumble."
+},
+{
+"file": "z11golem",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "Crumble."
+},
+{
+"file": "z11traptur",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Bzzzzz."
+},
+{
+"file": "z11zhetkeepdlg",
+"n": 428,
+"kind": "shop_arg",
+"en": "Craftmaster Pynchon is willing to sell you more mundane goods. He is not polite."
+},
+{
+"file": "z11zhetkeepdlg",
+"n": 434,
+"kind": "shop_arg",
+"en": "Craftmaster Pynchon has been commanded to sell you his finer goods."
+},
+{
+"file": "z12bloodwave",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Nature, give me aid!"
+},
+{
+"file": "z12bloodwave",
+"n": 8,
+"kind": "run_text_on_char",
+"en": "Nature, save me!"
+},
+{
+"file": "z12bloodwave",
+"n": 11,
+"kind": "run_text_on_char",
+"en": "Nature, don't leave me!"
+},
+{
+"file": "z12duchess",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Leap!"
+},
+{
+"file": "z12goldcragdlg",
+"n": 36,
+"kind": "text10",
+"en": "I'll be glad to leave this place."
+},
+{
+"file": "z12goldcragdlg",
+"n": 272,
+"kind": "shop_arg",
+"en": "Trader Cardea is a Tawon merchant, but she's been settled in here for some time. She sells a lot of stuff scavenged from fallen Warborn."
+},
+{
+"file": "z12patrol",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Blessing!"
+},
+{
+"file": "z12titanguy",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Sacred ground blessing!"
+},
+{
+"file": "z12treasury",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Draws energy!"
+},
+{
+"file": "z13arena",
+"n": 51,
+"kind": "run_text_on_char",
+"en": "Poof!"
+},
+{
+"file": "z13arena",
+"n": 52,
+"kind": "run_text_on_char",
+"en": "Poof!"
+},
+{
+"file": "z13arena",
+"n": 53,
+"kind": "run_text_on_char",
+"en": "Poof!"
+},
+{
+"file": "z13arena",
+"n": 54,
+"kind": "run_text_on_char",
+"en": "Poof!"
+},
+{
+"file": "z13bandal",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Rage."
+},
+{
+"file": "z13bandal",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "RAGE!"
+},
+{
+"file": "z13bosshelp",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Angered!"
+},
+{
+"file": "z13bosshelp",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Called to fight!"
+},
+{
+"file": "z13golath",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Tendrils!"
+},
+{
+"file": "z13golath",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Tendrils!"
+},
+{
+"file": "z13incubus",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Berserk rage!"
+},
+{
+"file": "z13threvar",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Leap!"
+},
+{
+"file": "z14fortforedlg",
+"n": 48,
+"kind": "text10",
+"en": "Is Redbeard dangerous?"
+},
+{
+"file": "z14fortforedlg",
+"n": 301,
+"kind": "shop_arg",
+"en": "Stesha is the quartermaster of Fort Foresight. She has some reasonably good equipment for sale."
+},
+{
+"file": "z14fortforedlg",
+"n": 331,
+"kind": "shop_arg",
+"en": "Hand Hahn is under orders to help you. Luckily for you, she has a lot of potions in stock."
+},
+{
+"file": "z15adele",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Pouf!"
+},
+{
+"file": "z15berazawddlg",
+"n": 160,
+"kind": "shop_arg",
+"en": "Crafter Rafe makes terrific leather armor. Terrific, but expensive."
+},
+{
+"file": "z15construct",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Chains!"
+},
+{
+"file": "z15construct",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Fling!"
+},
+{
+"file": "z15gryfyn",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Wand!"
+},
+{
+"file": "z15gryfyn",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Wand!"
+},
+{
+"file": "z15gryfyn",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "Frozen!"
+},
+{
+"file": "z15hallguard",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Fling!"
+},
+{
+"file": "z15hallguard",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Poof!"
+},
+{
+"file": "z15shade",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Alerted!"
+},
+{
+"file": "z15wolf",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Call shade!"
+},
+{
+"file": "z16altarguy",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Altar blessing!"
+},
+{
+"file": "z16drake",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Spray ice!"
+},
+{
+"file": "z16drake",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Warmth!"
+},
+{
+"file": "z16drake",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Freeze!"
+},
+{
+"file": "z16libgolem",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Poof!"
+},
+{
+"file": "z16libgolem",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Fling!"
+},
+{
+"file": "z16ravilla",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Call shade!"
+},
+{
+"file": "z16ravshade",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Shade blessing!"
+},
+{
+"file": "z16souljar",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Give curse."
+},
+{
+"file": "z16souljar",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Soul curse."
+},
+{
+"file": "z16souljar",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Soul burn."
+},
+{
+"file": "z16souljar",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Soul loss."
+},
+{
+"file": "z16souljar",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Soul loss."
+},
+{
+"file": "z16souljar",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "Soul destruction."
+},
+{
+"file": "z16velusa",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Divine heal!"
+},
+{
+"file": "z16velusa",
+"n": 6,
+"kind": "run_text_on_char",
+"en": "Soul tear!"
+},
+{
+"file": "z16velusa",
+"n": 9,
+"kind": "run_text_on_char",
+"en": "Divine heal!"
+},
+{
+"file": "z17golem",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Call for help!"
+},
+{
+"file": "z17patrol",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Shouts alarm!"
+},
+{
+"file": "z18djalnar",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Leap!"
+},
+{
+"file": "z18halia3",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Shielded!"
+},
+{
+"file": "z18mound",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Call bat!"
+},
+{
+"file": "z18slimebat",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Swoops down!"
+},
+{
+"file": "z18spider",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Spray!"
+},
+{
+"file": "z18spider",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Aahgh!"
+},
+{
+"file": "z18svarpendlg",
+"n": 58,
+"kind": "text10",
+"en": "Please let us work."
+},
+{
+"file": "z18svarpendlg",
+"n": 144,
+"kind": "shop_arg",
+"en": "Most of the goods here were raised by Refuge. It's a humble selection. There are some interesting bits of salvage, though."
+},
+{
+"file": "z18turret",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Weakened!"
+},
+{
+"file": "z1vansteaddlg",
+"n": 391,
+"kind": "shop_arg",
+"en": "Lulia trades in high-quality magical trinkets and scrolls. Servants of Avadon get a discount."
+},
+{
+"file": "z1vansteaddlg",
+"n": 526,
+"kind": "shop_arg",
+"en": "Magda sells her potions to all peaceful visitors, even if she doesn't like them."
+},
+{
+"file": "z2padgat",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Calls aid."
+},
+{
+"file": "z2padgat",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Poof! Grrr!"
+},
+{
+"file": "z2padgat",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Calls aid."
+},
+{
+"file": "z2padgat",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Poof! Grrr!"
+},
+{
+"file": "z2padgat",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "Draws life."
+},
+{
+"file": "z2padgat",
+"n": 6,
+"kind": "run_text_on_char",
+"en": "Drained."
+},
+{
+"file": "z2padgat",
+"n": 7,
+"kind": "run_text_on_char",
+"en": "Draws life."
+},
+{
+"file": "z2padgat",
+"n": 8,
+"kind": "run_text_on_char",
+"en": "Drained."
+},
+{
+"file": "z2shaman",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Potion!"
+},
+{
+"file": "z2vanareachdlg",
+"n": 185,
+"kind": "shop_arg",
+"en": "Abbas has a wide variety of junk and equipment he's traded for all over Lynaeus. He charges wartime prices."
+},
+{
+"file": "z2vanareachdlg",
+"n": 546,
+"kind": "shop_arg",
+"en": "Bator has a limited selection of goods that a Hand might find useful. He knows enough to charge reasonable prices."
+},
+{
+"file": "z3bigguard",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Shadows!"
+},
+{
+"file": "z3daum2",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Shield fade."
+},
+{
+"file": "z3daum2",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Shielded!"
+},
+{
+"file": "z3daum2",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Call aid!"
+},
+{
+"file": "z3daum2",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "Charged!"
+},
+{
+"file": "z3daum2",
+"n": 6,
+"kind": "run_text_on_char",
+"en": "Charged!"
+},
+{
+"file": "z3daum2",
+"n": 7,
+"kind": "run_text_on_char",
+"en": "Charged!"
+},
+{
+"file": "z3daum2",
+"n": 8,
+"kind": "run_text_on_char",
+"en": "Charged!"
+},
+{
+"file": "z3daum2",
+"n": 9,
+"kind": "run_text_on_char",
+"en": "Charged!"
+},
+{
+"file": "z3daum2",
+"n": 10,
+"kind": "run_text_on_char",
+"en": "Charged!"
+},
+{
+"file": "z4kiriktordlg",
+"n": 50,
+"kind": "text10",
+"en": "We hope for your mercy."
+},
+{
+"file": "z4kiriktordlg",
+"n": 60,
+"kind": "text10",
+"en": "Our rebellion will rise again."
+},
+{
+"file": "z4kiriktordlg",
+"n": 441,
+"kind": "shop_arg",
+"en": "Aythen has a few unneeded items he can trade away. It's a gesture of goodwill from the rebellion."
+},
+{
+"file": "z4rockcurse",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Infect Stone!"
+},
+{
+"file": "z5greenrefdlg",
+"n": 66,
+"kind": "text10",
+"en": "The Keeper was diseased."
+},
+{
+"file": "z5greenrefdlg",
+"n": 421,
+"kind": "shop_arg",
+"en": "Sechi is a fine worker of steel. Avadon only recruits the finest craftsmen."
+},
+{
+"file": "z5greenrefdlg",
+"n": 425,
+"kind": "shop_arg",
+"en": "Sechi is quite a trader. There's a lot of neat stuff here."
+},
+{
+"file": "z5greenrefdlg",
+"n": 640,
+"kind": "shop_arg",
+"en": "Shezass will only trade with you if it grows her hoard. She is a really tough bargainer."
+},
+{
+"file": "z5mazeguard",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "GRRRAHH!"
+},
+{
+"file": "z5mazeguard",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Gurgle!"
+},
+{
+"file": "z5mazeguard",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Calm down."
+},
+{
+"file": "z5mazeguard",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Frenzy."
+},
+{
+"file": "z5mazeguard",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "Frenzy!"
+},
+{
+"file": "z5sentinel",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Gurgle!"
+},
+{
+"file": "z5sentinel",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Gurgle!"
+},
+{
+"file": "z5spider",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Freeze!"
+},
+{
+"file": "z6bat",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "SCREECH!"
+},
+{
+"file": "z6bigsent",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Charge up."
+},
+{
+"file": "z6defender",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Activate Mode 2!"
+},
+{
+"file": "z6farland",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "Drinks potion!"
+},
+{
+"file": "z6rotborder",
+"n": 33,
+"kind": "run_text_on_char",
+"en": "Zzzzt!"
+},
+{
+"file": "z6rotborder",
+"n": 34,
+"kind": "run_text_on_char",
+"en": "Zzzzt!"
+},
+{
+"file": "z6rotborder",
+"n": 35,
+"kind": "run_text_on_char",
+"en": "Zzzzt!"
+},
+{
+"file": "z6rotborderdlg",
+"n": 126,
+"kind": "shop_arg",
+"en": "Romia still has some of her stock of potions left. She is willing to trade with you."
+},
+{
+"file": "z6sentboss2",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Activated."
+},
+{
+"file": "z6sentboss2",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Angry!"
+},
+{
+"file": "z6sentboss2",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Crumbles."
+},
+{
+"file": "z6sentboss2",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "Reforms."
+},
+{
+"file": "z6sentboss2",
+"n": 6,
+"kind": "run_text_on_char",
+"en": "Reactivates!"
+},
+{
+"file": "z6sporedude",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Shudders."
+},
+{
+"file": "z6sporedude",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Shudders."
+},
+{
+"file": "z6sporedude",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Reforms."
+},
+{
+"file": "z6sporedude",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Rises again!"
+},
+{
+"file": "z7caller",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Call spirit!"
+},
+{
+"file": "z7demon",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Grants power."
+},
+{
+"file": "z7demon",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Blessing!"
+},
+{
+"file": "z7demon",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Revives horror."
+},
+{
+"file": "z7fravra",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Healing potion!"
+},
+{
+"file": "z7horror",
+"n": 0,
+"kind": "run_text_on_char",
+"en": "RRRAHRRR!"
+},
+{
+"file": "z7horror",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Snarl!"
+},
+{
+"file": "z7horror",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Twitch!"
+},
+{
+"file": "z8avadondlg",
+"n": 71,
+"kind": "text10",
+"en": "Wretches aren't too bad."
+},
+{
+"file": "z8avadondlg",
+"n": 126,
+"kind": "shop_arg",
+"en": "Duman is a great smith, but he mainly works as the quartermaster now."
+},
+{
+"file": "z8avadondlg",
+"n": 130,
+"kind": "shop_arg",
+"en": "Duman is a great smith, but he mainly works as the quartermaster now. He shows you some precious tribute just arrived from the Wyldrylm."
+},
+{
+"file": "z8construct",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "BZZZZT!"
+},
+{
+"file": "z8construct",
+"n": 2,
+"kind": "run_text_on_char",
+"en": "Hissss!"
+},
+{
+"file": "z8construct",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Hummmmm!"
+},
+{
+"file": "z8construct",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "Bzzzzt."
+},
+{
+"file": "z8construct",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "Hummmm."
+},
+{
+"file": "z8construct",
+"n": 8,
+"kind": "run_text_on_char",
+"en": "Shouts alarm!"
+},
+{
+"file": "z8construct",
+"n": 9,
+"kind": "run_text_on_char",
+"en": "Hummmmm!"
+},
+{
+"file": "z8libshade",
+"n": 1,
+"kind": "run_text_on_char",
+"en": "Calls for aid!"
+},
+{
+"file": "z9hallmobs",
+"n": 3,
+"kind": "run_text_on_char",
+"en": "Sniff. Sniff."
+},
+{
+"file": "z9hallmobs",
+"n": 4,
+"kind": "run_text_on_char",
+"en": "GRRAHRRR!"
+},
+{
+"file": "z9hallmobs",
+"n": 5,
+"kind": "run_text_on_char",
+"en": "GRRAHRRR!"
+}
+]

@@ -64,6 +64,14 @@ SPEC = {
     'G159.png': {   # how to use quick-use items
         'erase': 'fill', 'pad': 0, 'fill_colour': (0, 0, 0, 0),
         'texts': [((6, 22, 113, 86), ['このボタンで', 'アイテムを', '使います。'], GOTHIC_B, 17, CREAM, 'left', 'shadow')]},
+    'G128.png': {   # panel headers (map, roster) and loading bars
+        'erase': 'recolor',
+        'texts': [
+            ((818, 7, 858, 21), ['地図'], MINCHO_B, 13, (226, 214, 212), 'center', 'shadow'),
+            ((782, 504, 850, 518), ['仲間'], MINCHO_B, 13, (226, 214, 212), 'center', 'shadow'),
+            ((125, 598, 215, 613), ['読み込み中'], GOTHIC_B, 12, (170, 160, 150), 'center', 'shadow'),
+            ((125, 634, 215, 649), ['読み込み中'], GOTHIC_B, 12, (232, 220, 218), 'center', 'shadow'),
+        ]},
 }
 
 
@@ -152,6 +160,22 @@ def render(name, src_dir):
                     if not grid_cols[xx - x0]:
                         out_arr[yy, xx] = c
         img = Image.fromarray(out_arr, 'RGBA')
+    elif spec['erase'] == 'recolor':
+        # light text on a dark label: paint the light pixels (and a 1px rim) with the
+        # median colour of the dark pixels of the same box
+        out_arr = arr.copy()
+        for t in spec['texts']:
+            x0, y0, x1, y1 = t[0]
+            blk = arr[y0:y1, x0:x1]
+            g = blk[:, :, :3].astype(int).mean(axis=2)
+            thr = np.median(g) + 22
+            dark = blk[g < thr]
+            c = np.median(dark, axis=0).astype(np.uint8)
+            m = (g >= thr).astype(np.uint8) * 255
+            m = cv2.dilate(m, np.ones((3, 3), np.uint8), iterations=1) > 0
+            sub = out_arr[y0:y1, x0:x1]
+            sub[m] = c
+        img = Image.fromarray(out_arr, 'RGBA')
     elif spec['erase'] == 'inpaint':
         alpha = np.array(img)[:, :, 3]
         rgb = cv2.cvtColor(np.array(img.convert('RGB')), cv2.COLOR_RGB2BGR)
@@ -161,7 +185,7 @@ def render(name, src_dir):
             x0, y0, x1, y1 = t[0]
             light = len(t) > 6 and t[6] == 'outline'
             sub = gray[y0:y1, x0:x1]
-            hit = (sub > 200) | (sub < 60) if light else (sub < 120)
+            hit = (sub > 130) | (sub < 60) if light else (sub < 120)
             m[y0:y1, x0:x1] = hit.astype(np.uint8) * 255
         m = cv2.dilate(m, np.ones((3, 3), np.uint8), iterations=1)
         rgb = cv2.inpaint(rgb, m, 4, cv2.INPAINT_TELEA)

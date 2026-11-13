@@ -146,6 +146,9 @@ def main(argv):
         if SKIP_RE.match(s.strip()) and not re.search(r'[A-Za-z]{3} ', s) and not SHOWN_FMT.search(s):
             continue
         sinks = sorted(set(x for x in refs[va] if x))
+        # Win32 start-up dialog (Windows shows it as Shift-JIS): must stay English
+        if va in (0x5ceb88, 0x5ceba4, 0x5cebb8):
+            sinks = ['internal']
         # a lone '.' is shared by dozens of messages and script errors: leave it
         if (INTERNAL_RE.search(s) or s == '.') and 'internal' not in sinks:
             sinks.append('internal')

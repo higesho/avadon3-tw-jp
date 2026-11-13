@@ -5,6 +5,8 @@ Spiderweb Software の RPG「Avadon 3: The Warborn」（Steam 版）を日本語
 - **紹介ページ**: https://higesho.github.io/avadon3-tw-jp/
 - **ダウンロード**: [Releases](https://github.com/higesho/avadon3-tw-jp/releases/latest) の `Avadon3_JP_<版>.zip`
 
+![会話画面](docs/img/dialogue.jpg)
+
 ## 使い方
 1. ZIP の中身（`dsound.dll`、`avadon3_jp.ini`、`avadon3_jp` フォルダ）をゲームのフォルダ（`Avadon 3.exe` のある場所）にコピーする
 2. Steam からゲームを起動する
@@ -16,11 +18,11 @@ Steam 版（Windows）用です。GOG 版など他のストアの版は未確認
 ## 翻訳の規模
 | 対象 | 件数 |
 |---|---|
-| 会話・本・イベントの文 | 16,918 |
+| 会話・本・イベントの文 | 17,083 |
 | 人物・アイテム・能力などの名前 | 1,679 |
-| 画面・戦闘メッセージ | 931 |
+| 画面・戦闘メッセージ | 928 |
 | 地名・地図のラベル | 197 |
-| 文字入りの画像 | 7 枚 |
+| 文字入りの画像 | 8 枚 |
 
 ## 不具合・誤訳の報告
 表示の崩れ、誤訳、不自然な言い回しなどは [Issues](https://github.com/higesho/avadon3-tw-jp/issues) にお寄せください。

@@ -26,6 +26,7 @@ RANGES = [
     ('bind_tex', 0x49cd40, 0x49cdad, None),
     ('str_width', 0x488600, 0x4886d2, None),
     ('named_str', 0x483dc8, 0x483ded, None),
+    ('tok_class', 0x4727a5, 0x4727f6, None),
 ]
 
 

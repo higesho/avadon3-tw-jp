@@ -44,16 +44,18 @@ enum
     I_DRAW_TEXT, I_DRAW_ASCII, I_BLIT, I_NAME_SUBST, I_PEN_X, I_PEN_Y, I_CUR_FONT, I_LINE_ACC,
     I_STR_WIDTH, I_SET_COLOR, I_CHARMAP,
     I_FONT_TEX, I_BOUND_TEX_CACHE, I_FONT0, I_SPRINTF, I_NAMED_PUSH, I_NAMED_CALL, I_FMT_S_SPACE_S,
-    I_COUNT
+    I_TOKCLASS, I_TOK_DIGIT, I_TOK_OTHER, I_TOK_LETTER, I_COUNT
 };
 static const char *const kAddrName[I_COUNT] = {
     "draw_text", "draw_ascii", "blit", "name_subst", "pen_x", "pen_y", "cur_font", "line_acc",
     "str_width", "set_color", "charmap",
-    "font_tex", "bound_tex_cache", "font0", "sprintf", "named_push", "named_call", "fmt_s_space_s"};
+    "font_tex", "bound_tex_cache", "font0", "sprintf", "named_push", "named_call", "fmt_s_space_s",
+    "tok_class", "tok_digit", "tok_other", "tok_letter"};
 static const DWORD kSteamVa[I_COUNT] = {
     0x488780, 0x48c070, 0x409b30, 0x489c70, 0x6b52ec, 0x6b52f0, 0x6b52e8, 0x6b4edc,
     0x488600, 0x40a8a0, 0x5e9050,
-    0x6b52e4, 0x5e809c, 0x5e80f8, 0x4caaf5, 0x483ddc, 0x483de8, 0x5cb85c};
+    0x6b52e4, 0x5e809c, 0x5e80f8, 0x4caaf5, 0x483ddc, 0x483de8, 0x5cb85c,
+    0x4727a9, 0x4727ae, 0x4727cb, 0x4727ed};
 static DWORD g_va[I_COUNT]; // found addresses (0 = not found)
 
 #define A_DRAW_TEXT_RECT g_va[I_DRAW_TEXT] /* replaced: cdecl (port, rect, str, mode, font code, r, g, b) */
@@ -547,6 +549,8 @@ static void draw_line(const BYTE *font, Unit *u, int n, int x, int y, int r, int
 #define MAX_UNITS 4096
 static Unit g_units[MAX_UNITS];
 
+static int g_trace; // [debug] trace=N: log the next N draw_text calls
+
 static void __cdecl my_draw_text(void *port, DWORD ra, DWORD rb, const char *str, int mode, int code, int r, int g, int b)
 {
     short rect[4]; // top, left, bottom, right
@@ -566,6 +570,28 @@ static void __cdecl my_draw_text(void *port, DWORD ra, DWORD rb, const char *str
     rect[2] = (short)(rb & 0xffff);
     rect[3] = (short)(rb >> 16);
 
+    if (g_trace > 0 && str)
+    {
+        // log each distinct text once (screens redraw every frame)
+        static DWORD seen[8192];
+        DWORD h = 2166136261u, slot;
+        const unsigned char *q;
+        for (q = (const unsigned char *)str; *q; q++)
+            h = (h ^ *q) * 16777619u;
+        h ^= (DWORD)mode * 31u + (DWORD)code;
+        if (!h)
+            h = 1;
+        slot = h & 8191;
+        while (seen[slot] && seen[slot] != h)
+            slot = (slot + 1) & 8191;
+        if (seen[slot] == h)
+            goto traced;
+        seen[slot] = h;
+        g_trace--;
+        jp_log("draw_text port=%p rect=%d,%d,%d,%d mode=%d code=%d rgb=%d,%d,%d len=%u \"%.48s\"\n", port, rect[0],
+               rect[1], rect[2], rect[3], mode, code, r, g, b, (unsigned)strlen(str), str);
+    }
+traced:
     if (!str || !*str)
         return;
     if (strstr(str, "[N]") && strlen(str) < 0x300)
@@ -1106,9 +1132,56 @@ HRESULT WINAPI DirectSoundCreate(const GUID *dev, void **out, void *outer)
 }
 
 // ---------------------------------------------------------------- script token estimate
-// Avadon 1 needed a fix of the token count estimate of the script loader (a 16-bit count
-// that overflowed with Japanese strings). Avadon 3 counts in 32 bits (0x4726a0), so the
-// fix is not needed.
+// Before tokenizing a script, 0x4726a0 estimates the token count. It counts every byte that
+// is not a digit, letter, '_' or blank as its own token -- also inside string literals -- so
+// each byte of a Japanese character adds one. The estimate itself is 32-bit, but a script
+// whose estimate passes 32767 is not loaded (all its strings come out empty; the intro
+// slides of textplot.txt went blank at 32904). The real token count does not change (a
+// literal is one token), so classify bytes >= 0x80 like letters, as in the Avadon 1 patch.
+//   0x4727a5: movsx eax,byte [ecx+edx] / cmp eax,30h / jl 4727cb  (0x4727a9 -> jmp tok_class_stub)
+//   0x4727ae: next test (digit 39h), 0x4727cb: not a digit, 0x4727ed: class 1 (letter)
+#define A_TOKCLASS g_va[I_TOKCLASS]
+static const BYTE kTokClassOrig[5] = {0x83, 0xF8, 0x30, 0x7C, 0x1D};
+static DWORD g_tokDigit, g_tokOther, g_tokLetter;
+
+__declspec(naked) static void tok_class_stub(void)
+{
+    __asm {
+        test eax, eax
+        js letter
+        cmp eax, 0x30
+        jl other
+        jmp dword ptr [g_tokDigit]
+    other:
+        jmp dword ptr [g_tokOther]
+    letter:
+        jmp dword ptr [g_tokLetter]
+    }
+}
+
+static void install_token_estimate_fix(void)
+{
+    BYTE *p;
+    DWORD old;
+    if (!A_TOKCLASS)
+        return;
+    p = (BYTE *)VA(A_TOKCLASS);
+    if (memcmp(p, kTokClassOrig, sizeof kTokClassOrig) != 0)
+    {
+        jp_log("token estimate fix skipped: unexpected bytes at %06x\n", A_TOKCLASS);
+        return;
+    }
+    g_tokDigit = (DWORD)VA(g_va[I_TOK_DIGIT]);
+    g_tokOther = (DWORD)VA(g_va[I_TOK_OTHER]);
+    g_tokLetter = (DWORD)VA(g_va[I_TOK_LETTER]);
+    VirtualProtect(p, 5, PAGE_EXECUTE_READWRITE, &old);
+    p[0] = 0xE9;
+    *(DWORD *)(p + 1) = (DWORD)tok_class_stub - (DWORD)(p + 5);
+    VirtualProtect(p, 5, old, &old);
+    FlushInstructionCache(GetCurrentProcess(), p, 5);
+    jp_log("token estimate fix installed\n");
+}
+
 
 // ---------------------------------------------------------------- print_named_str
 // The script command print_named_str(who, "text") builds the message with
@@ -1712,8 +1785,10 @@ static const Pattern kPatterns[] = {
      "55 8B EC 81 EC 30 04 00 00 A1 ?? ?? ?? ?? 33 C5 89 45 FC 33 C0 66 89 85 E8 FB FF FF 8B 4D 08 89 8D DC FB FF FF 8B 95 DC FB FF FF 83 C2 01 89 95 D8 FB FF FF 8B 85 DC FB FF FF 8A 08 88 8D D7 FB FF FF 83 85 DC FB FF FF 01 80 BD D7 FB FF FF 00 75 E2 8B 95 DC FB FF FF 2B 95 D8 FB FF FF 89 95 D0 FB FF FF 66 8B 85 D0 FB FF FF 66 89 85 EC FB FF FF 33 C9 66 89 8D E4 FB FF FF EB 12 66 8B 95 E4 FB FF FF 66 83 C2 01 66 89 95 E4 FB FF FF 0F BF 85 E4 FB FF FF 3D 01 02 00 00 7D 13 0F BF 8D E4 FB FF FF 33 D2 66 89 94 4D F0 FB FF FF EB CD 68 ?? ?? ?? ?? E8 ?? ?? ?? ?? 83 C4 04 8D 85 F0 FB FF FF 50 8B 4D 08 51 68 00 02 00 00 E8 ?? ?? ?? ??"},
     {"named_str", NULL, 0x483dc8,
      "0F BF 95 BC FD FF FF 69 D2 B0 1A 00 00 81 C2 ?? ?? ?? ?? 52 68 ?? ?? ?? ?? 8D 85 08 FC FF FF 50 E8 ?? ?? ?? ??"},
+    {"tok_class", NULL, 0x4727a5,
+     "0F BE 04 11 83 F8 30 7C 1D 8B 4D E4 8B 11 8B 45 EC 0F BE 0C 02 83 F9 39 7F 0C C7 45 F4 02 00 00 00 E9 ?? ?? ?? ?? 8B 55 E4 8B 02 8B 4D EC 0F BE 14 08 83 FA 61 7C 1A 8B 45 E4 8B 08 8B 55 EC 0F BE 04 11 83 F8 7A 7F 09 C7 45 F4 01 00 00 00 EB 5D"},
 };
-enum { P_DRAW_TEXT, P_FONT_SELECT, P_DRAW_ASCII, P_CHARMAP, P_ASCII_BLIT, P_BIND_TEX, P_STR_WIDTH, P_NAMED_STR, P_COUNT };
+enum { P_DRAW_TEXT, P_FONT_SELECT, P_DRAW_ASCII, P_CHARMAP, P_ASCII_BLIT, P_BIND_TEX, P_STR_WIDTH, P_NAMED_STR, P_TOK_CLASS, P_COUNT };
 
 static BYTE *g_textStart, *g_textEnd;
 
@@ -1810,7 +1885,7 @@ static int resolve_addresses(int forceScan)
     for (i = 0; i < P_COUNT; i++)
     {
         m[i] = find_pattern(i, m, forceScan, &viaScan);
-        if (forceScan == 2 && i == P_NAMED_STR - 1)
+        if (forceScan == 2 && i == P_TOK_CLASS)
             m[i] = NULL; // [debug] force_scan=2: pretend one is missing (tests the fall-back to English)
         scanned += viaScan;
         if (!m[i])
@@ -1866,6 +1941,13 @@ static int resolve_addresses(int forceScan)
         g_va[I_NAMED_CALL] = unreloc((DWORD)(m[P_NAMED_STR] + 0x20));
         g_va[I_SPRINTF] = call_at(m[P_NAMED_STR] + 0x21);
     }
+    if (m[P_TOK_CLASS])
+    {
+        g_va[I_TOKCLASS] = unreloc((DWORD)(m[P_TOK_CLASS] + 4));
+        g_va[I_TOK_DIGIT] = unreloc((DWORD)(m[P_TOK_CLASS] + 9));
+        g_va[I_TOK_OTHER] = unreloc((DWORD)(m[P_TOK_CLASS] + 0x26));
+        g_va[I_TOK_LETTER] = unreloc((DWORD)(m[P_TOK_CLASS] + 0x48));
+    }
 
     {
         int same = 1;
@@ -1911,6 +1993,7 @@ BOOL WINAPI DllMain(HINSTANCE inst, DWORD reason, LPVOID reserved)
         jp_log("Avadon 3 JP hook loaded. base=%p face=%s\n", g_base, g_fontFace);
         _snprintf(path, sizeof path, "%s\\avadon3_jp.ini", dir);
         g_forceScan = GetPrivateProfileIntA("debug", "force_scan", 0, path);
+        g_trace = GetPrivateProfileIntA("debug", "trace", 0, path);
         if (!resolve_addresses(g_forceScan))
         {
             jp_log("this Avadon 3.exe is not supported: Japanese is turned off and the game runs unchanged\n");
@@ -1920,6 +2003,7 @@ BOOL WINAPI DllMain(HINSTANCE inst, DWORD reason, LPVOID reserved)
         _snprintf(path, sizeof path, "%s\\avadon3_jp_exe.tsv", data);
         load_exe_strings(GetFileAttributesA(path) != INVALID_FILE_ATTRIBUTES ? data : dir);
         prepare_redirects(dir, data);
+        install_token_estimate_fix();
         install_named_str_fix();
         install_msgbox_hook();
     }
