@@ -549,7 +549,10 @@ static void draw_line(const BYTE *font, Unit *u, int n, int x, int y, int r, int
 #define MAX_UNITS 4096
 static Unit g_units[MAX_UNITS];
 
+#ifdef AVJP_TEST
+// 試験版だけ
 static int g_trace; // [debug] trace=N: log the next N draw_text calls
+#endif
 
 static void __cdecl my_draw_text(void *port, DWORD ra, DWORD rb, const char *str, int mode, int code, int r, int g, int b)
 {
@@ -570,6 +573,7 @@ static void __cdecl my_draw_text(void *port, DWORD ra, DWORD rb, const char *str
     rect[2] = (short)(rb & 0xffff);
     rect[3] = (short)(rb >> 16);
 
+#ifdef AVJP_TEST
     if (g_trace > 0 && str)
     {
         // log each distinct text once (screens redraw every frame)
@@ -592,6 +596,7 @@ static void __cdecl my_draw_text(void *port, DWORD ra, DWORD rb, const char *str
                rect[1], rect[2], rect[3], mode, code, r, g, b, (unsigned)strlen(str), str);
     }
 traced:
+#endif
     if (!str || !*str)
         return;
     if (strstr(str, "[N]") && strlen(str) < 0x300)
@@ -1885,8 +1890,10 @@ static int resolve_addresses(int forceScan)
     for (i = 0; i < P_COUNT; i++)
     {
         m[i] = find_pattern(i, m, forceScan, &viaScan);
+#ifdef AVJP_TEST
         if (forceScan == 2 && i == P_TOK_CLASS)
             m[i] = NULL; // [debug] force_scan=2: pretend one is missing (tests the fall-back to English)
+#endif
         scanned += viaScan;
         if (!m[i])
             jp_log("not found in this Avadon 3.exe: %s\n", kPatterns[i].name);
@@ -1992,8 +1999,11 @@ BOOL WINAPI DllMain(HINSTANCE inst, DWORD reason, LPVOID reserved)
         g_base = (BYTE *)GetModuleHandleA(NULL);
         jp_log("Avadon 3 JP hook loaded. base=%p face=%s\n", g_base, g_fontFace);
         _snprintf(path, sizeof path, "%s\\avadon3_jp.ini", dir);
+#ifdef AVJP_TEST
+        // 試験版（build.bat test）だけ: [debug] force_scan=1 で探索を強制、=2 で 1 つ見つからないふりをする。trace=N で draw_text を N 件ログに書く
         g_forceScan = GetPrivateProfileIntA("debug", "force_scan", 0, path);
         g_trace = GetPrivateProfileIntA("debug", "trace", 0, path);
+#endif
         if (!resolve_addresses(g_forceScan))
         {
             jp_log("this Avadon 3.exe is not supported: Japanese is turned off and the game runs unchanged\n");
